@@ -1,0 +1,1000 @@
+? Qanday operatsion tizimlar multiprogrammali deyiladi?
++ bir vaqtning o'zida bir nechta dasturlarni ishga tushirishni ta’minlaydigan
+- bir nechta foydalanuvchilarning bir vaqtda ishini ta'minlaydigan
+- tarmoqli kompyuterlarni qo'llab-quvvatlaydigan
+- bir nechta dasturlardan iborat
+? Tizim yadrosini amalga oshirish usullari qanday?
++ mikroyadroli
+- bir darajali
+- taqsimlangan amalga oshirish
+- o‘xshash
+? Hozirgi kunda qaysi turdagi operatsion tizimlar ko‘proq qo‘llaniladi?
++ Windows oilasining operatsion tizimlari
+- Unix oilasi operatsion tizimlari
+- MS DOS oilasining operatsion tizimlari
+- IBM OS 360/370 oilasining operatsion tizimlari
+? Serverlarda qo‘llaniladigan operatsion tizimlar o‘rtasidagi joriy nisbat qanday?
++ Windows va Unix/Linux tizimlari taxminan teng ishlatiladi
+- taxminan 10% - Windows oilasi tizimlari, taxminan 90% - Unix/Linux oilasi tizimlari
+- taxminan 90% - Windows oilasi tizimlari, taxminan 10% - Unix/Linux oilasi tizimlari
+- taxminan 30% - Windows oilasi tizimlari, taxminan 30% - Unix/Linux oilasi tizimlari, taxminan 40% - boshqa tizimlar
+? “Operatsion tizim yadrosi” tushunchasi haqidagi qaysi fikrlar to‘g‘ri?
++ yadro OT ning eng muhim funksiyalarini amalga oshiradi
+- yadro tartiblari protsessorning imtiyozli rejimida bajarilmaydi
+- murakkab operatsion tizimlardagi yadro ko'p darajali prinsipi asosida tuzilishi mumkin
+- yadro har doim apparatda amalga oshiriladi
+? “Xabar” tushunchasi nima?
++ foydalanuvchi bilan sodir bo‘lgan voqea haqidagi ma’lumotlarni ko‘rsatadigan kichik oyna
+- ayrim hodisa haqidagi ma'lumotlarni o'z ichiga olgan kichik ma'lumotlar strukturasi
+- hodisa sodir bo'lganda tizim tomonidan chaqiriladigan maxsus API funksiyasi
+- ro‘y bergan hodisaning kodi bilan bir baytli maydon
+? Ichki uzilishning paydo bo‘lishiga nima sabab bo'lishi mumkin?
++ nolga bo'lishga harakat qilish
+- taqiqlangan buyruqni bajarishga urinish
+- manzil bilan bog'lanishga harakat qilish
+- sichqonchani bosish
+? Kiritish/chiqarish quyi tizimining dasturiy ta’minoti darajasiga nimalar kiradi?
++ drayverlar
+- kiritish/chiqarish menejeri
+- tizim dasturlari
+- kontrollerlar
+? “Kiritish/chiqarish porti” tushunchasini nima belgilaydi?
++ nazoratchi registrining tartib raqami yoki manzili
+- mashina buyrug'ini kiritish/chiqarish
+- kiritish/chiqarish qurilmasi
+- kontroller
+? Qurilma boshqaruvchisi registrlari qanday ma'lumotlarni o‘z ichiga olishi mumkin?
++ qurilmaning joriy holati
+- hozirda ishlayotgan dastur
+- qurilmadan tizimga uzatiladigan ma’lumotlar
+- tizim tomonidan qurilmaga uzatiladigan ma’lumotlar
+? Operatsion tizmga bo‘ladigan odatiy hujumlar qaysi javobda to‘g‘ri ko‘rsatilgan?
++ Vakolatni oshirish, keraksiz fayllarni yig’ish
+- Parolni terish, XSS
+- Ma’lumotni o’g’irlash, SQL injection
+- Fayl tizimini skanerlash, XSS
+? Vakolatni oshirish bu?
++ Boshqa foydalanuvchi nomidan dasturni ishga tushurish
+- Keraksiz axborotni qayta tiklash
+- Kompyuter fayl tizimi ko’rib chiqiladi va barcha fayllar o’qishga uriniladi
+- Maxsus dastur yordamida parolni terib ko’rish
+? Xizmatdan voz kechish sifatidagi hujumlar safiga kirgan qiyin so’rovlarni yuborish bu?
++ Dastur bajarilishi uchun katta kompyuter resurslarini talab qiladigan OT so’rovlarini cheksiz sikli
+- Dastur mumkin bo’lgan barcha resurslarni qo’lga oladi
+- Dastur bema’no so’rovlar siklini jo’natadi
+- Ma’lum DT xatoliklardan foydalanish
+? Boshqaruv choralari bu?
++ Axborot xavfsizligini ta’minlash uchun tashkilot yoki korxona rahbari tomonidan qo’llaniladigan harakatladir
+- Qonunlar, hukumat qarorlari va prezident farmoyishlari, axborotni qayta ishlash va foydalanishda cheklangan ruxsat qoidalari bilan reglamentlanuvchi me’yoriy aktlar va standartlar
+- Dasturlarni ruxsatsiz nusxalashga qarshi kurashda asosan tarbiyaviy ahamiyatdagi choralar foydalanilishi
+- Insonlar ongiga boshqalarni axborot resurslaribu konfedensialligi, butunliligi va foydalanuvchanligini buzishga urinishlarni axloqsizlik ekanligini singdirilishi
+? Fizik choralar bu?
++ Apparaturani mo’ljallangan sohasi boyicha mosligini va “bug” yo’qligiga tekshirish
+- Axborot xavfsizligini ta’minlash uchun tashkilot yoki korxona rahbari tomonidan qo’llaniladigan harakatlardir
+- Qonunlar, hukumat qarorlari va prezident farmoyishlari, axborotni qayta ishlash va foydalanishda cheklangan ruxsat qoidalari bilan reglamentlanuvchi me’yoriy aktlar va standartlar
+- Dasturlarni ruxsatsiz nusxalashga qarshi kurashda asosan tarbiyaviy ahamiyatdagi choralar foydalanilishi
+? Tahdidlarni OT ga ta’sir qilish tamoyiliga ko’ra sinfi - ….
++ Axborotni olishni yashirin kanallaridan foydalanish
+- Ruxsatsiz axborotni o’zgartirish
+- Ruxsatsiz axborotni yo’q qilish
+- OT to‘liq yoki qisman buzish
+? Tahdidlarni OT ta’sir xarakteri bo’yicha sinfi - ....
++ Faol tas’ir – buzg’unchini tizimdagi ruxsatsiz harakati
+- Ruxsatsiz axborotni o’zgartirish
+- Ruxsatsiz axborotni yo’q qilish
+- OT to’liq yoki qisman buzish
+? Tahdidlarni buzg’unchi tomonidan tizim zaifliklaridan foydalanish toifasi bo’yicha sinfi - .....
++ Noadekvat xavfsizlik siyosati, tizim ma’muri xatolari
+- Faol tas’ir – buzg’unchini tizimdagi ruxsatsiz harakati
+- Ruxsatsiz axborotni o’zgartirish
+- Ruxsatsiz axborotni yo’q qilish
+? Hujum obyektiga ta’sir qilish usuli bo’yicha tahdidlar sinfi - ….
++ Foydalanuvchi vakolatlarini oshirish
+- Faol tas’ir – buzg’unchini tizimdagi ruxsatsiz harakati
+- Ruxsatsiz axborotni o’zgartirish
+- Ruxsatsiz axborotni yo’q qilish
+? Buzg’unchi harakatlarini yo’li bo’yicha tashdidni sinfi - ….
++ Paket rejimi (maxsus yozilgan dasturlar yordamida)
+- Boshqa foydalanuvchi ishi natijalaridan foydalanish
+- Bevosita ta’sir
+- Foydalanuvchi vakolatlarini oshirish
+? Hujum vositalaridan foydalanilishi bo’yicha tahdidlar sinfi - ...
++ Maxsus ishlab chiqilgan DT
+- Butun OT
+- OT subyektlari
+- OT obyektlari
+? Xavfsizlik siyosati – bu?
++ Qimmatli axborotni saqlash, qayta ishlash va yuborishni nazoratlovchi amaliy usullar, qoidalar va me’yorlar to’plamidir.
+- Apparaturani mo’ljallangan sohasi boyicha mosligini va “bug” yo’qligiga tekshirish
+- Tashqi kuzatuv vositalari, alohida bloklarga ruxsat cheklovchi qurilmalar, turli qulflar va boshqa qurilmalar yo’qligiga tekshirish
+- Axborot xavfsizligini ta’minlash uchun tashkilot yoki korxona rahbari tomonidan qo’llaniladigan harakatladir
+? Tahdidlar necha turga bo’linadi?
++ 2
+- 1
+- 3
+- 4
+? Maqsadiga ko’ra tahdidlar sinflashtirishga nima kiradi?
++ Ruxsatsiz axborotni yo’q qilish
+- Apparaturani mo’ljallangan sohasi boyicha mosligini va “bug” yo’qligiga tekshirish
+- Tashqi kuzatuv vositalari, alohida bloklarga ruxsat cheklovchi qurilmalar, turli qulflar va boshqa qurilmalar yo’qligiga tekshirish
+- Xonani nurlanishdan himoyalash uchun ekranlastirish
+? Tahdidlarni OT ta’sir xarakteri bo’yicha sinflashtirish necha turda bo’ladi?
++ 2
+- 1
+- 3
+- 4
+? Xotira boshqaruvi – bu?
++ Tizimni umumiy samaradorligini optimizatsiyasi uchun ishga tushurilgan turli dasturlartomonidan bloklar kabi ma’lum bo’lgan qismlarning belgilash, kompyuter xotirasini koordinatsiyasi va jarayonlar boshqaruvi
+- Inventar bo’sh bo’lganda yoki taqsimlanmaganda har doim kuzatadi. Status u bo’yicha yangilanishi
+- Xotira to’liq foydalanilishi uchun dasturlarni xotiraga joylanishi
+- Ilovalar bir-biriga xalaqit qilmasligi
+? Xotira boshqaruvidan foydalanish sabablari necha turga bo’linadi?
++ 3
+- 2
+- 1
+- 5
+? Xotirani boshqarish usullari necha turga bo’linadi?
++ 4
+- 3
+- 5
+- 1
+? Almashinuv bu?
++ bu jarayon vaqtinchalik asosiy xotiradan zahira omboriga o’tkazilishi kerak bo’lgan usuldir
+- bu barcha foydalanuvchilar uchun xotirani barcha obrazlarini nusxalarini joylashtirish uchun yetarlicha katta hajmda bo’lishi kerak bo’lgan qattiq disk yoki boshqa yordamchi xotira qurilmasi
+- inventar bo’sh bo’lganda yoki taqsimlanmaganda har doim kuzatilishi
+- bu tizimni umumiy samaradorligini optimizatsiyasi uchun ishga tushurilgan turli dasturlartomonidan bloklar kabi ma’lum bo’lgan qismlarning belgilash, kompyuter xotirasini koordinatsiyasi va jarayonlar boshqaruvidir
+? Zahira ombori bu?
++ bu barcha foydalanuvchilar uchun xotirani barcha obrazlarini nusxalarini joylashtirish uchun yetarlicha katta hajmda bo’lishi kerak bo’lgan qattiq disk yoki boshqa yordamchi xotira qurilmasi
+- bu jarayon vaqtinchalik asosiy xotiradan zahira omboriga o’tkazilishi kerak bo’lgan usuldir
+- inventar bo’sh bo’lganda yoki taqsimlanmaganda har doim kuzatadi. Status u bo’yicha yangilanadi
+- bu tizimni umumiy samaradorligini optimizatsiyasi uchun ishga tushurilgan turli dasturlartomonidan bloklar kabi ma’lum bo’lgan qismlarning belgilash, kompyuter xotirasini koordinatsiyasi va jarayonlar boshqaruvidir
+? Xotira taqsimoti – bu?
++ kompyuter dasturlari tomonidan xotira yoki muhitni ajratish jarayonidir
+- foydalanuvchi jarayonlari yuqori xotirda saqlanadi
+- bu xotiradan yaxshi foydalanish imkoniyatini beradi
+- ish yakunlashida prosessor vaqtini yo’qotilishi minimal, shu sababli uni osongina samaradorlikni oshirish uchun asosiy ustunliklarga rejalshtirish usuliga qo’llash mumkin
+? High Memory - bu?
++ foydalanuvchi jarayonlari yuqori xotirda saqlanadi
+- kompyuter dasturlari tomonidan xotira yoki muhitni ajratish jarayonidir
+- bu xotiradan yaxshi foydalanish imkoniyatini beradi
+- ish yakunlashida prosessor vaqtini yo’qotilishi minimal, shu sababli uni osongina samaradorlikni oshirish uchun asosiy ustunliklarga rejalshtirish usuliga qo’llash mumkin
+? Fragmentatsiya necha turga bo’linadi?
++ 2
+- 1
+- 5
+- 6
+? Bo’limlarni bo’lish necha to’rga bo’linadi?
++ 4
+- 5
+- 2
+- 9
+? Peyjing – bu?
++ OT ga jarayonlarni ikkilamchi ombordan ajratib shaifa ko’rinishida asosiy xotiraga ko’cherish imkoniyatini beradigan saqlash mexanizmidir
+- Bo’sh bo’limlar orasida birinchi eng kam bo’lim hisoblanib, bo’lim bo’yicha jarayonlar taqsimlash
+- Asosiy xotirada yetarlicha bo’sh bo’lgan bo’lim hisoblangan bo’lim bo’yicha jarayonni taqsimlash
+- Barcha bo’sh xotirani bitta blokga joylashtirish uchun xotira tarkibini tartiblab kamaytirish mumkin
+? Bog’lash – bu?
++ OT ga turli kod modullarni va ma’lumotlarni yagona bajariluvchi faylga yig’ib birlashtirishga yordam beradigan usul
+- Dasturiy segment o’z ichiga dastur funksiyasini, ma’lumot tuzilmasi, xizmat funksiyasi va shu kabilarni oladi
+- Bu OT ga jarayonlarni ikkilamchi ombordan ajratib shaifa ko’rinishida asosiy xotiraga ko’cherish imkoniyatini beradigan saqlash mexanizmidir
+- Bo’sh bo’limlar orasida birinchi eng kam bo’lim hisoblanib, bo’lim bo’yicha jarayonlar taqsimlash
+? Necha xil yuklanishlar bor?
++ 2
+- 5
+- 7
+- 1
+? Bog’lanishlar necha xil bo’ladi?
++ 2
+- 5
+- 7
+- 1
+? Best Fit - bu?
++ Bo’sh bo’limlar orasida birinchi eng kam bo’lim hisoblanib, bo’lim bo’yicha jarayonlar taqsimlanishi
+- Asosiy xotirada yetarlicha bo’sh bo’lgan bo’lim hisoblangan bo’lim bo’yicha jarayonni taqsimlanishi
+- Ko’p hollarda birinchi bo’lishga o’xshaydi, biroq bu bo’lish oxirgi joylashuv nuqtasidan birinchi bo’limni qidirilishi
+- Bunda asosiy xotira boshlanishidan birinchi blok bo’lim ajratilishi
+? Keyingi bo’lish - bu?
++ Ko’p hollarda birinchi bo’lishga o’xshaydi, biroq bu bo’lish oxirgi joylashuv nuqtasidan birinchi bo’limni qidiradi
+- Asosiy xotirada yetarlicha bo’sh bo’lgan bo’lim hisoblangan bo’lim bo’yicha jarayonni taqsimlaydi
+- Bo’sh bo’limlar orasida birinchi eng kam bo’lim hisoblanib, bo’lim bo’yicha jarayonlar taqsimlanadi
+- Bunda asosiy xotira boshlanishidan birinchi blok bo’lim ajratiladi
+? Audit bu –
++ to‘plangan ma'lumotlarning tezkor, real vaqt rejimida yoki davriy ravishda amalga oshiriladigan tahlili
+- to’plangan ma'lumotlarning ruxsatsiz foydalanilishidan oldini olish
+- to’plangan ma’lumotlarning tahlili va xavfsizligini ta’minlash
+- hodisalar ketma-ketligini qayta qurish imkoniyatini ta'minlash
+? Auditni amalga oshirish quyidagi vazifalarni hal qiladi?
++ hodisalar ketma-ketligini qayta qurish imkoniyatini ta'minlash
+- ma’lumot o’g’irlanishini oldini olish
+- aktivlarni boshqarish
+- foydalanuvchilar xavfsizligini ta'minlash
+? Auditda voqeani qayd qilishda qaysi ma’lumotlar yozib olish talab etiladi?
++ foydalanuvchilarning yagona identifikatori
+- foydalanuvchilarning shaxsiy ma’lumotlari
+- vaqt ishlanmalari
+- sana ishlanmalari
+? Voqealarning ketma-ketligini qayta tiklash qanday imkoniyat yaratadi?
++ normal ishlashga qaytish imkonini beradi
+- insidentlarni aniqlash
+- xavfsizlikni oshiradi
+- xavfsizlikni buzilishi oldini oladi
+? Monitoring bu -
++ parallellikni tashkil qilish mexanizmi bo'lib, unda kerakli ma'lumotlar va protseduralar mavjud
+- tizimni xavfsizligini ta’minlash
+- foydalanuvchilarni ro’yxatga olish
+- ma’lumotlarning statistikasi
+? Protokol vazifasi nima?
++ ikki yoki undan ortiq kompyuterlar o’rtasida ma’lumot almashinishinuvida yordam beradigan vazifalar to’plami
+- xavfsiz tarmoq qurish
+- insidentlarni aniqlash
+- parollarni boshqarish
+? Tarmoqlararo ekranning asosiy vazifasi nimadan iborat?
++ Kompyuterni internetga ulanganida zararli dasturlaridan himoya
+- Ma’lumotlarning xavfsizligini ta’minlash
+- Ruxsatsiz foydalanishdan oldini olish
+- Xavfsiz tarmoqni qurishda
+? Auditni asosiy vazifasi nimadan iborat?
++ Tizimning umumiy tahlili va kamchiliklarni bartaraf etishdan
+- Xavfsizlikdagi kamchiliklarni aniqlashdan
+- Insidentni aniqlash va ularni oldini olish
+- Ma’lumotlar bazasini shakllantirish
+? Faol auditning vazifasi nimadan iborat?
++ Shubhali faoliyatni aniqlash va unga javob berish
+- Xavfsizlikni nazorat qilish
+- Ma’lumotlarni o’g’irlanishidan oldini olish
+- Zaiflikni aniqlash
+? Statistik yondashuvning asosiy afzalliklari qaysi?
++ qarorlarning ko'p qirraliligi va asosliligi
+- kam sonli xatolar
+- xavfsizlik yuqori
+- xatolar yo’q
+? Mavjud dasturiy ta'minotni himoya qilish tizimlarini qaysi xususiyatlarga ko'ra tasniflash mumkin.
++ O‘rnatish usuli, ishlash prinsipi va foydalanilgan himoya mexanizmlari
+- Qo’llanish sohasi va algoritmi
+- Dasturlash tili, operatsion tizimi va algoritmi
+- Ishlash prinsipi, qo’llanish sohasi va dasturlash tili
+? O’rnatish usuli bo'yicha dasturiy ta'minotni himoya qilish tizimlarini qanday turlarga bo’linadi?
++ Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar, kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan tizimlar va kombinatsiyalangan tizimlar
+- Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar va kompilyatsiya qilinmaydigan dasturiy modullarga o'rnatilgan tizimlar
+- Kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan tizimlar va birlashtirilgan tizimlar
+- Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar, kompilyatsiya qilinmaydigan dasturiy modullarga o'rnatilgan tizimlar va birlashtirilgan tizimlar
+? Dasturiy ta'minot ishlab chiqaruvchisi uchun eng qulay hisoblanadi, chunki u allaqachon to'liq tayyor va sertifikatlangan dasturiy ta'minotni himoya qilish oson va shuning uchun eng mashhur hisoblanadi. Shu bilan birga, ushbu tizimlarning chidamliligi ancha past. Bu qaysi dasturiy ta'minotni himoya qilish tizimlariga berilgan ta’rif.
++ Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar
+- Kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan tizimlar
+- Kombinatsiyalangan tizimlar
+- Kompilyatsiya qilinmaydigan dasturiy modullarga o'rnatilgan tizimlar
+? Dasturiy ta'minot ishlab chiqaruvchisi uchun noqulaydir, chunki xodimlarni himoya tizimining dasturiy interfeysi (API) bilan ishlashga o'rgatish kerak bo'ladi, natijada pul va vaqt sarflanadi. Bu qaysi dasturiy ta'minotni himoya qilish tizimlariga berilgan ta’rif.
++ Kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan tizimlar
+- Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar
+- Kombinatsiyalangan tizimlar
+- Kompilyatsiya qilinmaydigan dasturiy modullarga o'rnatilgan tizimlar
+? Eng mustahkamlari …. himoya tizimlaridir. Kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan tizimlarning afzalliklari va kamchiliklarini saqlab qolgan holda, ular algoritmlarini tahlil qilish va o'chirishni iloji boricha qiyinlashtiradi. Nuqtalar o’rniga kerakli javobni belgilang.
++ Kombinatsiyalangan
+- Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan
+- Kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan
+- Kompilyatsiya qilinmaydigan dasturiy modullarga o'rnatilgan
+? Himoya mexanizmlariga ko'ra, dasturiy ta'minotni himoya qilish tizimlari qanday turlarga bo’linadi?
++ Murakkab mantiqiy mexanizmlardan foydalanadigan tizimlar, himoyalangan dasturiy ta'minotni shifrlashdan foydalanadigan tizimlar va kombinatsiyalangan tizimlar
+- Himoyalangan dasturiy ta'minotni shifrlashdan foydalanadigan tizimlar va birlashgan tizimlar
+- Murakkab mantiqiy mexanizmlardan foydalanadigan tizimlar, himoyalangan dasturiy ta'minotni shifrlashdan foydalanadigan tizimlar
+- Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar, kompilyatsiya qilishdan oldin dasturiy ta'minotning manba kodiga kiritilgan tizimlar va kombinatsiyalangan tizimlar
+? Ushbu turdagi tizimni himoyalash hujumlarga eng kam chidamli hisoblanadi, chunki himoyani yengib o'tish uchun tekshirish protseduralarining mantiqini tahlil qilish va ularni mos ravishda o'zgartirish kifoya. Himoya mexanizmi turini toping?
++ Murakkab mantiqiy mexanizmlardan foydalanadigan tizimlar
+- Himoyalangan dasturiy ta'minotni shifrlashdan foydalanadigan tizimlar
+- Kombinatsiyalangan tizimlar
+- Kompilyatsiya qilingan dasturiy modullarga o'rnatilgan tizimlar
+? ……... kodning turli qismlariga xaotik o'tishlar qo'llaniladi, noto'g'ri protseduralar, bo'sh davrlar, dasturiy ta'minot protseduralarining haqiqiy parametrlari sonining buzilishi, RAMning turli sohalarida kod bo'limlarining tarqalishi va boshqalar. Nuqtalar o’rniga kerakli javobni belgilang.
++ Сhalkashlik (Obfuscation) algoritmlari
+- Mutatsiya algoritmlari
+- Ma'lumotlarni siqish algoritmlari
+- Ma'lumotlarni shifrlash algoritmlari
+? …….. sinonim operandlarning moslik jadvallari ma'lum sxema bo'yicha yoki dastur tuzilmasidagi tasodifiy o'zgarishlar bo'yicha har bir dastur ishga tushganda tuziladi va bir-biri bilan almashtiriladi. Nuqtalar o’rniga kerakli javobni belgilang.
++ Mutatsiya algoritmlari
+- Сhalkashlik (Obfuscation) algoritmlari
+- Ma'lumotlarni siqish algoritmlari
+- Ma'lumotlarni shifrlash algoritmlari
+? …..…. dastur paketga joylashtiriladi, bajarilayotganda esa ochiladi. Nuqtalar o’rniga kerakli javobni belgilang.
++ Ma'lumotlarni siqish algoritmlari
+- Сhalkashlik (Obfuscation) algoritmlari
+- Mutatsiya algoritmlari
+- Ma'lumotlarni shifrlash algoritmlari
+? … dastur shifrlanadi va bajarilayotganda deshifrlanadi. Nuqtalar o’rniga kerakli javobni belgilang.
++ Ma'lumotlarni shifrlash algoritmlari
+- Сhalkashlik (Obfuscation) algoritmlari
+- Mutatsiya algoritmlari
+- Ma'lumotlarni siqish algoritmlari
+? ……… himoya tizimining modullari OT protseduralarini chetlab o'tib, kompyuter texnikasiga murojaat qiladi va kam ma'lum yoki hujjatlashtirilmagan imkoniyatlardan foydalanadi. Nuqtalar o’rniga kerakli javobni belgilang.
++ Texnik vositalar bilan ishlashning nostandart usullari
+- Сhalkashlik (Obfuscation) algoritmlari
+- Mutatsiya algoritmlari
+- Ma'lumotlarni shifrlash algoritmlari
+? Funksional prinsipiga ko'ra himoya tizimlarini qanday turlarga bo'lish mumkin?
++ Paketlovchilar/shifrlovchi, ruxsatsiz nusxa ko'chirishdan himoya tizimlari va ruxsatsiz kirishdan himoya tizimlari
+- Paketlovchilar va shifrlovchilar
+- Ruxsatsiz nusxa ko'chirishdan himoya tizimlari, parolni buzishdan himoya tizimlari va ruxsatsiz kirishdan himoya tizimlari
+- Parolni buzishdan himoya tizimlari va Paketlovchilar/shifrlovchi
+? Paketlovchilar/shifrlovchi himoya tizimlarining ijobiy tomoni keltirilgan javobni belgilang?
++ Xavfsiz foydalanish muddati doirasida ushbu tizimlar uning algoritmlarini tahlil qilishdan yuqori darajadagi dasturiy himoyani ta'minlaydi
+- Dasturiy kodning bajarilishini tezlashtiradi
+- Xatoliklarni(bugfix) osonlik bilan tuzatsa bo’ladi
+- Yangilanishlar(update) tez amalga oshiriladi
+? Ruxsatsiz nusxa ko'chirishdan himoya tizimlarining ijobiy tomoni keltirilgan javobni belgilang?
++ Dasturiy ta'minotni noqonuniy nusxalash va tarqatishning qiyinligi
+- Himoya tizimini amalga oshirishning yuqori murakkabligi
+- Himoya tufayli tizim talablarining ortishi
+- Himoya va foydalanuvchi uskunasining mos kelmasligi
+? Ushbu tizimlarning asosiy prinsipi qo'shimcha ma'lumotlarni so'rash orqali dasturiy ta'minot foydalanuvchisini aniqlash va autentifikatsiya qilishdan iborat. Qaysi himoya turiga berilgan ta’rif?
++ Parolli himoya
+- Ruxsatsiz nusxa ko'chirishdan himoya tizimlari
+- Ruxsatsiz kirishdan himoya tizimlari
+- Dasturiy ta'minotni noqonuniy nusxalash
+? Parolli himoya tizimlarining ijobiy tomoni keltirilmagan javobni belgilang?
++ Foydalanuvchi parol/kodni eslab qolishi kerak
+- Professional bo'lmagan buzg'unchidan ishonchli himoya
+- Foydalanuvchi uchun minimal noqulayliklar
+- Amalga oshirish va qo'llash qulayligi
+? …..…- himoya tizimining apparat qismi bo'lib, u xotira chiplari va ba'zi hollarda mikroprotsessorli plata bo'lib, korpusga joylashtirilgan va kompyuterning standart portlaridan biriga (COM, LPT, PCMCIA, USB) o'rnatish uchun mo'ljallangan. Nuqtalar o’rniga kerakli javobni tanlang.
++ Elektron kalit
+- Kompyuter
+- Dastur
+- Fleshka
+? Apparat himoya tizimlarining kamchiligi keltirilgan javobni belgilang?
++ Himoya va foydalanuvchi uskunalari o'rtasidagi nomuvofiqlik
+- Dasturiy ta'minotni noqonuniy tarqatish va ulardan foydalanishning sezilarli qiyinligi
+- Bozorda bunday tizimlarning etarlicha katta tanlovi
+- Dasturiy ta'minot ishlab chiqaruvchisidan o'z xavfsizlik tizimini ishlab chiqishdan xalos bo'lish
+? Dasturiy ta’minotni himoya tizimlarining dasturiy ta'minot ishlab chiqaruvchisining funksionalva chidamlilik talablariga, dasturiy ta'minotning va dasturiy ta’minotni himoya tizimlarining tizim talablariga, dasturiy ta'minot hajmi va dasturiy ta’minotni himoya tizimlarining miqdoriga, funksional yo'nalishga muvofiqligi, dasturiy ta'minot, dasturiy ta'minot analoglari uchun himoya tizimlarining mavjudligi. Dasturiy ta’minotni himoya tizimlarining ko'rsatkichini belgilang.
++ Texnik
+- Iqtisodiy
+- Tashkiliy
+- Huquqiy
+? ……… - qaroqchilikdan yo'qotishlar va umumiy foyda nisbati, qaroqchilikdan yo'qotishlar nisbati va dasturiy ta’minotni himoya tizimlarining qiymati va uni amalga oshirish, dasturiy ta'minot va dasturiy ta’minotni himoya tizimlarining narxining nisbati, dasturiy ta’minotni himoya tizimlarining qiymatining muvofiqligi va uni belgilangan maqsadlar sari amalga oshirish. Dasturiy ta’minotni himoya tizimlarining ko'rsatkichini belgilang.
++ Iqtisodiy
+- Texnik
+- Tashkiliy
+- Huquqiy
+? …- dasturiy ta'minotning keng tarqalganligi va ommabopligi, dasturiy ta'minotni tarqatish va ishlatish shartlari, dasturiy ta'minotning o'ziga xosligi, tahdidlarning mavjudligi, foydalanuvchining buzg'unchiga aylanish ehtimoli, dasturiy ta'minotdan foydalanishda hujjatlashtirish va qo'llab- quvvatlashning roli. Dasturiy ta’minotni himoya tizimlarining ko'rsatkichini belgilang.
++ Tashkiliy
+- Huquqiy
+- Iqtisodiy
+- Texnik
+? … - standart mexanizmlardan, yangi/nostandart mexanizmlardan foydalanish. Baholash mezonini belgilang.
++ Tadqiqotga / xakerlikka qarshilik mezoni
+- Xatolarga chidamlilik (ishonchlilik) mezoni
+- Moslik mezoni
+- Xarajat mezoni
+? … - tizim va amaliy dasturiy ta'minot bilan ziddiyat yo'qligi, mavjud uskuna bilan ziddiyatning yo'qligi, ishlab chiqilgan apparat va dasturiy ta'minot bilan maksimal muvofiqligi. Baholash mezonini belgilang.
++ Moslik mezoni
+- Xatolarga chidamlilik (ishonchlilik) mezoni
+- Tadqiqotga / xakerlikka qarshilik mezoni
+- Xarajat mezoni
+? … - tirbandlik, xizmat ko'rsatishni rad etish, himoyalangan dasturiy ta'minot va OTning sekinlashishi, tizim resurslarini tortib olish, RAMning haddan tashqari yuklanishi, OS barqarorligini buzish. Baholash mezonini belgilang.
++ Nojo'ya ta'sirlar mezoni
+- Xatolarga chidamlilik (ishonchlilik) mezoni
+- Tadqiqotga / xakerlikka qarshilik mezoni
+- Xarajat mezoni
+? Google Android OT qaysi operatsion tizim yadrosi asosida qurilgan?
++ Linux OT
+- UNIX BSD
+- Windows 7
+- MS DOS
+? Apple IOS qaysi operatsion tizimni amaliy interfeyslari asosida qurilgan?
++ BSD UNIX
+- Linux OT
+- Windows
+- MS DOS
+? Mobil operatsion tizimlar uchun xavfsizlik tahdidlari keltirilmagan qatorni toping?
++ mobil qurilmaning operatsion tizimiga o‘rnatilgan dastur orqali qimmat xizmatlarga ruxsatsiz buyurtma berish mavjud emas
+- mobil qurilmaning yo‘qolishi yoki o‘g‘irlanishi natijasida maxfiy ma’lumotlarni oshkor qilish
+- mobil qurilma tomonidan yaratilgan simsiz tarmoq trafigini ushlash natijasida maxfiy axborotni oshkor qilish
+- mobil qurilmada saqlangan ma'lumotlarning yo'qolishi
+? Android operatsion tizimi uchun yozilgan barcha ilovalarning taxminiy qancha qismi zararli hisoblanadi?
++ 25%
+- 40%
+- 10%
+- 60%
+? Android OT uchun mashhur Zeus boti qachon yaratilgan?
++ 2011-yil
+- 2005-yil
+- 2015-yil
+- 2008-yil
+? Kasperskiy laboratoriyasi ma'lumotlariga ko'ra, 2012 yil avgust holatiga ko'ra, Android operatsion tizimi uchun mo'ljallangan zararli dasturlarda SMS yuborish orqali ruxsatsiz xizmatlarga buyurtma beruvchi dasturlar miqdorini belgilang?
++ 25%
+- 49%
+- 18%
+- 6%
+? Mobil qurilmaga zararli dastur infeksiyasining odatiy belgilari berilgan qatorni toping?
++ Barcha javoblar to’g’ri
+- O'rnatilgan ilovalar ro'yxatida yangi yorliqlarning paydo bo'lishi
+- Hech qanday sababsiz quvvat sarfining keskin oshishi
+- Hisobdagi mablag'larning tushunarsiz tez kamayishi
+? Apple App Store ilovalari bajarishi shart bo’lgan qoidani belgilang.
++ ilovada hujjatlashtirilmagan funksiyalar bo‘lmasligi, shuningdek, operatsion tizimning hujjatlashtirilmagan funksiyalaridan foydalanilmasligi
+- ilova foydalanuvchini ogohlantirmasdan mobil tarmoqdan katta hajmdagi fayllarni yuklab olishi kerak
+- ilova boshqa ilovalarni o‘rnatishi kerak
+- ilova boshqa ilovalar ma’lumotlariga kirishi kerak
+? Android foydalanuvchisi o'z qurilmasiga qaysi tashkilot tomonidan tasdiqlanmagan dastur fayllarini o'rnatishni oldini olishi mumkin?
++ Google
+- Windows
+- Apple
+- Chrome
+? Androiddagi kirishni boshqarishning yagona vositasi bu- ?
++ permissions
+- acl
+- c-list
+- access
+? Ilovaga GSM va WiFi tarmoqlari tomonidan taqdim etilgan mobil qurilmaning joylashuvi haqidagi ma'lumotlarga kirish imkonini beradi. Android imtiyozini toping?
++ ACCESS_COARSE_LOCATION
+- ACCESS_FINE_LOCATION
+- ACCESS_NETWORK_STATE
+- ACCESS_WIFI_STATE
+? Ilovaga GPS moduli tomonidan taqdim etilgan mobil qurilmaning joylashuvi haqidagi ma'lumotlarga kirish imkonini beradi. Android imtiyozini toping?
++ ACCESS_FINE_LOCATION
+- ACCESS_NETWORK_STATE
+- ACCESS_WIFI_STATE
+- ACCESS_COARSE_LOCATION
+? Ilovaga qurilma ulangan GSM tarmog‘i haqida ma’lumot olish imkonini beradi. Android imtiyozini toping?
++ ACCESS_NETWORK_STATE
+- ACCESS_WIFI_STATE
+- ACCESS_COARSE_LOCATION
+- ACCESS_FINE_LOCATION
+? Ilovaga qurilma ulangan WiFi tarmog'i haqida ma'lumot olish imkonini beradi. Android imtiyozini toping?
++ ACCESS_WIFI_STATE
+- ACCESS_COARSE_LOCATION
+- ACCESS_FINE_LOCATION
+- ACCESS_NETWORK_STATE
+? Ilovaga tez yordam raqamlariga qo'ng'iroqlardan tashqari ovozli qo'ng'iroqlarni boshlash imkonini beradi. Android imtiyozini toping?
++ CALL.PHONE
+- RECEIVE.SMS
+- KAMERA
+- WAKE.LOCK
+? Ilovaga foto/video kameraga kirish imkonini beradi. Android imtiyozini toping?
++ KAMERA
+- RECEIVE.SMS
+- CALL.PHONE
+- WAKE.LOCK
+? Ilovaga internet tarmog‘iga kirish imkonini beradi. Android imtiyozini toping?
++ INTERNET
+- RECEIVE.SMS
+- CALL.PHONE
+- WAKE.LOCK
+? Ilovaga kiruvchi SMS xabarlarni qayta ishlash imkonini beradi. Android imtiyozini toping?
++ RECEIVE.SMS
+- CALL.PHONE
+- WAKE.LOCK
+- INTERNET
+? Ilovaga mikrofonga kirish imkonini beradi. Android imtiyozini toping?
++ RECORD_AUDIO
+- CALL.PHONE
+- WAKE.LOCK
+- INTERNET
+? Ilovaga qurilmaning uyqu rejimiga o'tishini oldini olish imkonini beradi. Android imtiyozini toping?
++ WAKE.LOCK
+- INTERNET
+- RECORD_AUDIO
+- CALL.PHONE
+? Ilovaga qurilmaning tashqi xotira kartasiga ma'lumotlarni yozishga ruxsat beradi. Android imtiyozini toping?
++ WRITE_EXTERNAL_STORAGE
+- WRITE STORAGE
+- WRITE_INTERNAL_STORAGE
+- READ_EXTERNAL_STORAGE
+? IOSda qanday kirishni boshqarish tizimi imtiyozlari mavjud emas.
++ Mikrofonga kirish imkonini berish
+- Kiruvchi elektron pochta manziliga murojaat qiling
+- Telefon qo'ng'iroqlarini boshlash
+- SMS yuborish
+? Qaysi mobil operatsion tizimda ma’lumotlarni xotirada saqlashda shifrlashdan foydalaniladi?
++ iOS
+- Android
+- Windows va android
+- Android va iOS
+? 2012 yil mart oyida o'tkazilgan tadqiqotga ko'ra mobil antivirus tizimlarining amalda qancha qismi foydali hisoblanadi?
++ uchdan bir qismi
+- uchdan ikki qismi
+- to’rtdan uch qismi
+- yarmi
+? 2012 yil mart oyida o'tkazilgan tadqiqotga ko'ra qaysi mobil antiviruslar nisbattan samaraliroq hisoblangan?
++ Kasperskiy va F-Secure mobil antiviruslari
+- ESET NOD 32
+- DOCTOR-WEB
+- AVAST
+? Ochiq kodli operatsion tizim yadrosi deganda nimani tushunasiz?
++ bu operatsion tizimning doimiy qismidir
+- operatsion tizimning distributiviga kiritilgan barcha dasturlar
+- bu buyruqlar va foydalanuvchi so'rovlarini qabul qiluvchi va qayta ishlaydigan dastur
+- bu grafik qobiq bo'lib, uning yordamida fayllar va kataloglar bilan operatsiyalarni bajarishingiz mumkin
+? Dasturning imtiyozli rejimi nima?
++ bu dastur ishlayotgan vaqtda protsessorga monopol egalik qilish rejimi
+- bu dastur istalgan vaqtda protsessorni monopol boshqarishi va bajarishni boshlashi mumkin bo'lgan rejim
+- bu barcha kompyuter resurslariga cheksiz kirish imkoniyati mavjud bo'lgan rejim
+- bu dastur ko'p vazifali muhitda boshqa dasturlarga nisbatan imtiyozlarga ega bo'lgan rejimdir
+? Ochiq kodli operatsion tizimlarning asosiy funksiyalarini ko'rsatadigan variantni tanlang.
++ qurilmalarni boshqarish, ma'lumotlarni boshqarish, xotirani boshqarish, jarayonni boshqarish
+- kompyuterni yoqish / o'chirishni boshqarish, fayllar va kataloglarni boshqarish, foydalanuvchilarni boshqarish
+- foydalanuvchi buyruqlarini bajarish, fayllar va kataloglarni boshqarish
+- jarayonni boshqarish, qo'shimcha qurilmalarni boshqarish
+? Jarayon resursi nima?
++ jarayonning ishlashi va ruxsati uchun zarur bo'lishi mumkin bo'lgan va bunda jarayonlar o'rtasida raqobatga olib kelishi mumkin bo'lgan har qanday apparat yoki dasturiy ta'minot ob'ekti
+- tezkor xotira va diskni bo'sh maydoni
+- kirish/chiqish sodir bo'ladigan fayl
+- jarayonning ishlashi va boshqa jarayonlar bilan ziddiyatga olib kelmaydigan ishlash uchun zarur bo'lishi mumkin bo'lgan har qanday apparat yoki dasturiy ta'minot ob'ekti
+? Ochiq kodli operatsion tizimni distributiv quyidagilarni o'z ichiga oladi:
++ operatsion tizim, dasturini o'rnatish va sozlash, texnik xizmat ko'rsatish va muntazam yangilanishlar
+- faqat operatsion tizim va dasturni o'rnatuvchisi
+- operatsion tizim va eng mashhur amaliy ilovalar
+- operatsion tizim, uning o'rnatuvchisi va uchinchi tomon tizimining eng mashhur yordamchi dasturlari
+? Ochiq kodli OT qanday litsenziya asosida tarqatiladi?
++ GNU
+- Linus Torvalds
+- Microsoft
+- Linux
+? Linuxni o'rnatish uchun qaysi fayl tizimi tavsiya etiladi?
++ jurnallanuvchi ext3
+- FAT16
+- NTFS
+- FAT32
+? Linuxda faylga qattiq havola nima?
++ boshqa fayl nomi
+- faylga qo'shimcha yorliq
+- fayl boshiga ko'rsatgich
+- faylning joylashuvi va hajmi haqidagi ma'lumotlarni o'z ichiga olgan tuzilma
+? Tizim foydalanuvchilari ro'yxati qaysi faylda saqlanganligi ko'rsatilgan variantni belgilang?
++ /etc/passwd
+- /root/passwd
+- /etc/users
+- /system/passwd
+? ls buyrug'ining natijasini belgilang:
++ buyruq satrida yoki joriyda ko'rsatilgan katalogdagi fayllar ro'yxatini ko'rsatadi
+- joriy katalogdagi fayllar ro'yxatini ko'rsatadi
+- berilgan katalogni joriy qiladi va fayllarni ro'yxatga oladi
+- belgilangan katalogga o'tadi
+? Linux operatsion tizimida nusxa ko'chirish uchun qanday buyruq ishlatiladi?
++ cp
+- copy
+- mkfile
+- mkdir
+? Tizimni o'chirish uchun Linux operatsion tizimida qanday buyruq ishlatiladi?
++ shutdown
+- exit
+- logout
+- quit
+? Fayl ruxsat huquqi atributlariga nimalar kiradi?
++ egasi, uning guruhi a'zolari va boshqa foydalanuvchilar uchun kirishni cheklash
+- administrator yoki foydalanuvchi huquqlari bilan kirish
+- egasi va boshqa foydalanuvchilar uchun kirish huquqlarini farqlash
+- fayl egasidan tashqari hamma uchun faqat o'qish uchun ruxsat
+? Fayl ruxsatlari taqdim etiladigan variantni tanlang: egasi uchun - barcha huquqlar, guruh a'zolari uchun va qolganlari uchun - faqat ishga tushirish.
++ rwx - x - x
+- rwxrw-r--
+- rwxr - rw-
+- rwxr-xr-x
+? Fayl tizimidagi fayllarni tartibga solishni osonlashtiradigan ob'ekt qanday nomlanadi?
++ katalog
+- distributiv
+- yo'l
+- papka
+? root foydalanuvchisi nima?
++ tizim ma'muriga tegishli yagona hisob
+- foydalanuvchiga tizimda ishlash uchun eksklyuziv huquqlar berish kafolatlangan hisob
+- tizim ma'muri tomonidan, hatto shaxsiy hisob qaydnomasi bo'lsa ham, foydalanish uchun tavsiya etilgan hisob
+- tizim ma'muriga tegishli bir nechta hisob
+? Ochiq kodli Linux operatsion tizimining yaratuvchisi kim?
++ Linus Torvalds
+- Linux Torvalds
+- Ari Lemke
+- Minix Torvalds
+? Linux fayl tizimi o'z ichiga olgan ildiz papkalarining to'g'ri sonini ko'rsatilgan variantni ko'rsating?
++ 1
+- 2
+- mantiqiy bo'limlar soniga bog'liq
+- qattiq disklar soniga bog'liq
+? Kompyuterlarda saqlash vositalarida ma'lumotlarni tashkil qilish, saqlash va nomlash usulini belgilaydigan tartib ...
++ fayl tizimi
+- fayl tuzilishi
+- fayl ierarxiyasi
+- katalog daraxti
+? Fayl tizimini o'z ichiga olmaydigan variantni ko'rsating?
++ Postgre
+- FAT32
+- NTFS
+- FAT16
+? Linux operatsion tizimida nechta ildiz papkalari mavjud?
++ bitta
+- ikki
+- uch
+- qattiq diskdagi bo'limlar kabi ko'p
+? Linux uchun eng ko'p ishlatiladigan fayl tizimi qaysi?
++ ext3
+- FAT32
+- FAT12
+- NTFS
+? Qaysi buyruq foydalanuvchiga tegishli bo'lgan guruhlar ro'yxatini ko'rsatadi?
++ lsgroup
+- whoami
+- who
+- ld
+? Quyidagilardan qaysi biri buyruq qatoriga kirish uchun ishlatilishi mumkin?
++ Terminal
+- BIOS
+- Firefox
+- Xwindow
+? <dmesg> buyrug'ining maqsadi nima?
++ Yadro jurnali xabarlari
+- Foydalanuvchining kirishga urinishlarini ko'rsatadi
+- Axborot xabarlari uchun syslog faylini ko'rsatadi
+- Demon jurnali xabarlarini ko'rsatadi
+? Quyidagi buyruqlardan qaysi biri terminalning kiritish-chiqarish xarakteristikalarini o'rnatish uchun ishlatiladi?
++ stty
+- tty
+- ctty
+- ptty
+? Kompyuterning doimiy xotirasida saqlanadigan nomga ega ma'lum miqdordagi ma'lumotlar (dasturlar yoki ma'lumotlar) ...
++ fayl
+- fayl atributi
+- fayl spetsifikatsiyasi
+- namuna
+? Ilova ochiq kodli OT yadrosi bilan o'zaro ishlash uchun qanday yondashuvni qo'llaydi?
++ Tizim chaqiruvlari
+- Dasturlar
+- Qobiq senariylari
+- Qobiq
+? Faylning indeks raqamini ko'rsatish uchun quyidagi ls buyruq variantlaridan qaysi birini ishlatishingiz mumkin?
++ –i
+- –a
+- -o
+- –l
+? <find / -name '*'> buyrug'i quyidagilardan qaysi birini bajaradi?
++ / bilan boshlanadigan barcha fayl va kataloglarni rekursiv ro'yxatlash
+- * dan / gacha nomli faylni chop etish
+- / katalogidagi barcha fayllarni ro'yxatlash
+- /directory katalogidagi barcha fayllar va kataloglarni chiqarish
+? Quyidagi buyruqlardan qaysi biri siqilgan matnli fayl tarkibini ko'rish uchun ishlatiladi?
++ zcat
+- type
+- cat
+- print
+? Qaysi buyruq faylning guruh egaligini o'zgartirishga imkon beradi?
++ chgrp
+- cgrp
+- change
+- group
+? Qaysi buyruq agar mavjud bo'lmasa, bo'sh faylni yaratadi?
++ touch
+- cat
+- read
+- ed
+? Katalogni, shu jumladan uning barcha ichki kataloglarini o'chirish uchun rm buyrug'ining qaysi opsiyasidan foydalaniladi?
++ -r
+- –b
+- –o
+- –p
+? Fayl qanday xususiyatlar to'plamiga ega bo'lishi mumkin?
++ nomi, hajmi, turi, yaratilgan sanasi
+- maqsadli klaster raqami, yaratilish sanasi, turi
+- o'chirish sanasi, maqsadli klaster raqami, nomi
+- nom, maqsadli klaster raqami va atribut
+? Hisoblash jarayonini boshqaradigan dasturlar majmuasi - bu...
++ operatsion tizim
+- dasturiy ta'minot
+- modulli tizim
+- kompyuter tizimi
+? Hisoblash tizimining amaliy dasturiy ta'minoti va texnik vositalarining o'zaro ta'sirini ta'minlaydigan asosiy dasturlar majmuasi ...
++ operatsion tizim
+- dasturiy ta'minot
+- modulli tizim
+- kompyuter tizimi
+? Qaysi OT komponenti bir yoki bir nechta tizim kutubxonalari sifatida belgilangan tizim chaqiruvlari to'plamidir?
++ OT yadrosi
+- qurilmaviy ta'minot
+- jarayon
+- oqim
+? Ushbu ta'rif qaysi atamaga mos keladi: protsessor tomonidan bajariladigan ko'rsatmalar to'plami, ma'lumotlar, dasturlar, shuningdek bajarilayotgan vazifa haqida ma'lumotlar, jumladan, ajratilgan operativ xotira parametrlari, ochiq fayllar va jarayonning holati?
++ jarayon
+- OT yadrosi
+- oqim
+- tizim chaqiruvi
+? Quyidagilardan qaysi biri operatsion tizim tomonidan bajariladigan vazifalarga taalluqli emas?
++ I/O qurilmalariga standartlashtirilmagan kirish
+- tezkor xotira boshqaruvi
+- ma'lumotlarni tashqi muhitda saqlash
+- foydalanuvchi interfeysini tashkil etish
+? Quyidagilardan qaysi biri operatsion tizim tomonidan bajariladigan vazifalarga taalluqli emas?
++ foydalanuvchi interfeysini qayta tashkil etish
+- I/O qurilmalariga standartlashtirilgan kirish
+- ma'lumotlarni tashqi muhitda saqlash
+- dastur fayllarini operativ xotiraga yuklash va ularni bajarish
+? Maqsad bo'yicha tasniflangan OT xavfsizligiga tahdid soladigan variantni ko'rsating.
++ ruxsatsiz o'qish
+- tajovuzkor tomonidan hujjatsiz OT imkoniyatlaridan foydalanish tahdidi
+- dasturiy ta'minot xatcho'plari yordamida ma'lumot olish uchun yangi kanallarni yaratish
+- axborot olish uchun huquqiy kanallardan foydalanish
+? Maqsad bo'yicha tasniflangan OT xavfsizligiga tahdid soladigan variantni ko'rsating.
++ ma'lumotlarni ruxsatsiz yo'q qilish
+- tajovuzkor tomonidan hujjatsiz OT imkoniyatlaridan foydalanish tahdidi
+- dasturiy ta'minot xatcho'plari yordamida ma'lumot olish uchun yangi kanallarni yaratish
+- axborot olish uchun huquqiy kanallardan foydalanish
+? OTga ta'sir qilish printsipiga ko'ra tasniflangan OT xavfsizligiga tahdid soladigan variantni ko'rsating.
++ tizimda sodir bo'layotgan jarayonlarni ruxsatsiz tajovuzkor kuzatishi
+- axborot olish uchun huquqiy kanallardan foydalanish
+- ma'lumotlarni ruxsatsiz yo'q qilish
+- dasturiy ta'minot xatcho'plari yordamida ma'lumot olish uchun yangi kanallarni yaratish
+? Hujum qiluvchi tomonidan qo'llaniladigan zaiflik turiga ko'ra tahdidlar qanday tasniflanadi?
++ Noto'g'ri xavfsizlik siyosati, shu jumladan tizim ma'muri xatolari
+- OS dasturiy ta'minotining xatolari va hujjatlashtirilmagan xususiyatlari
+- Tizimda sodir bo'layotgan jarayonlarni ruxsatsiz tajovuzkor kuzatish
+- Buzg'unchining tizimdagi ruxsatsiz harakatlari
+? Hujum ob'ektiga ta'sir qilish usuliga ko'ra, OT xavfsizligi tahdidi ... ga bo'linadi.
++ boshqa foydalanuvchi nomidan ishlash
+- ta'siri yo'q
+- foydalanuvchi tomonidan pasaytirish
+- boshqa foydalanuvchining ishidan foydalanishni istamaslik
+? Quyidagilardan qaysi biri tahdidlarni hujum obyekti bo‘yicha tasniflashga taalluqli emas?
++ Foydalanuvchining vakolatidan oshib ketish
+- Umuman olganda operatsion tizim
+- Operatsion tizim obyektlari
+- Ma'lumotlarni uzatish kanallari
+? Operatsion tizimga odatiy hujumga ega bo'lmagan variantni ko'rsating?
++ virus bilan kompyuter zararlash
+- chiqindi yig'ish
+- fayl tizimini skanerlash
+- asosiy ma'lumotlarni o'g'irlash
+? Ta'rifni to'ldiring: tahdidlarning barcha sinflaridan himoya qilmaydigan, faqat ba'zilariga qarshi OT nomi berilgan …..
++ qisman himoyalangan
+- to'liq himoyalangan
+- talab etilgan
+- ochiq kodli
+? "Ushbu ta'rifning kontseptsiyasini aniqlang: qimmatli ma'lumotlarni saqlash va qayta ishlashni tartibga soluvchi me'yorlar, qoidalar va amaliyotlar to'plami .......
++ OT siyosati
+- ochiq kodli dasturiy ta'minotni yaratishga yondashuv
+- adekvat OT
+- OT xavfsizligining yetarli darajasini ta'minlovchi xavfsizlik siyosati
+? Parchalangan yondashuvdan foydalanganda operatsion tizimni himoya qilish quyi tizimi nima?
++ turli ishlab chiqaruvchilar tomonidan ishlab chiqarilgan turli xil dasturiy mahsulotlar to'plami
+- dasturiy yechimlar majmuasi
+- tegishli dasturiy mahsulotlar to'plami
+- bir xil toifali dasturlar to'plami
+? Operatsion tizim xavfsizligi strategiyasi nechta komponentni o'z ichiga oladi?
++ olti
+- besh
+- yetti
+- to'rt
+? OT xavfsizligi strategiyasi nima tegishli emas?
++ tizim chaqiruvlari
+- kirish nazorati
+- identifikatsiya va autentifikatsiya
+- kriptografik funktsiyalar
+? "Nuqtalar oʻrniga mos atama qoʻying: … ruxsatida subʼyekt OTga oʻzi haqidagi kirish maʼlumotlarini beradi va shu bilan oʻzini tanitadi qiladi.
++ identifikatsiya
+- autentifikatsiya
+- ruxsat
+- audit tartibi
+? Nuqtalar oʻrniga mosroq atamani qoʻying: ... da subʼyekt identifikator maʼlumotlardan tashqari OT ga, u haqiqatan ham identifikatsiya qiluvchi maʼlumotlar tegishli boʻlgan kirish subʼyekti ekanligini tasdiqlaydi va ma'lumot taqdim etadi.
++ autentifikatsiya
+- ruxsat
+- audit tartibi
+- identifikatsiya
+? Nuqtalar oʻrniga mosroq atama kiriting: ... kirish mavzusi muvaffaqiyatli identifikatsiya va autentifikatsiyadan soʻng paydo boʻladi.
++ avtorizatsiya
+- verifikatsiya
+- identifikatsiya va autentifikatsiya
+- audit tartibi
+? OT uchun xavfli bo'lgan voqealar jurnalini o'qish huquqiga ega bo'lgan tizim foydalanuvchilarining nomlari qanday?
++ auditorlar
+- tizim ma'murlari
+- asosiy foydalanuvchilar
+- root foydalanuvchilari
+? OT tekshiruvi audit tizimiga taalluqli bo'lmagan talabni belgilang.
++ Foydalanuvchi audit jurnaliga yozuvlar qo'shishi mumkin
+- Hech bir kirish ob'ekti, shu jumladan OTning o'zi, audit jurnalidagi alohida yozuvlarni tahrirlash yoki o'chirish imkoniyatiga ega emas
+- Faqatgina auditor foydalanuvchilari audit jurnalini tozalashi mumkin
+- Auditorlik jurnalini faqat tegishli imtiyozga ega bo'lgan auditor foydalanuvchilari ko'rishlari mumkin
+? "Audit jurnaliga qaysi hodisalarni kiritish kerakligini belgilovchi qoidalar to'plami qanday nomlanadi?
++ audit siyosati
+- xavfsizlik siyosati
+- parol siyosati
+- auditorlar kodeksi
+? Operatsion tizim zaifligini o'z ichiga olmaydigan variantni ko'rsating?
++ parollar va shifrlash mexanizmlarini buzish
+- bufer to'lib ketishi
+- operatsion tizimdagi xatolar
+- tengsiz operatsion tizim
+? Ushbu hujumning nomi nima: tajovuzkor kompyuterning fayl tizimiga qaraydi va barcha fayllarni ketma-ket o'qishga (yoki nusxalash yoki o'chirishga) harakat qiladi?
++ fayl tizimini skanerlash
+- asosiy ma'lumotlarni o'g'irlash
+- parolni taxmin qilish
+- chiqindi yig'ish
+? Ushbu hujumning nomi nima: tajovuzkor foydalanuvchi tomonidan kiritilgan parolni tekshiradi?
++ asosiy ma'lumotlarni o'g'irlash
+- fayl tizimini skanerlash
+- parolni taxmin qilish
+- chiqindi yig'ish
+? Ushbu hujumning nomi nima: belgilarning barcha mumkin bo'lgan kombinatsiyalarini ketma-ket avtomatlashtirilgan terib o'tish orqali hisoblarni buzish usuli?
++ parolni terib ko'rish
+- asosiy ma'lumotlarni o'g'irlash
+- fayl tizimini skanerlash
+- chiqindi yig'ish
+? "Ushbu hujumning mohiyati shundan iboratki, tajovuzkor ushbu ma'lumotni qayta tiklaydi, uni ko'radi va o'zi uchun qiziqarli bo'lgan qismlardan nusxa oladi. Ko'rish va nusxalashdan so'ng, bu ma'lumotlarning barchasi yana "yo'q qilinadi"." Biz qanday hujum haqida gapirayapmiz?
++ chiqindi yig'ish
+- asosiy ma'lumotlarni o'g'irlash
+- fayl tizimini skanerlash
+- parolni taxmin qilish
+? Taqdim etilgan hujumlardan qaysi biri nafaqat kompyuter disklarida, balki operativ xotirada ham amalga oshirilishi mumkin?
++ chiqindi yig'ish
+- asosiy ma'lumotlarni o'g'irlash
+- fayl tizimini skanerlash
+- vakolatni suiiste'mol qilish
+? "Ushbu tahdid amalga oshirilganda, tajovuzkor operatsion tizim dasturiy ta'minotidagi xatolardan foydalanib, xavfsizlik siyosatiga muvofiq unga berilgan ruxsatdan oshib ketadi." Biz qanday hujum haqida gapirayapmiz?
++ vakolatni suiiste'mol qilish
+- chiqindi yig'ish
+- asosiy ma'lumotlarni o'g'irlash
+- fayl tizimini skanerlash
+? Qaysi hujum OTni to'liq yoki qisman yaroqsizlantirishga qaratilgan?
++ xizmatdan voz kechish hujumini
+- vakolatni suiiste'mol qilish
+- shafqatsiz kuch hujumi
+- chiqindi yig'ish
+? Resurslarni qo'lga kiritish hujumlarning qaysi sinfiga tegishli?
++ xizmatdan voz kechish hujumini
+- vakolatni suiiste'mol qilish
+- chiqindi yig'ish
+- parolni taxmin qilish
+? Bajarish qiyin bo'lgan so'rovlar bilan bombardimon qilish hujumlarning qaysi sinfiga tegishli?
++ xizmatdan voz kechish hujumini
+- vakolatni suiiste'mol qilish
+- chiqindi yig'ish
+- parolni taxmin qilish
+? Yadroni amalga oshirishda xabarlarni uzatish orqali o'zaro ta'sir qiluvchi bir nechta dasturlar ……….
++ mikroyadro
+- modulli yadro
+- nano-yadro
+- ekzokernel
+? Faqatgina yadro resurslarni boshqaradigan yadro amalga shirilishi nomi nima (uzilishlarni qayta ishlash)?
++ nano-yadro
+- monolit
+- mikroyadro
+- gibrid
+? Jarayon tushunchasi nimani o'z ichiga olmaydi?
++ tizim xizmatlari
+- bajariladigan dastur
+- dinamik holat va bajariladigan dastur
+- mavjud resurslar
+? Ishlayotgan dasturni tavsiflovchi abstraksiya qanday nomlanadi?
++ jarayon
+- oqim
+- yadro
+- qobiq
+? Ko‘p vazifali OTning nechta turi mavjud?
++ ikkita
+- uchta
+- to'rtta
+- beshta
+? Jarayon nechta shtatda bo'lishi mumkin?
++ uchta
+- to'rtta
+- beshta
+- ikkita
+? "……. jarayoni barcha zarur resurslarga ega va bevosita protsessor tomonidan amalga oshiriladi." Biz qanday jarayon haqida gapirayapmiz?
++ ishlash
+- kutish
+- tayyorgarlik
+- o'tish
+? Jarayon bloklangan va ichki sabablarga ko'ra amalga oshirib bo'lmaydigan bu holat qanday nomlanadi?
++ kutish
+- tayyorgarlik
+- o'tish
+- ishlash
+? Operatsion tizim tomonidan boshlangan tashqi sabablarga ko'ra jarayon qanday bloklanadi?
++ tayyorgarlik
+- o'tish
+- ishlash
+- kutish
+? Quyidagi hodisalardan qaysi biri jarayonlarning yaratilishiga olib kelmaydi?
++ Ishlayotgan jarayon tizim chaqiruvini amalga oshirmasligi
+- Tizimni ishga tushirish
+- Yangi jarayon yaratish uchun foydalanuvchi so'rovi
+- Yangi jarayon o'chirish uchun foydalanuvchi so'rovi
+? Ishlayotgan jarayon jarayonni yaratish uchun tizim chaqiruvini amalga oshiradi - bu .......
++ Tizimni inisializatsiyasi
+- Yangi jarayon yaratish uchun foydalanuvchi so'rovi
+- Ishlayotgan jarayon jarayonni yaratish uchun tizim chaqiruvini amalga oshiradi
+- Yangi jarayon o'chirish uchun foydalanuvchi so'rovi
+? Jarayonni tugatishning eng kam tarqalgan sababi ...?
++ Oddiy chiqish (ixtiyoriy)
+- Xato paydo bo'lishida chiqish (ixtiyoriy)
+- Boshqa jarayon tomonidan yo'q qilish (majburiy)
+- Jiddiy xatolik yuz berishi (majburiy)
+? Qaysi OT komponenti uzilishlarni boshqaradi va jarayonlarni rejalashtiradi?
++ rejalashtiruvchi
+- oqim
+- jarayon
+- yadro
+? Nuqtalarni to'ldiring: "	foydalanilganda dasturchi yadro darajasida qancha oqimdan foydalanishni va foydalanuvchi darajasida ularning har birini nechta oqimga bo'lish kerakligini aniqlay oladi."
++ gibrid yondashuv
+- yadro oqimini amalga oshirish
+- foydalanuvchi muhitida oqimni amalga oshirish
+- yagona oqimli jarayonlar
+? Xotira boshqaruvini nima uchun ishlatish kerak?
++ qaysi protsessor xotirani qaysi vaqtda qabul qilishini hal qiladigan jarayonlarga qancha xotira ajratilishi kerakligini tekshirmaslik uchun
+- inventarizatsiya qachon bo'sh yoki taqsimlanmagan bo'lishini kuzatib borish
+- turli jarayonlarni bir-biridan himoya qilish
+- dasturlarni xotiraga joylashtiradi, shunda xotira to'liq ishlatiladi
+? Xotirani boshqarishning ushbu usulida kompyuter xotirasining barcha turlari, OT uchun ajratilgan kichik qismdan tashqari, bitta dastur uchun mavjud. Bu qanday usul?
++ Bitta tutash taqsimot
+- Bo'lingan taqsimot
+- Sahifali xotira boshqarish
+- Segmentli xotirani boshqarish
+? Xotirani boshqarishning bu usuli birlamchi xotirani xotiraning asosan bir-biriga tutashgan sohalari bo'lgan turli xotira bo'limlariga ajratadi.
++ Bo'lingan taqsimot
+- Sahifali xotira boshqarish
+- Segmentli xotirani boshqarish
+- Bitta tutash taqsimot
+? "Ushbu usul kompyuterning asosiy xotirasini sahifa freymlar deb nomlanuvchi qattiq o'lchamdagi qismlarga ajratadi." Xotirani boshqarishning qanday usuli haqida gapiramiz?
++ Sahifali xotira boshqarish
+- Segmentli xotirani boshqarish
+- Bitta tutash taqsimot
+- Bo'lingan taqsimot
+? Xotirani boshqarishning qaysi usuli foydalanuvchi dasturini chiziqli va tutashgan manzil maydoni bilan ta'minlamaydi?
++ Segmentli xotirani boshqarish
+- Sahifali xotira boshqarish
+- Bo'lingan taqsimot
+- Bitta tutash taqsimot
+? Nuqtalarni to‘ldiring:… bu jarayonni asosiy xotiradan zahiraviy xotiraga vaqtincha ko‘chirish kerak bo‘lgan usul.
++ Almashinuv
+- Zaxira ma'lumotlarni saqlash
+- Qattiq disk
+- Malumotlar bazasi
+? Operatsion tizimga jarayonlarni ikkilamchi xotiradan asosiy xotiraga sahifalar sifatida olish imkonini beruvchi saqlash mexanizmi qanday nomlanadi?
++ peyjing
+- parchalanish
+- defragmentatsiya
+- ichki fragmentatsiya
+? Ushbu turdagi fragmentatsiyada butun jarayonni amalga oshirish uchun hali ham yaxshi bo'lgan eng kichik bo'limni belgilash orqali kamaytirish mumkin.
++ ichki fragmentatsiya
+- tashqi fragmentatsiya
+- segmentatsiya
+- defragmentatsiya
+? Operatsion tizim segment kartalar jadvalini qancha jarayonlar uchun qo'llab-quvvatlaydi?
++ barcha jarayonlar uchun
+- bitta jarayon uchun
+- ikkita jarayon uchun
+- uchta jarayon uchun
+? Bu usul OTga kod va ma'lumotlarning turli modullarini to'plash va bitta bajariladigan faylga birlashtirishga yordam beradi.
++ dinamik bog'lanish
+- dinamik yuklash
+- statik ulanish
+- statik yuklash
+? Dastur dasturnini chaqirmaguncha yuklanmaydigan dastur – bu …….
++ dinamik yuklash
+- statik ulanish
+- statik yuklash
+- dinamik bog'lanish
+? Rezident xotira nima?
++ bu server, kompyuter, noutbukning operativ xotirasida hozir bo'lgan xotira miqdori
+- bu fayl keshi va xotiradan tashqari xotira
+- virtual xotira bilan ishlashda standart mexanizm
+- diskda fayl orqa qismiga ega xotira
+? Xotiraga murojaat tuzog'i nima?
++ Sahifa xatosi
+- Anonim xotira
+- Doimiy xotira
+- Operativ xotira
+? Virtual xotira uskunasi virtual xotira bilan qanday ishlashini hisobga olganda, aksariyat arxitekturalarda sahifa o'lchamlari qanday?
++ 4 KB
+- 16 KB
+- 8 KB
+- 12 KB
+? Yadro qachon yangi virtual manzil maydoni yaratadi?
++ jarayon exec tizim chaqiruvi bilan yangi dasturni ishga tushirganda
+- jarayon fork tizimi chaqiruvi tomonidan to'xtatilganda
+- ikkala hamkor mintaqalar ozod bo'lganda, ular ikki barobar kattalikdagi qo'shni mintaqani hosil qilish uchun birlashadi
+- agar kichik xotira maydoni mavjud bo'lmasa
+? Bu xususiyatlar xotiraning qaysi turiga mos keladi: to'g'ridan-to'g'ri kompyuterga o'rnatilgan operativ xotira; operativ xotira qurilmasi chipining o'lchami bilan cheklangan; protsessorga to'g'ridan-to'g'ri kirish mumkin?
++ fizik xotira
+- virtual xotira
+- anonim xotira
+- doimiy xotira
+? Bu xarakteristikalar xotiraning qaysi turiga mos keladi: 1. qattiq disk hajmi bilan chegaralangan; 2. protsessorga bevosita murojaat qila olmaydi; 3. pagingdan foydalanadi
++ virtual xotira
+- fizik xotira
+- anonim xotira
+- doimiy xotira27
