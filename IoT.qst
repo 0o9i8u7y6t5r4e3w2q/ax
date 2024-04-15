@@ -1,0 +1,500 @@
+? IoT ning to'liq shakli nima?
++ narsalar interneti
+- narsalarni birlashtirish
+- Texnologiyalar Interneti
+- Texnologiyani birlashtirish
+? IoT nima?
++ sensorlar bilan o'rnatilgan jismoniy ob'ektlar tarmog'i
+- virtual ob'ektlar tarmog'i
+- halqa tuzilishidagi ob'ektlar tarmog'i
+- sensorlar tarmog'i
+? "Internet narsalar" atamasini kim kiritgan?
++ Kevin Aston
+- Jon Rayt
+- Edvard Jeymson
+- Jorj Garton
+? Haqiqiy "narsalar interneti" atamasi qachon paydo bo'lgan?
++ 1999 yil
+- 1998 yil
+- 2000 yil
+- 2002 yil
+? Quyidagilardan qaysi biri IoT qurilmasi emas?
++ Jadval
+- Noutbuk
+- Arduino
+- Planshet
+? Quyidagilardan qaysi biri IoT qurilmalari haqida noto‘g‘ri?
++ IoT qurilmalari butunlay xavfsizdir
+- IoT qurilmalariga mikrokontrollerlar kerak
+- IoT qurilmalari simsiz texnologiyadan foydalanadi
+- IoT qurilmalari ma'lumotlarni to'plash va almashish uchun internetdan foydalanadi
+? Quyidagilardan qaysi biri IoT platformasi emas?
++ Flipkart
+- Microsoft Azure
+- Salesforce
+- Amazon veb-xizmatlari
+? Quyidagilardan qaysi biri IoT ilovasi emas?
++ BMP280
+- Aqlli uy
+- Aqlli shahar
+- O'z-o'zidan boshqariladigan avtomobillar
+? Quyidagilardan qaysi biri IoT tizimining asosiy komponenti emas?
++ Transformator
+- Ulanish va ma'lumotlarni qayta ishlash
+- Foydalanuvchi interfeysi
+- Sensorlar
+? IIOTning to'liq shakli qanday?
++ Narsalarning sanoat Interneti
+- Narsalar internetini birlashtiring
+- Narsalar Interneti indeksi
+- Narsalarning intensiv Interneti
+? IoT qurilmalarida simsiz ulanish uchun qaysi qatlam ishlatiladi?
++ Ma'lumotlar havolasi qatlami
+- Tarmoq qatlami
+- Ilova qatlami
+- Transport qatlami
+? Quyidagilardan qaysi biri IoT komponentlari haqida noto‘g‘ri?
++ Mikrofon raqamli sensordir
+- Yorug'lik sensori (fotorezistor) analog sensordir
+- Bosish tugmasi raqamli sensordir
+- Klaviatura raqamli sensordir
+? Quyidagilardan qaysi biri IoT qurilmalarida jismoniy dunyodan ma'lumotlarni olish uchun ishlatiladi?
++ Sensorlar
+- Aktuatorlar
+- Mikroprotsessorlar
+- Mikrokontrollerlar
+? Quyidagi buyruqlardan qaysi biri Amazon echo IOT qurilmasini ishga tushirish uchun ishlatiladi?
++ Salom
+- Suri
+- Alexa
+- Hey
+? MANET IoT tarmog'i haqida qaysi biri noto'g'ri?
++ Murakkab xavfsizlik uchun quvvat osongina mavjud
+- U past ma'lumot uzatish tezligiga ega
+- Unda hech qanday shifrlash yo'q
+- Bu o'z-o'zini sozlash tarmog'idir
+? Quyidagilardan qaysi biri IoT da sensor emas?
++ LED
+- DHT11
+- Fotorezistor
+- BMP280
+? Quyidagilardan qaysi biri IoTda aktuator emas?
++ Arduino
+- Muxlis
+- LED
+- Step motor
+? IoT ishlab chiqish platalarida PWM signallaridan qanday foydalanish kerak?
++ Ular aktuatorlar tomonidan analog kirishga ega bo'lish uchun ishlatiladi
+- Ular sensorlar tomonidan raqamli kirish uchun ishlatiladi
+- Ular sensorlar tomonidan analog kirish uchun ishlatiladi
+- Ular aktuatorlar tomonidan raqamli kirishga ega bo'lish uchun ishlatiladi
+? Ochiq IoT arxitekturasida nechta elementlar mavjud?
++ 7 ta element
+- 9 ta element
+- 8 ta element
+- 6 ta element
+? IoT-A ________ degan ma'noni anglatadi
++ Buyumlar interneti arxitekturasi
+- Sanoat buyumlari arxitekturasi
+- Narsalar Interneti manzili
+- Narsalar Interneti hududi
+? Quyidagilardan qaysi biri Arduino IDE IoT dasturiga tegishli emas?
++ Tugatish
+- Tasdiqlash
+- Yuklash
+- Seriyali monitor
+? Quyidagilardan qaysi biri aqlli kalitlarni o'z ichiga olgan uy IoT qurilmalarining to'liq qatoridir?
++ Belkinning WeMo
+- Shlak
+- Awair
+- kanareyka
+? IoT shlyuzi __________ ta'minlashi kerak
++ Protokolni abstraktsiya qilish
+- ma'lumotlarni saqlash
+- Texnik vositalar bilan xavfsizlik
+- Oddiy va tez o'rnatish
+? IoT nimani to'playdi?
++ Qurilma tomonidan yaratilgan ma'lumotlar
+- qurilma ma'lumotlari
+- Sensor ma'lumotlari
+- Inson tomonidan yaratilgan ma'lumotlar
+? Quyidagi protokollardan qaysi biri IoT dagi barcha qurilmalarni ulash uchun ishlatiladi?
++ TCP/IP
+- UDP
+- Tarmoq
+- HTTP
+? Qaysi xizmat IoT xizmatlarini o'zgartirishga ruxsat beradi?
++ Yangilash
+- Ro'yxatdan o'tgan xizmat holati
+- Toʻxtatib turishdan yoqish
+- Yoqish
+? IoT ning aqlli tarmoq arxitekturasida bulutning roli qanday?
++ Ma'lumotlarni boshqarish
+- Ma'lumotlarni yig'ish
+- Xavfsizlik
+- Ma'lumotlarni saqlash
+? Dasturni bajaradigan IoT tizimining tarkibiy qismi nima?
++ Mikrokontroller
+- Sensor
+- Aktuator
+- Raqamli-analogga aylantiruvchi
+? Arduino IDE IoT dasturi kodlarni yozish uchun qaysi dasturlash tilidan foydalanadi?
++ C/C++
+- Java
+- Python
+- JavaScript
+? IoT aloqa protokollarida DHCP ning to'liq shakli qanday?
++ Dinamik xost bilan aloqa protokoli
+- Domen xostlari bilan aloqa protokoli
+- Dinamik xostni boshqarish protokoli
+- Domen xostlarini boshqarish protokoli
+? dweet.io IoT qurilmalaridan ma'lumotlarni yuborish uchun __________ ta'minlaydi.
++ Web API
+- POST HTTP
+- JSON
+- HTTP
+? Xavfsizlik xizmati xodimlari korxona xodimlari tomonidan maxfiy axborotni himoya qilish bo'yicha funksional vazifalarni bajarishda savdo sirlari xavfsizligini shaxsiy buzganlik va o'z huquqlaridan foydalanmaganlik uchun ….
++ Javobgar
+- javobgar emas
+- to’g’ri javob yo’q
+- Hammasi to’g’ri
+? Korxona (firma, kompaniya va boshqalar) ning xavfsizlik xizmati tarkibi, hajmi va tarkibi.) korxonaning real yehtiyojlari va axborotlarining maxfiyligi qanday baholanadi?
++ Darajasi qarab
+- Turiga qarab
+- To’ri javob yo’q
+- Hajmiga qarab
+? Virtual xususiy tarmoq VPN kontseptsiyasi qachon yaratilgan?
++ 1990 yil
+- 1978 yil
+- 1996 yil
+- 1986 yil
+? Elektron hujjat tushunchasi nechanchi yilda paydo bo'lgan?
++ 1970-yil
+- 1985-yil
+- 1980-yil
+- 1979-yil
+? IT xavflarini o'lchashning alternativ usullari odatda nimalarni uz ichiga oladi?
++ Tahdidlar, zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholashni o'z ichiga oladi
+- Axborot texnologiyalaridan foydalanish bilan bog'liq har qanday xavf
+- Turli xil hodisalarning yuzaga kelish ehtimoli
+- Zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholash
+? IOT xavfni minimallashtirish – bu?
++ Tashkilot uchun umumiy xavfni kamaytirish uchun choralar ko'rish
+- Tahdidlar, zaifliklar va aktivlar hajmi kabi bog'liq omillarni baholashni o'z ichiga oladi
+- Axborot texnologiyalaridan foydalanish
+- Turli xil hodisalarning yuzaga keltirish
+? Ma'lumotlar bazasi xavfsizligi…….
++ Xavfsizlikni ta'minlash uchun ko'plab jarayonlar, vositalar va metodologiyalarni o'z ichiga olgan texnologik atama
+- Dastur ma'lumotlar bazasini himoya qilishni chetlab o'tish
+- Har qanday fayllarni ruxsatsiz nusxalash, rasmiy vazifalarni bajarish uchun mo'ljallanmagan dasturlarni o'rnatish va ulardan foydalanish
+- Turli xil hodisalarning yuzaga keltirish
+? IOTda ogohlantirish moslamalari nima uchun kerak?
++ Annunciatorlar yorug'lik va ovozli signallarni berish, xavfsizlik xodimlari e'tiborini jalb qilish va huquqbuzarga psixologik ta'sir o'tkazish uchun
+- detektorlar va uzatish liniyalari (ko'chadan) holati to'g'risida ma'lumot to'plash va qayta ishlashga
+- bino ichidagi yuqori haroratni aniqlash uchun
+- Dastur ma'lumotlar bazasini himoya qilishni chetlab o'tish
+? Мa'lumotni yo'qotish xavfi hamma uchun bir xilmi?
++ Bir xil
+- Bir xil emas
+- Barchasida har xil
+- Individual
+? Elektron qurilmalar, mobil tarmoqlar, xavfsizlik tizimlari, serverlar va ma’lumotlarni hujumlardan himoya qilish usuli- ?
++ Kiberxavfsizlik
+- Iqtisodiy xavfsizlik
+- inson xavfsizligi
+- Jamoa xavfsizligi
+? Internet brauzerlarda himoyalangan ulanishlar xavfsizligining muammosini yechish uchun yaratilgan protocol?
++ SSL
+- UDP
+- FTP
+- HTTP
+? Kiberjinoyat quroli?
++ internet va eng so’nggi raqamli texnologiyalar.
+- tarmoqlarning foydaluvchilari
+- ishchi stantsiyalar, serverlar, shaxslar
+- professional mutaxassislar ish faoliyati
+? …. - tizimlar va ularda ishlaydigan dasturiy ta'minotdagi xavfsizlik zaifliklarini aniqlash, baholash, davolash va hisobot berish jarayonidir.
++ Tarmoqdagi zaifliklarni boshqarish
+- Tarmoqdagi zaifliklarni olib tashlash
+- Tarmoqdagi zaifliklarni yuq qilish
+- Tarmoqdagi zaifliklarbosqichlarini aniqlash
+? ….. - bu ma'lum operatsiyalarni avtomatik ravishda bajarish uchun mo'ljallangan dasturlar.
++ Botlar
+- Ransomware
+- Rootkitlar
+- Troyanlar
+? Risk –?
++ Potensial foyda yoki zarar.
+- Mantiqiy xavfsizlik
+- Hisoblashga asoslangan bilim
+- Ransomware.
+? Kafolatlangan amallarni ta’minlash uchun ijtimoiy va texnik cheklovlarni o‘zaro ta’sirini hisobga oladigan fikrlash jarayoni?
++ Tizimli fikrlash
+- Tizimsiz fikrlash
+- Tizimli va tizimsiz fikrlash
+- Ransomware tizimli yondashuvi
+? ….. - bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma’lumot almashish imkonini beradi?
++ IPSEC
+- VPN
+- IDS
+- HTTPSEC
+? SOC (Security Operations Center) tahliliy imkoniyatlarini belgilang.
++ prognozlash, aniqlash, oldini olish, reaksiya
+- dasturlar va axborot tizimlarini boshqarish
+- texnik jihozlardan foydalanish
+- tayyor dasturiy ta'minotni yuklash, texnik jihozlardan foydalanish
+? Kiberxavfsizlik siyosati nima -?
++ Elektron qurilmalar, mobil tarmoqlar, xavfsizlik tizimlari, serverlar va ma'lumotlarni dahshatli hujumlardan himoya qilishda qo’llaniladigan tartib qoidalar majmuasi.
+- U ma'lumotlarga kirishni cheklamaydigan qoidalarni belgilaydi. Maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+- elektron qurilmalar, mobil tarmoqlar, xavfsizlik tizimlari, serverlar va ma'lumotlarni dahshatli hujumlardan himoya qilish usuli
+- Maxfiylik maxfiy ma'lumotlarni kiberhujumchilar va xakerlarga kirishni cheklash choralarini ko'radi
+? Tahdidli ma’lumotlar oqimlaridagi ma'lumotlarni tematik guruhlaridan biri - IP va URL manzillar…
++ Zararli va fishing saytlarining tarmoq identifikatorlari, shuningdek, botnet C&C serverlari (jumladan, mobil qurilmalar uchun) mavjud.
+- Tegishli ma'lumotlar eng xavfli va keng tarqalgan zararli dasturlarni, shu jumladan mobil operatsion tizimlar uchun infektsiyalarni qamrab oladi.
+- Ular uchinchi tomon yechimlari va xizmatlari tomonidan foydalanish mumkin bo'lgan ishonchli fayllar xeshlarini o'z ichiga oladi.
+- xavfsizlik strategiyasini moslashtirish orqali himoya choralarini yaxshilash imkonini beradi
+? bir nechta DDoS hujumlari yangi Zelandiya fond bozorini vaqtincha yopishga majbur qildi?
++ 2019
+- 2015
+- 2016
+- 2020
+? Kiber infratuzilma muammolari ?
++ bank va moliya , sog'liqni saqlash, sanoat nazorati tizimlari.
+- Neytral neytrallik, Internet nomlari va raqamlari, Mualliflik huquqi va savdo belgilari
+- O'zini oshkor qilish, Tegishli tizimdan foydalanish, Kiber jinoyatchilik
+- Geolokatsiya, Maxfiylik
+? Intellektual inqilob natijasida ……-yillardan e'tiboran davlatlar kiberdunyo taqdim etgan imkoniyatlardan o‘z harbiy salohiyatlarini rivojlantirish yo‘lida ham foydalana boshladilar.?
++ 1990
+- 1997
+- 1998
+- 1991
+? … - bu kompyuterlar, tarmoqlar yoki ular saqlangan ma'lumotlarga qarshi kompyuterga asoslangan hujumni boshlash orqali hukumatni yoki tashkilotni siyosiy yoki ijtimoiy maqsadlarini ilgari surish uchun qo'rqitadigan yoki majburlaydigan kishi.
++ Kiberterrorist
+- Kiberetika
+- Kibertahdid
+- Kibermakon
+? IOTning asosiy komponentlari qanday?
++ Sensorlar / Qurilmalar: Ulanish: Ma'lumotlarni qayta ishlash: Foydalanuvchi interfeysi:
+- O'zini oshkor qilish, Tegishli tizimdan foydalanish, Kiber jinoyatchilik
+- O'zini oshkor qilish, Tegishli tizimdan foydalanish, Kiber jinoyatchilik, Qurilmalar:
+- Sensorlar / Qurilmalar: Ulanish: Ma'lumotlarni qayta ishlash: Tegishli tizimdan foydalanish,
+? Smart grid arxitekturasida bulutning roli qanday?
++ Ma'lumotlarni boshqarish
+- Ma'lumotlarni to'plash
+- O'zini oshkor qilish
+- Xavfsizlik
+? Open IoT qaysi tarmoq orqali ro'yxatdan o'tishni, sensorlarni joylashtirishni boshqaradi?
++ X-GSNPAPER SIZE
+- HTTP
+- LSM
+- GSNPAPER size
+? IoT-da java kengaytmasi faylini aniqlang.
++ . banka
+- . py
+- .exe
+- . c
+? Umimiy IOT muhitda ovozli aloqa umumiy turlari hisoblanadi?
++ 3
+- 2
+- 1
+- 4
+? MAC manzilining standart uzunligi
++ 48 bit
+- 16 bit
+- 32 bit
+- 8 bit
+? VNC uchun turadi _________
++ Virtual tarmoq hisoblash
+- Virtual tarmoq aloqasi
+- Virtual tarmoq kompyuterlari
+- Yo'q
+? IoT analytics uchun afzal qilingan tilni aniqlang.
++ Python
+- HTML
+- PHP
+- C++
+? Asosiy elementni kim boshqaradi?
++ IoT xizmat ko'rsatuvchi provayder
+- IaaS
+- Paaspaper size
+- Saoscolor
+? Korxona ichidagi individual foydalanuvchilarning rollari asosida tarmoqqa kirishni cheklash qaysi model?
++ RBAC modeli
+- Azure modeli
+- Amazon modeli
+- Kirishni boshqarish
+? IOTning noto'g'ri ustunligini aniqlang?
++ Xavfsizlik
+- Chiqindilarni kamaytiring
+- Kengaytirilgan ma'lumotlar to'plami
+- Mijozlarni jalb qilishni yaxshilang
+? Xizmat SOA - da _ _ _ _ deb nomlanadi
++ Biznes xizmati
+- Dasturiy ta'minot xizmati
+- Tarmoq xizmati
+- Tuzuvchi xizmati
+? API orqali _ _ _ _ _ xizmat portativligi yoqilgan?
++ tizimlar
+- tarmoq
+- xizmatlar
+- qurilma
+? Muammoni axborot ta'minlash ostida kelayotgan aniqlash?
++ Mavjudligini aniqlash
+- Quvvat sarfi
+- xavfsizlik
+- signalizatsiya
+? SBC to'liq shakli hisoblanadi?
++ Smart biznes markazi
+- Standart biznes markazi
+- Standart qurilish markazi
+- Aqlli qurilish markazi
+? IoT platformasi bo'lingan umumiy turlari?
++ 4
+- 3
+- 5
+- 2
+? IOTning stendlari _________
++ Aqlli transport xizmatlari
+- Aqlli transport xavfsizligi
+- Internet sayohat xizmatlari
+- Internet-transport xavfsizligi
+? Quyidagilardan qaysi biri dasturni kuzatishga imkon beradi
++ oxirgi nuqtalar
+- gipermediya
+- aktuatorlar
+- yuklash
+? Ishonchli ma'lumotlarni uzatishning oxirgi bosqichini aniqlang.
++ Tanlab tiklash
+- Yo'qotilgan xabarni aniqlash
+- Xabarlarni uzatish
+- Boshlash
+? IoT tizimining asosiy komponenti bo'lmagan quyidagilarni aniqlang.
++ Transformatorlar
+- Sensorlar
+- Foydalanuvchi interfeysi
+- Ulanish va ma'lumotlarni qayta ishlash
+? Quyidagi qatlamlar orasida IoT qurilmalarida simsiz ulanish uchun ishlatiladigan qatlamni aniqlang.
++ Datalink qatlami
+- Transport qatlami
+- Tarmoq qatlami
+- Dastur qatlami
+? Ochiq IoT arxitekturasidagi umumiy elementlar ____
++ 7
+- 6
+- 4
+- 8
+? Quyidagi IoT shlyuzidan qaysi biri taqdim etilishi kerak?
++ Protokol mavhumligi
+- Uskuna bilan xavfsizlik
+- Oddiy va tez o'rnatish
+- Ma'lumotlarni saqlash
+? Vot maqsadi(narsalar veb) bo'ladi?
++ Mavjudligi va birgalikda ishlashini yaxshilash
+- Xarajatlarni oshirish
+- Kompleks rivojlanish
+- Xavfsizlikni kamaytiring
+? Quyidagi API-lardan qaysi biri foydalanuvchiga elektron komponentlarni boshqarish imkonini beradi.
++ RETful API
+- MQTT API
+- COAP API
+- Android API
+? Xavfsiz MQTTNING standart port raqami
++ 8883
+- 8888
+- 1883
+- 8083
+? IaaS uchun turadi _________
++ Infratuzilma xizmat sifatida
+- Internet xizmat sifatida
+- Internet dasturiy ta'minot sifatida
+- Infratuzilma dasturiy ta'minot sifatida
+? Ma'lumotlar havolasi qatlami texnologiyasi bo'lmagan quyidagilarni aniqlang.
++ HTTP
+- Vifi
+- Bluetooth
+- Uart
+? DHCP qaysi transport qatlami protokolidan foydalanadi.
++ UDP
+- TCP
+- RSVP
+- DCCP
+? MQTT nimaga asoslanadi?
++ Nashr qilish-obuna bo'lish arxitekturasi
+- Mijoz-server arxitekturasi
+- Ikkalasi ham a va b
+- Yo'q
+? IoT tizimi nechta asosiy qismdan iborat?.
++ 3
+- 4
+- 5
+- 7
+? Simsiz tarmoqlar xavfsizligi protokollari qaysilar?
++ LLC, SSH, SSL/TLS
+- 802.1x, SSH, SSL/TLS Dox
+- WPA , IPSec, 802.11 pdf
+- SSL/TLS , , 802.11, IEEE 802.11 Word
+? Vakolatga ega bo‘lgan foydalanuvchining tarmoqqa kirishi uchun belgilangan parol ma’lumotini qo‘lga kiritishga qaratilgan harakatlar?
++ Parollarga qaratilgan hujumlar
+- Parollarga qaratilmagan hujumlar
+- Parollarga qaratilgan imkoniyatlar
+- Loginga qaratilgan hujumlar
+? - bu ma'lumotni ruxsatsiz foydalanuvchi tomonidan osonlikcha ochib bo'lmaydigan o'qib bo'lmaydigan holda himoya qiladigan texnologiya?
++ Diskni shifrlash
+- Faylni shifrlash
+- Rasmni shifrlash
+- Videoni shifrlash
+? IoT nechta protokol qatlamiga ega:
++ 4
+- 5
+- 7
+- 3
+? Insident - ?
++ (mojoro, hodisa) - bu standart bo‘lishi mumkin bo‘lmagan hodisalar qatoriga qo‘shilmaydigan hamda xizmat holatini uzib qo‘yish yoki xizmat sifati yomonlashishi holatlariga olib keladigan har qanday hodisaga aytiladi.
+- (tizimli jarayon) - bu standart bo‘lishi mumkin bo‘lmagan hodisalar qatoriga qo‘shilmaydigan hamda xizmat holatini uzib qo‘yish yoki xizmat sifati yomonlashishi holatlariga olib keladigan har qanday hodisaga aytiladi.
+- (hodisa bo’lmagan) - bu standart bo‘lishi mumkin bo‘lmagan hodisalar qatoriga qo‘shilmaydigan hamda xizmat holatini uzib qo‘yish yoki xizmat sifati yomonlashishi holatlariga olib keladigan har qanday hodisaga aytiladi.
+- (Aloqa cheklanishi) - bu standart bo‘lishi mumkin bo‘lmagan hodisalar qatoriga qo‘shilmaydigan hamda xizmat holatini uzib qo‘yish yoki xizmat sifati yomonlashishi holatlariga olib keladigan har qanday hodisaga aytiladi.
+? Quyidagi IoT tarmoqlaridan qaysi biri juda qisqa diapazonga ega?
++ Qisqa masofali simsiz tarmoq
+- LPVAN
+- SigFox
+- Qisqa Tarmoq
+? IoT tarmog'i ______ qurilmalar to'plamidir.
++ O'zaro bog'langan
+- Mashinadan mashinaga
+- Signal
+- Tarmoqdan tarmoqqa
+? Quyidagilardan qaysi biri IoT qurilmasi emas?
++ Bularning hech biri
+- Google uyi
+- Nest Tutun Signalizatsiyasi
+- Amazon echo ovozli boshqaruvchisi
+? Axborot yig'ish?
++ Unda hujumning mumkin bo'lgan, eng aniq maqsadlarini aniqlash va tegishli xizmatlar to'g'risida ma'lumot olish bilan bog'liq harakatlar ko'zda tutilgan.
+- Unda hujumning mumkin bo'lmagan, eng aniq maqsadlarini aniqlash va tegishli xizmatlar to'g'risida ma'lumot olish bilan bog'liq harakatlar ko'zda tutilgan.
+- Tizimlar, tarmoqlar yoki serverlar bir xil o'lchovlar va parametrlar bilan ishlamay qolishiga olib kelmaydigan hodisalarni o'z ichiga olgan katta toifadir
+- Ma'lumotlar o'zgartirilmasligi, o'chirilishi yoki noqonuniy foydalanilishi mumkin emasligini bildiradi va kirishni cheklaydigan qoidalarni belgilaydi.
+? Hodisalarga javob?
++ Aniqlash va javob berish axborot xavfsizligi (AX) sohasidagi intsidentlarga qarshi kurashishga qaratilgan muhim protseduralardir
+- Aniqlash va javob bermaydigan axborot xavfsizligi (AX) sohasidagi intsidentlarga qarshi kurashishga qaratilgan muhim protseduralardir
+- Bunga tizimga kirish huquqiga ega bo'lmagan ruxsatsiz urinishlar yoki undan noto'g'ri foydalanish kirmaydi
+- Barcha javoblar to’g’ri.
+? Secure digital card ilovasi quyidagi protokollardan qaysi birini ishlatadi?
++ SPI
+- XMPP
+- MQTT
+- HTTPS
+? IoT-da aqlli panjara qurilmasining haqiqiy namunasi nima?
++ Aqlli Hisoblagichlar
+- Televizion
+- Aqlli Dinamik
+- Mobil telefon
+? Quyidagi qatlamlardan qaysi biri IoT-da oxirigacha aloqani ta'minlaydi?
++ Transport qatlami
+- Ma'lumotlar havolasi qatlami
+- Mantiqiy qatlam
+- Seans qatlami
+? Quyidagilardan qaysi biri IoT qurilmasining ma'lumotlar bilan bog'lanish usuli?
++ Bulut
+- Internet
+- Avtomatika
+- Tarmoq
