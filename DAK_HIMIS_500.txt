@@ -1,0 +1,5001 @@
+++++
+ATM texnologiyasining uzatish tezligi necha bit/s larga yetkazilgan
+====
+#2-10 bit/s
+====
+6-20 bit/s
+====
+1-30 bit/s
+====
+1-20 bit/sek
+++++
+Autentifikatsiya nima maqsadda ishlatiladi?
+====
+#Foydalanuvchini tasdiqlash uchun
+====
+Qurilmani identifikatsiya qilish uchun
+====
+Dasturni identifikatsiya qilish uchun
+====
+Avtorizatsiya qilish uchun
+++++
+Avtorezatsiya qanday jarayon?
+====
+#Subektga tizimda ma’lum vakolat va resurslarni berish
+====
+Subektga tizimda ma’lum vakolat berish va bermaslik
+====
+Nomi bo’yicha aniqlash va monitoring qilish
+====
+Resurslardan foydalanishga urinish
+++++
+Axborot saqlagich vositalaridan qayta foydalanish xususiyatini saqlab qolgan holda axborotni yo’q qilish usuli qaysi?
+====
+#Bir necha marta takroran yozish va maxsus dasturlar yordamida saqlagichni tozalash
+====
+Magnitsizlantirish
+====
+Formatlash
+====
+Axborotni saqlagichdan o’chirish
+++++
+Axborot xavfsizligi tushunchasi o'z ichiga qaysi uch tashkil etuvchilarni oladi?
+====
+#Konfidensiallik, foydalanuvchanlik, butunlilik
+====
+Foydalanuvchanlik, ishonchlilik, butunlilik
+====
+Konfidensiallik, ishonchlilik, butunlilik
+====
+Foydalanuvchanlik, saqlanishlik, butunlilik
+++++
+Axborot xavfsizligida zaiflik bu?
+====
+#Tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi nuqson.
+====
+Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+====
+Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+====
+Noaniqlikning maqsadlarga ta’siri.
+++++
+Axborotlarni maxfiyligi qanday ta'minlanadi?
+====
+#Shifrlash algoritmlari orqali
+====
+Antiviruslar orqali
+====
+Uzatuvchi muhitlar orqali
+====
+Qurilma orqali
+++++
+Axborotni butunligini ta’minlash usullarini ko‘rsating.
+====
+#Xesh funksiyalar, MAC.
+====
+Shifrlash usullari.
+====
+Assimetrik shifrlash usullari, CRC tizimlari.
+====
+Shifrlash usullari, CRC tizimlari.
+++++
+Axborotni foydalanuvchanligini buzishga qaratilgan tahdidlar bu?
+====
+#DDOS tahdidlar.
+====
+Nusxalash tahdidlari.
+====
+Modifikatsiyalash tahdidlari.
+====
+O‘rtaga turgan dam tahdidi.
+++++
+Axborotni mavjudligini yashirish bilan shug‘ullanuvchi fan sohasi bu -
+====
+#steganografiya.
+====
+kriptografiya.
+====
+kodlash.
+====
+kriptotahlil.
+++++
+Axborotni qaysi xususiyatlari ochiq kalitli shifrlar yordamida ta’minlanadi.
+====
+#Konfidensiallik.
+====
+Konfidensiallik, butunlik va foydalanuvchanlik.
+====
+Butunlik va foydalanuvchanlik.
+====
+Foydalanuvchanlik va konfidensiallik.
+++++
+Axborotni shifrlashdan maqsadi nima?
+====
+#Maxfiy xabar mazmunini yashirish.
+====
+Ma’lumotlarni zichlashtirish, siqish.
+====
+Malumotlarni yig‘ish va sotish.
+====
+Ma’lumotlarni uzatish.
+++++
+Axborotni uzatish jarayonida hujum qilish orqali, eshitish va o‘zgartirish qaysi javobda keltirilgan?
+====
+#Eavesdropping
+====
+MITM
+====
+Denial-of-service
+====
+Port scanning
+++++
+Axborotning konfidensialligi va butunligini ta’minlash uchun ikki uzel orasida himoyalangan tunelni quruvchi himoya vositasi bu?
+====
+#Virtual Private Network
+====
+Firewall
+====
+Antivirus
+====
+IDS
+++++
+B sinfidagi tarmoq maskasi qanday qiymatga ega?
+====
+# 255.255.0.0
+====
+255.0.0.0
+====
+255.255.255.0
+====
+255.255.254.0
+++++
+Biba modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?
+====
+#Butunlik.
+====
+Konfidensiallik.
+====
+Foydalanuvchanlik.
+====
+Maxfiylik.
+++++
+Bir foydalanuvchilik OT ga qaysilar kiradi
+====
+#MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+Windows, Unix, OS/2
+====
+MS-DOS, MSX 
+====
+To'g'ri javob berilmagan
+++++
+Bir masalali OT ga qaysilar kiradi
+====
+# MS-DOS, MSX, Apple DOS
+====
+Windows, Unix, OS/2
+====
+MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+To'g'ri javob berilmagan
+++++
+Bir tarmoqdagi qurilmalardan boshqa tarmoqdagi qurilmalarga ma'lumot yuborishga nima imkon beradi?
+====
+#standart shlyuz (Default gateway)
+====
+guruhli uzatish (Multicast) manzil
+====
+oxirgi qurilma manzili (Unicast)
+====
+eshittirish manzili (Broadcast)
+++++
+Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.
+====
+#Charles Babbage
+====
+Inix Helton
+====
+Shelton Holmz
+====
+Daniel Tompson
+++++
+Biror faoliyat turi bilan bog‘liq harakatlar va majburiyatlar to‘plami bu?
+====
+#Rol.
+====
+Imtiyoz.
+====
+Daraja.
+====
+Imkoniyat.
+++++
+Biror mantiqiy shartni tekshiruvchi trigger va foydali yuklamadan iborat zararli dastur turi bu-?
+====
+#Mantiqiy bombalar.
+====
+Backdoors.
+====
+Adware.
+====
+Virus.
+++++
+Biror narsani bilishga asoslangan autentifikatsiya deyilganda quyidagilardan qaysilar tushuniladi.
+====
+#PIN, Parol.
+====
+Token, mashinaning kaliti.
+====
+Yuz tasviri, barmoq izi.
+====
+Biometrik parametrlar.
+++++
+Boot Loader – bu 
+====
+#Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
+====
+Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
+====
+Operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi
+====
+Qurilmalarni o'rnatadi
+++++
+Brauzer (masalan, Microsoft Internet Explorer) bu:
+====
+#veb-sahifani ko'ruvchi
+====
+antivirus dasturlari
+====
+fayl arxivlari bilan ishlash dasturlari
+====
+Internet-serverlar
+++++
+Bulutli texnologiyada axborot xavfsizligi doimiy kafolatlanganmi?
+====
+#Yoq
+====
+Ha
+====
+Ta'minlasa bo'ladi
+====
+Qisman ta'minlangan
+++++
+Buyruq interpretatori bu
+====
+#Dastur tilidan mashina tiliga o'giradi (Tarjimon)
+====
+Drayverlarni ishga tushiradi
+====
+Amaliy dasturlarni ishga tushiradi
+====
+To'g'ri javob berilmagan
+++++
+Buzg‘unchiga xavfsizlik tizimini aylanib o‘tib tizimga kirish imkonini beruvchi zararli dastur turi bu-?
+====
+#Backdoors.
+====
+Adware.
+====
+Virus.
+====
+Troyan otlari.
+++++
+C sinfidagi tarmoq maskasi qanday qiymatga ega?
+====
+#255.255.255.0
+====
+255.0.0.0
+====
+255.255.0.0
+====
+255.255.240.0
+++++
+Cisco marshrutizatorlarida parolni olib tashlash uchun nimadan foydalaniladi?
+====
+#Configuration register
+====
+Log register
+====
+Xabar registri
+====
+Yozuvlarregistri
+++++
+Csinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
+====
+#256 
+====
+65536
+====
+512 
+====
+1024
+++++
+Dastur operatsion tizimning yangi versiyasi bilan ishlay olmaydi. Bu qanday tahdid turi?
+====
+#Texnik talablar jihatidan eskirish
+====
+Dasturning buzilishi yoki undagi xatoliklar
+====
+Tabiiy ofatlar
+====
+Shpionaj
+++++
+Dasturiy ta`minоt quyidagi bo'limlardan ibоrat
+====
+#asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
+====
+tizimli dasturiy ta`minоt 
+====
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt
+====
+asоs dasturiy ta'minоt
+++++
+DDoS hujumlari uchun qanday protokol ishlatiladi?
+====
+#ARP
+====
+HTTP
+====
+HTTPS
+====
+POP3
+++++
+Deshifrlash uchun kalit va ..... kerak bo‘ladi.
+====
+#shifrmatn
+====
+ochiq matn
+====
+kodlash
+====
+alifbo
+++++
+DHCP ning asosiy vazifasi nima?
+====
+#Avtomatik ravishda IP manzillarni ajratadi
+====
+Internetga kiradi
+====
+Mijoz-server balansini saqlaydi
+====
+IPv4 ni IPv6 ga o'zgartiradi
+++++
+Dinamik parol nima?
+====
+#Bir martalik parol
+====
+Ko’p martalik parol
+====
+Sertifikatli parol
+====
+Legal parol
+++++
+DNS qanday tizim?
+====
+#Domen nomlari tizimi
+====
+Domen saqlash tizimi
+====
+Resurslarning manzilini ko'rsatuvchi tizim
+====
+Xotira tizimi
+++++
+DNS so'rovlariga qaysi qurilma ishlov beradi?
+====
+#DNS serveri.
+====
+DNS admini
+====
+Marshrutizatorlar
+====
+DNS switch
+++++
+DNS xizmatining maqsadi nima?
+====
+#tizim nomlarini aniqlash va ularni IP manzillarga aylantirish
+====
+tarmoq ishlashini qo'llab-quvvatlash
+====
+vaqtni sinxronlashtirish
+====
+paket vaqtini sinxronlashtirish
+++++
+DWDM texnologiyasi asosida kanallar qanday parametrga ko'ra multipleksorlanadi?
+====
+#To'lqin uzunligiga ko'ra
+====
+Vaqt bo'yicha
+====
+Amplitutasi bo'yicha
+====
+Tebranish davri bo'yicha
+++++
+Elektron pochta protokoli portini belgilang.
+====
+#25
+====
+22
+====
+21
+====
+23
+++++
+Elektron pochta protokollari berilgan qatorni belgilang?
+====
+#SMTP, POP, IMAP
+====
+HTTP, HTTPS
+====
+DNS, BOOTP
+====
+DNS, DHCP
+++++
+Elektron pochta sizga …. yuborish imkonini beradi. 
+====
+#Xabarlar va unga biriktirilgan fayllarni
+====
+Faqat xabarlarni
+====
+Faqat fayllarni
+====
+Videoma’lumotlarni
+++++
+Elektron pochtalarni uzatuvchi-qabul qiluvchi server qanday nomlanadi?
+====
+#Pochta serveri
+====
+Fayl serveri
+====
+Uzatuvchi-qabul qiluvchi server
+====
+Proksi server
+++++
+Elektron raqamli imzo muolajalarini ko‘rsating?
+====
+#Imzoni shakllantirish va imkoni tekshirish.
+====
+Shifrlash va deshifrlash.
+====
+Imzoni xeshlash va xesh matnni deshifrlash.
+====
+Imzoni shakllartirish va xeshlash.
+++++
+E-mail- bu:
+====
+#Kompyuter tarmoqlarida xat almashish (elektron pochta)
+====
+Qidiruv dasturi
+====
+Pochta server nomi
+====
+Pochta dasturi
+++++
+END devicesga nimalar kiradi?
+====
+#PС, laptop, server
+====
+PС, server, router
+====
+router, switch, server
+====
+router, switch, PС
+++++
+Eng zaif simsiz tarmoq protokolini ko‘rsating?
+====
+#WEP
+====
+WPA
+====
+WPA2
+====
+WPA3
+++++
+Esda saqlashni va olib yurishni talab etmaydigan autentifikatsiya usuli bu -
+====
+#biometrik autentifikatsiya.
+====
+parolga asoslangan autentifikatsiya.
+====
+tokenga asoslangan autentifikatsiya.
+====
+ko‘p faktorli autentifikatsiya.
+++++
+Ethernet da kommutatsiyalashning qaysi xilidan foydalaniladi?
+====
+#paketlarni deytagrammali kommutatsiyalash
+====
+paketlarni virtual kanal orqali uzatish
+====
+vaqtni taqsimlash asosida kanallarni kommutatsiyalash
+====
+chastotali multiplekslash asosida kanallarni kommutatsiyalash
+++++
+Ethernet texnologiyasi nechta standartga ega?
+====
+#4
+====
+3
+====
+2
+====
+6
+++++
+Ethernet texnologiyasida koaksial kabelining ma’lumotlarni uzatish tezligi qanday?
+====
+#10 Mbit/s
+====
+1 Mbit/s
+====
+100 Mbit/s
+====
+1000 Mbit/s
+++++
+Faktorlash muammosi asosida yaratilgan assimetrik shifrlash usuli?
+====
+#RSA
+====
+El-Gamal
+====
+Elliptik egri chiziqga asoslangan shifrlash
+====
+Diffi-Xelman
+++++
+Faqat ma’lumotni butunligini ta’minlovchi kriptotizimlarni ko‘rsating.
+====
+#MAC (Xabarlarni autentifikatsiya kodlari) tizimlari.
+====
+Elektron raqamli imzo tizimlari.
+====
+Ochiq kalitli kriptografik tizimlar.
+====
+Barcha javoblar to‘g‘ri.
+++++
+Faqat ob’ektning egasi tomonidan foydalanishga mos bo‘lgan mantiqiy foydalanish usulini ko‘rsating?
+====
+#Diskretsion foydalanishni boshqarish.
+====
+Mandatli foydalanishni boshqarish.
+====
+Rolga asoslangan foydalanishni boshqarish.
+====
+Attributga asoslangan foydalanishni boshqarish.
+++++
+Faqat simmetrik blokli shifrlarga xos bo‘lgan atamani aniqlang?
+====
+#blok uzunligi
+====
+kalit uzunligi
+====
+ochiq kalit
+====
+kodlash jadvali
+++++
+Fast Ethernet texnologiyasi nechta spetsifikatsiyaga ega?
+====
+#3
+====
+4
+====
+2
+====
+6
+++++
+Fast Ethernet texnologiyasi spetsifikatsiyalari qaysi komitet tarkibida ishlab chiqilgan?
+====
+#802.3
+====
+802.1
+====
+802.2
+====
+802.5
+++++
+Fast Ethernet texnologiyasida o’ralma juftlik kabelining ma’lumotlarni uzatish tezligi qanday?
+====
+#100 Mbit/s
+====
+1 Mbit/s
+====
+10 Mbit/s
+====
+1000 Mbit/s
+++++
+Fat fayl tizimida, mantiqiy disk:
+====
+#tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi
+====
+yuklanish qismlari 
+====
+katalоglar sоxasi va tizimli sоxa
+====
+ma`lumоtlar sоxasi va katalоglarga bo'linadi
+++++
+FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.
+====
+#Tizim maydoni va ma'lumotlar maydoni
+====
+Ma'lumotlar maydoni va kataloglari
+====
+Katalog maydoni va tizim maydoni
+====
+yuklash joylari
+++++
+FAT32, Ext2, NTFS — bu …
+====
+# Paint, Adobe Photoshop 
+====
+Word
+====
+Excel
+====
+MS-DOS, MSX
+++++
+Fayl arxivlarini o'z ichiga olgan Internet-serverlar sizga quyidagilarga imkon beradi:
+====
+#kerakli fayllarni yuklab olish
+====
+elektron pochta xabarini olish uchun
+====
+telekonferensiyalarda ishtirok etish
+====
+video konferentsiyalarni o'tkazish
+++++
+Fayl bilan ishlash dasturi
+====
+#Fayl menejeri
+====
+dastur menejeri
+====
+xotira menejeri
+====
+qurilmalar menejeri
+++++
+Fayl tizimidan foydalanish
+====
+#Ma'lumotlarni qayta ishlash dasturlari bilan bog'laning va disk maydonini markaziy ravishda taqsimlash
+====
+disk maydoni ajratish
+====
+Ma'lumotlar bazasi bilan bog'lash
+====
+fayllari tarqatish
+++++
+Fayl uzatish protokoli ko’rsatilgan qatorni ko’rsating
+====
+#FTP
+====
+SMTP
+====
+HTTP
+====
+telnet
+++++
+Fayllar tuzilishining asоsiy birligi nimalar 
+====
+#ma`lumоtlar
+====
+katalоglar
+====
+grafiklar
+====
+xоtira
+++++
+Fizik himoyani buzilishiga olib keluvchi tahdidlar yuzaga kelish shakliga ko‘ra qanday guruhlarga bo‘linadi?
+====
+#Tabiy va sun’iy
+====
+Ichki va tashqi
+====
+Aktiv va passiv
+====
+Bir faktorlikva ko‘p faktorli
+++++
+Foydalanishni rad etish hujumi quyidagilarga qaratilgan:
+====
+#kompyuter tizimining ishlamay qolishi
+====
+ma'lumotni yo'q qilish
+====
+axborotni qayta ishlash dasturlari
+====
+aloqa kanallarini blokirovka qilish
+++++
+Foydalanuvchanlikni ta’minlash bu - ?
+====
+#ruxsatsiz bajarishdan himoyalash.
+====
+ruxsatsiz yozishdan himoyalash.
+====
+ruxsatsiz o‘qishdan himoyalash.
+====
+ruxsat etilgan amallarni bajarish.
+++++
+Foydalanuvchi parollari bazada qanday ko‘rinishda saqlanadi?
+====
+#Xeshlangan ko‘rinishda.
+====
+Shifrlangan ko‘rinishda.
+====
+Ochiq holatda.
+====
+Bazada saqlanmaydi.
+++++
+Foydalanuvchiga u yoki bu turga kirishga imkon beradigan huquqlar to'plami deyiladi (NTFS fayl tizimida)
+====
+# Shaxsiy ruxsatnomalar
+====
+standart qarorlari
+====
+Maxsus tasdiqlashlar
+====
+Tashqi tasdiqlash
+++++
+Foydalanuvchini haqiqiyligini tekshirish jarayoni bu?
+====
+#Autentifikatsiya.
+====
+Identifikatsiya.
+====
+Avtorizatsiya.
+====
+Ro‘yxatga olish.
+++++
+Foydalanuvchini tizimga tanitish jarayoni bu?
+====
+#Identifikatsiya.
+====
+Autentifikatsiya.
+====
+Avtorizatsiya.
+====
+Ro‘yxatga olish.
+++++
+FTP (File Transfer Protokol) qanday protokol?
+====
+#Fayllarni uzatish protokoli
+====
+Terminalni emulasiya qilish protokoli
+====
+Elektron pochtani uzatishning oddiy protokoli
+====
+Gipermatnni uzatish protokoli
+++++
+Gipermatnni uzatish protokoli:
+====
+#HTTP
+====
+FTP
+====
+POP3
+====
+Telnet
+++++
+Global kompyuter tarmog’i:
+====
+#WAN
+====
+MAN
+====
+LAN
+====
+PAN
+++++
+Global tarmoqlarni qurishda DWDM texnologiyasi qanday vazifani bajaradi?
+====
+#Mamlakatlar va shaharlarni o'zaro bir biri bilan bog'lashni ta'minlaydi.
+====
+Ma'lumotlarni ko'rsatilgan adres bo'yicha marshrutlaydi
+====
+U global tarmoqlarida ishlatilmaydi
+====
+Lokal tarmoqlarida marshrutlaydi
+++++
+GSM tarmog‘ida foydanalaniluvchi shifrlash algoritmi nomini ko‘rsating?
+====
+#A5/1
+====
+DES
+====
+AES
+====
+RC4
+++++
+Hajmi bo‘yicha eng kichik hisoblangan tarmoq turi bu - 
+====
+#PAN
+====
+LAN
+====
+CAN
+====
+MAN
+++++
+Haqiqiy shifrlanmagan ma’lumot bu.
+====
+#ochiq matn
+====
+shifrmatn
+====
+deshifrlash
+====
+kalit
+++++
+Har bir domen nomiga bitta IP adres mos keladimi?
+====
+#Bittadan ortiq IP adress bo'lishi mumkin
+====
+Yoq
+====
+Ha
+====
+Tarmoqni sig'imiga bog'liq
+++++
+Har qanday vaziyatda biror bir hodisani yuzaga kelish ehtimoli qo‘shilsa ....
+====
+#risk paydo bo‘ladi.
+====
+hujum paydo bo‘ladi.
+====
+tahdid paydo bo‘ladi.
+====
+aktiv paydo bo‘ladi.
+++++
+Himoya mexanizmini aylanib o‘tib tizimga ruxsatsiz kirish imkonini beruvchi zararli dastur turi bu?
+====
+#Backdoors.
+====
+Adware.
+====
+Troyan otlari.
+====
+Spyware.
+++++
+Hozirda qanday IP manzillar qo'llanilmoqda?
+====
+#IPv4 va IPv6
+====
+IPv5
+====
+faqatIPv4
+====
+faqatIPv6
+++++
+Hozirda qaysi sohalarda IoT texnologiyasidan foydalaniladi?
+====
+#Tibbiyot, Ob-havo ma'lumotlarini aniqlashda, Qishloq xo'jaligi
+====
+Faqat Tibbiyot uchun mavjud emas
+====
+Faqat Avtomobil uchun mavjud
+====
+Smartfonlar va kompyuterda mavjud
+++++
+HTTP (Hyper Text Transfer Protocol) qanday vazifani bajarish uchun mo'ljallangan protokol?
+====
+#Gipermatnni uzatish protokoli
+====
+Fayllarni uzatish protokoli
+====
+Terminalni emulasiya qilish protokoli
+====
+Elektron pochtani uzatishning oddiy protokoli
+++++
+HTTP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
+====
+#Hyper Text Transfer Protocol
+====
+High Terminal Transfer Protocol
+====
+High Text Tranzit Protocol
+====
+Hyper Terminal Tranzit Protocol
+++++
+HTTPS protokol portini aniqlang?
+====
+#443
+====
+234
+====
+12
+====
+34
+++++
+Hujumlarni aniqlaganda qanday faol harakatlarni amalga oshirish mumkin?
+====
+#Hech qanday harakat
+====
+Ogohlantirish
+====
+Qo'shimcha ro'yxatga olish
+====
+Ro’yxatga olish
+++++
+Hujumlarni aniqlash tizimlari berilgan qatorni toping?
+====
+#IDS
+====
+IPS
+====
+VPN
+====
+DPA
+++++
+Hujumlarni aniqlashning asosiy mexanizmi:
+====
+#Antivirus dasturi
+====
+Tarmoq dasturlari
+====
+Loglarni qo’lda tekshirish
+====
+Loglarni avtomatik tekshirish
+++++
+Hujumlarni oldini olish tizimlari berilgan qatorni toping?
+====
+#IPS
+====
+VPN
+====
+DPA
+====
+IDS
+++++
+Ichki shlyuz protokollari qanday protokollar bilan ishlaydi?
+====
+#RIP, IBRP, OSPF, IS- IS
+====
+BBP, RIP, IS- IS
+====
+OSPF, B6P, TCP/IP
+====
+TCP/IP, IS- IS, RIP
+++++
+ICMP nima maqsadda foydalaniladi?
+====
+#Ikki qurilmadagi IP protokollari o'rtasidagi aloqani ta'minlaydi, boshqaradi
+====
+Ikki qurilmadagi IP protokollari o'rtasidagi ma'lumot almashadi
+====
+Marshrutlash jarayonini boshqaradi
+====
+Monitoring qilish uchun
+++++
+ICMP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
+====
+#Internet Control Message Protocol
+====
+Intranet Control Message Protocol
+====
+Internet Connection Message Protocol
+====
+Illegal Control Mail Protocol
+++++
+ICMP xabari nechi qismdan tashkil topadi?
+====
+#2 qismdan: Sarlovha va ma'lumot
+====
+1 qismdan: Sarlovha qismidan
+====
+1 qismdan: Ma'lumot
+====
+3 qismdan: Ma'lumot, axborot, sarlovha
+++++
+ICMP xabarlari IP paketga joylashtiriladimi?
+====
+#Ha
+====
+Yoq
+====
+UDP paketga
+====
+TCP paketga
+++++
+ICMP yuzaga kelgan xatoliklar haqida xabardor etadimi?
+====
+#Ha
+====
+Yoq
+====
+Xatolikni aniqlaydi lekin xabar bermaydi
+====
+Foydalanilayotgan operatsion tizimga bog'liq
+++++
+Ierarxiyadagi eng tezkor va eng qimmat xotira
+====
+# Protsessor registrlari
+====
+Elektron disklar
+====
+Asosiy xotira
+====
+Qidiruv xotira
+++++
+Ikki kalitli kriptotizim bu - 
+====
+#asimmetrik kriptotizim.
+====
+simmetrik kriptotizim.
+====
+xesh funksiyalar.
+====
+MAC tizimlari.
+++++
+Ikki kompyuterni telefon liniyasi orqali ulash uchun sizda quyidagilar bo'lishi kerak:
+====
+#Ikkita modem
+====
+Pult
+====
+Maxsus dasturiy vosita
+====
+Pochta dasturi
+++++
+Ilova nima?
+====
+#Foydalanuvchilarni tarmoq resurslaridan foydalanish imkoniyatini taqdim etuvchi dasturlar.
+====
+Smartfon dasturlari
+====
+Operatsiyon tizimga ulanish dastur
+====
+Xavfsizlikni ta'minlovchi dasturlar
+++++
+Ilova sathi vazifasi:
+====
+#Ma’lumotni taqdim etish, shifrlash va deshifrlash, mashinaga mos tilga o‘girish va teskarisi
+====
+Host osti ulanish, ilovalar orasida ulanishlarni boshqarish
+====
+Ilovalarni tarmoqqa ulanish jarayoni
+====
+Qurilma, signal va binar o‘zgartirishlar
+++++
+Ilovalar axborot xavfsizlikni ta'minlashi mumkinmi?
+====
+#Ha
+====
+Ta'minlamaydi
+====
+Mumkin emas
+====
+Kelajakda
+++++
+Internet foydalanuvchilari uchun tarmoq xavfsizligi kafolatlanganmi?
+====
+#Kafolatlanmagan
+====
+Kafolatlangan
+====
+Antiviruslar orqali kafolatlash mumkin
+====
+Internetnet provayderining imkoniyatiga bog'liq
+++++
+Internet saytlarida mavjud resurslardan foydalanishga kim ruxsat beradi?
+====
+#Administrator
+====
+Xizmat provayderi
+====
+Meneger
+====
+Barcha javob to'g'ri
+++++
+Internet tarmog‘idagi obro‘sizlantirilgan kompyuterlar bu-?
+====
+#Botnet.
+====
+Backdoors.
+====
+Adware.
+====
+Virus.
+++++
+Internet tarmog’i, kompyuter tarmoqlarining qaysi sinfiga mansub?
+====
+#global tarmoq 
+====
+lokal tarmoq
+====
+shahar tarmog’i
+====
+korporativ tarmog’i
+++++
+Internet tarmog’ida kommutatsiyalashning qaysi xili ishlatiladi?
+====
+#paketlarni kommutatsiyalash
+====
+kanallarni kommutatsiyalash
+====
+xabarlarni kommutatsiyalash
+====
+alohida ajratilgan kanallarni kommutatsiyalash
+++++
+Internet tarmog’ida quyidagi pochta manzili derilgan:networksecurity@tuit.uz. Pochta server nomini toping?
+====
+#tuit.uz
+====
+networksecurity@tuit.uz
+====
+tuit
+====
+networksecurity
+++++
+IP manzilni domen nomlariga yoki aksincha almashtirishni amalga oshiruvchi xizmat bu-
+====
+#DNS
+====
+TCP/IP
+====
+OSI
+====
+UDP
+++++
+IP- paket qanday qismlardan iborat bo'ladi?
+====
+#Sarlavxa va ma'lumotlar yoziladigan qismlardan iborat 
+====
+Ma’lumotlar saqlash va qayta ishlash qismlardan iborat 
+====
+Yuborish va saralash qismlardan iborat 
+====
+Ma’lumotlar yozish va yuborish qismlaridan iborat
+++++
+IP- protokolining funktsional jihatdan sodda yoki murakkabligi nimalarga bog’liq? 
+====
+# IP- paketning sarlavxasi qay darajada sodda yoki murakkab ekanligiga bog'liq
+====
+IPlrning soddajoylashganligiga bog’liq 
+====
+IP- paketning sarlavxasi murakkab ekanligiga bog'liqdir
+====
+IP- paketning sarlavxasi sodda ekanligiga bog'liqdir
+++++
+IPv4 manzilida nechta oktet bor?
+====
+#4
+====
+3
+====
+5
+====
+8
+++++
+IPv4 manzilining uzunligi necha bit?
+====
+#32
+====
+16
+====
+28
+====
+128
+++++
+IPv4- paket sarlavhasining uzunligi necha bitdan iborat?
+====
+#4 bitdan 
+====
+8 bitdan 
+====
+16 bitdan 
+====
+32 baytdan
+++++
+IPv4 turidagi IP-adres qanday uzunlikka ega?
+====
+#32 bit
+====
+48 bit
+====
+16 bit
+====
+64 bit
+++++
+IPv4da IP manzillar soni nechta?
+====
+#4.2 mlrd
+====
+3 mlrd
+====
+6.2 mln
+====
+5.2 mln
+++++
+IPv6 manzili uzunligida nechta bit bor?
+====
+#128
+====
+32
+====
+8
+====
+16
+++++
+IPv6 manzillarini nechta sinfi mavjud?
+====
+#Sinf mavjud emas
+====
+2
+====
+8
+====
+18
+++++
+Jahon miqyosidagi global kompyuter tarmog'i bu...
+====
+#WWW
+====
+E-mail
+====
+Intirnet
+====
+WEP
+++++
+Jarayonni rejalashtirish darajalari 
+====
+# uzоq muddatli, o'rta muddatli va qisqa muddatli
+====
+cheksiz va chekli muddatli 
+====
+faqat uzоq muddatli 
+====
+aniq va aniq emas muddatli
+++++
+Jumlani to‘ldiring. ... kompyuter davriga tegishli shifrlarga misol bo‘la oladi.
+====
+#DES, AES shifri
+====
+Sezar shifri
+====
+Kodlar kitobi
+====
+Enigma shifri
+++++
+Jumlani to‘ldiring. ... sohasi tashkil etuvchilar xavfsizligi, aloqa xavfsizligi va dasturiy ta’minotlar xavfsizligidan iborat.
+====
+#Tizim xavfsizligi
+====
+Ma’lumotlar xavfsizligi
+====
+Inson xavfsizligi
+====
+Tashkilot xavfsizligi
+++++
+Jumlani to‘ldiring. ... texnologiyasi lokal simsiz tarmoqlarga tegishli.
+====
+#WI-FI
+====
+WI-MAX
+====
+GSM
+====
+Bluetooth
+++++
+Jumlani to‘ldiring. .... shifrlar tasodifiy ketma-ketliklarni generatsiyalashga asoslanadi.
+====
+#Oqimli 
+====
+Blokli 
+====
+Ochiq kalitli 
+====
+Asimetrik
+++++
+Jumlani to‘ldiring. Agar axborotning o‘g‘irlanishi moddiy va ma’naviy boyliklarning yo‘qotilishiga olib kelsa.
+====
+#jinoyat sifatida baholanadi.
+====
+rag‘bat hisoblanadi.
+====
+buzg‘unchilik hisoblanadi.
+====
+guruhlar kurashi hisoblanadi.
+++++
+Jumlani to‘ldiring. Autentifikatsiya tizimlari asoslanishiga ko‘ra ... turga bo‘linadi.
+====
+#3
+====
+2
+====
+4
+====
+5
+++++
+Jumlani to‘ldiring. Denial of service (DOS) hujumi axborotni .... xususiyatini buzushga qaratilgan.
+====
+#foydalanuvchanlik
+====
+butunlik
+====
+konfidensiallik
+====
+ishonchlilik
+++++
+Jumlani to‘ldiring. Hujumchi kabi fikrlash ... kerak.
+====
+#bo‘lishi mumkin bo‘lgan xavfni oldini olish uchun
+====
+kafolatlangan amallarni ta’minlash uchun
+====
+ma’lumot, axborot va tizimdan foydalanish uchun
+====
+ma’lumotni aniq va ishonchli ekanligini bilish uchun
+++++
+Jumlani to‘ldiring. Kriptografik himoya axborotning ... xususiyatini ta’minlamaydi.
+====
+#Foydalanuvchanlik
+====
+Butunlik
+====
+Maxfiylik
+====
+Autentifikatsiya
+++++
+Jumlani to‘ldiring. Ma’lumotni konfidensialligini ta’minlash uchun ..... zarur.
+====
+#shifrlash
+====
+kodlash
+====
+dekodlash
+====
+deshifrlash
+++++
+Jumlani to‘ldiring. Ma’lumotni uzatishda kriptografik himoya .....
+====
+#konfidensiallik va butunlikni ta’minlaydi.
+====
+konfidensiallik va foydalanuvchanlikni ta’minlaydi.
+====
+foydalanuvchanlik va butunlikni ta’minlaydi.
+====
+konfidensiallik ta’minlaydi.
+++++
+Jumlani to‘ldiring. Parol kalitdan .... farq qiladi.
+====
+#tasodifiylik darajasi bilan
+====
+uzunligi bilan
+====
+belgilari bilan
+====
+samaradorligi bilan
+++++
+Jumlani to‘ldiring. Sezar shifri .... akslantirishga asoslangan.
+====
+#o‘rniga qo‘yish
+====
+o‘rin almashtirish
+====
+ochiq kalitli 
+====
+kombinatsion
+++++
+Jumlani to‘ldiring. Simli va simsiz tarmoqlar orasidagi asosiy farq ...
+====
+#tarmoq chetki nuqtalari orasidagi mutlaqo nazoratlamaydigan xudud mavjudigi.
+====
+tarmoq chetki nuqtalari orasidagi xududning kengligi.
+====
+himoya vositalarining chegaralanganligi.
+====
+himoyani amalga oshirish imkoniyati yo‘qligi.
+++++
+Jumlani to‘ldiring. Tarmoqlararo ekranning vazifasi ...
+====
+#ishonchli va ishonchsiz tarmoqlar orasida ma’lumotlarga kirishni boshqarish.
+====
+tarmoq hujumlarini aniqlash.
+====
+trafikni taqiqlash.
+====
+tarmoqdagi xabarlar oqimini uzish va ulash.
+++++
+Jumlani to‘ldiring. Tizimli fikrlash ... uchun kerak.
+====
+#kafolatlangan amallarni ta’minlash
+====
+bo‘lishi mumkin bo‘lgan xavfni oldini olish 
+====
+ma’lumot, axborot va tizimdan foydalanish
+====
+ma’lumotni aniq va ishonchli ekanligini bilish
+++++
+Kanal sath vazifasi:
+====
+#Yo‘lni aniqlash va mantiqiy manzillash
+====
+Nuqta-nuqta ulanish, ishonchlilik va oqimni nazoratlash
+====
+Fizik manzillash
+====
+Qurilma, signal va binar o‘zgartirishlar
+++++
+Katta hajmga, samarali foydalanishga va alohida avtonom energiya manbasiga ega bo'lgan xotira deyiladi
+====
+# Doimiy xotira
+====
+Ikkilamchi xotira
+====
+Protsessor registrlari
+====
+Elektron disklar
+++++
+Keltirilgan protokollarning qaysilari amaliy sathi protokollariga mansub?
+====
+#NFS, FTP
+====
+TCP,UDP
+====
+10Base-T, 100BaseT
+====
+IP, IPX
+++++
+Keltirilgan protokollarning qaysilari tarmoq sathi protokollariga mansub?
+====
+#IP, IPX
+====
+NFS, FTP
+====
+Ethernet, FDDI
+====
+TCP,UDP
+++++
+Keltirilgan protokollarning qaysilari transport sathi protokollariga mansub?
+====
+#TCP,UDP
+====
+NFS, FTPS
+====
+Ethernet, FDDI
+====
+IP, IPX
+++++
+Keltirilgan texnologiyalarning qaysi birlari global tarmoq texnologiyalariga mansub?
+====
+#ATM, TCP/IP 
+====
+Frame Relay, Token Ring 
+====
+Ethernet, LAN 
+====
+X.25, FDDI
+++++
+Keng polosali abonent tarmog'i texnologiyalarini ko'rsating.
+====
+#xDSL, PON, 3G, 4G, Sputnik
+====
+xDSL, Sputnik
+====
+3G, 4G, Sputnik
+====
+PON
+++++
+Ketma-ket bir-biri bilan bog’langan 3 ta bog’lamlar (oxiri boshi bilan bog’lanmagan) strukturasi qaysi topologiya turiga tegishli? 
+====
+#Umumiy shina
+====
+Xalqa
+====
+To’liq bog’lanishli 
+====
+Yulduz
+++++
+Klient va server qanday ko'rinishda bog'lanishni amalga oshiradi?
+====
+#Dastlab klient serverga so'rov jo'natadi va server so'rovga ishlov berib klientga javob qaytaradi.
+====
+Har ikkalasi baravar so'rov- javob shaklida ishlaydi
+====
+Bunda faqat klient so'rov va javoblarni amalga oshiradi.
+====
+Nuqta ko'rinishida
+++++
+Klient va server qurilmalari qanday topologiyalarda bog'lanishi mumkin?
+====
+#Yulduz, nuqta-nuqta, halqa, shina
+====
+Faqat nuqta- nuqta
+====
+Faqat yulduz
+====
+Yulduz, halqa, shina
+++++
+Klient-server arxitekturasi qanday usullarda quriladi?
+====
+#Klient-server va Peer-to-peer arxitekturalariga asosan
+====
+Klient-server arxitekturasiga asosan
+====
+Peer-to-peer arxitekturasiga asosan
+====
+Xech qanday
+++++
+Klient-server protokollarini ko'rsating.
+====
+#SMTP,DNS
+====
+RIP, SMTP, OSPF
+====
+UDP, POP
+====
+POP. RIP, OSPF
+++++
+Kolliziya hodisasi deb nimaga aytiladi?
+====
+#ikki xil matn uchun bir xil xesh qiymat chiqishi
+====
+ikki xil matn uchun ikki xil xesh qiymat chiqishi
+====
+bir xil matn uchun bir xil xesh qiymat chiqishi
+====
+bir xil matn uchun ikki xil xesh qiymat chiqishi
+++++
+Kommutator ko’prikdan nimasi bilan farq qiladi?
+====
+#Kadrlarni parallel qayta ishlashda
+====
+Tarmoqqa ulanish usulida
+====
+Kadrlarni uzatish algoritmida
+====
+Kadrlarni uzatish usulida
+++++
+Kompyuter internetga ulanishi uchun albatta …… bo’lishi kerak? Nuqtalar o’rniga berilgan so’zni toping?
+====
+#IP manzil
+====
+Web-server
+====
+Bosh veb-sahifa
+====
+Domen nomi
+++++
+Kompyuter orqali kommutatorga murojaat qilib, uni sozlashga imkon beruvchi kabel turini ko‘rsating:
+====
+#Konsol kabel
+====
+Kross-over kabel
+====
+Optik kabel
+====
+Serial kabel
+++++
+Kompyuter tarmog'i protokoli - ...
+====
+#tarmoqdagi ma'lumotlarni qabul qilish va uzatishni, faollashtirishni tartibga soluvchi qoidalar
+====
+tarmoq trafigining texnik tavsiflari
+====
+tarmoq foydalanuvchilari harakatlarini qayd qilish uchun elektron jurnallar
+====
+audit uchun jurnallar
+++++
+Kompyuter tarmog'ining umumiy geometrik tavsifi:
+====
+#Tarmoq topologiyasi
+====
+Tarmoq qurilmasi
+====
+Tarmoq serveri
+====
+Foydalanuvchi tarmog’i
+++++
+Kompyuter tarmog'ining umumlashtirilgan geometrik tavsifi....
+====
+#tarmoq topologiyasi
+====
+tarmoq qurilmalari
+====
+tarmoq serveri
+====
+tarmoq foydalanuvchilari
+++++
+Kompyuter tarmoqlarida xavfsizlikni ta'minlash uchun nima ishlab chiqilishi lozim
+====
+#Xavfsizlik siyosati
+====
+Xavfsizlik xaritasi
+====
+Xavfsizlik qoidalari
+====
+Xavfsizlik talabalari
+++++
+Kompyuter tarmoqlarining asosiy turlari...
+====
+#lokal(mahalliy), global, mintaqaviy
+====
+mijoz, korporativ, xalqaro
+====
+ijtimoiy, ko'ngilochar, biznesga yo'naltirilgan
+====
+biznesga yo'naltirilgan, korporativ, xalqaro
+++++
+Kompyuter tashkil etuvchisi bu
+====
+#Turli xil qurilmalarni boshqarish dasturi
+====
+Multimediya qurilmalarni boshqarish 
+====
+O'yinlarni yaratish dasturi
+====
+Tizimni boshqarish
+++++
+Kompyuter viruslarini tarqalish usullarini ko‘rsating?
+====
+#Ma’lumot saqlovchilari, Internetdan yuklab olish va elektron pochta orqali.
+====
+Ma’lumot saqlovchilari, Internetdan yuklab olish va skaner qurilmalari orqali.
+====
+Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.
+====
+Barcha javoblar to‘g‘ri.
+++++
+Kompyuterni server deb hisoblash mumkinmi?
+====
+#ha
+====
+server deb hisoblash mumkin, lekin qonun bo'yicha bu mumkin emas
+====
+qonun bo'yicha bu mumkin emas
+====
+yo’q
+++++
+Kompyuterning IP manzilini bilish uchun qanday buyruq ishlatiladi?
+====
+#ipconfig
+====
+ifconfig
+====
+Ipconfig/aal
+====
+Show ip address
+++++
+Konfidensiallikni ta’minlash bu - ?
+====
+#ruxsatsiz o‘qishdan himoyalash.
+====
+ruxsatsiz yozishdan himoyalash.
+====
+ruxsatsiz bajarishdan himoyalash.
+====
+ruxsat etilgan amallarni bajarish.
+++++
+Konsentrator (Hub) OSI modelining qaysi sathida ishlaydi?
+====
+#1
+====
+2
+====
+3
+====
+4
+++++
+Konvergent tarmoqlariga misol keltiring.
+====
+# Bluetooth, WiFi va internetga ulangan qurilmalarni o'zaro ma'lumot almashishi
+====
+Faqat Bluetooth qurilmalarini ma'lumot almashishi
+====
+Lokal tarmoqlar
+====
+Shahar tarmoqlari
+++++
+Konvergent tarmoqlariga o'tishning asosiy sababi...
+====
+#Barcha javob to'g'ri 
+====
+Turli standartdagi dasturlarning ishlab chiqarilishi
+====
+Ma'lumot formatlarining turini ko'payib ketishi
+====
+Turli standartdagi qurilmalarning ishlab chiqarilishi
+++++
+Ko'p dasturli va ko'p foydalanuvchili operatsion tizimlar
+====
+# UNIX operatsion tizimlari
+====
+MS DOS
+====
+Win 3x
+====
+Win 2.0.
+++++
+Kriptografik algoritmlardagi zaifliklarni aniqlash va ulardan foydalanish uchun kriptotahlildan foydalanayotgan shaxs:.
+====
+#Kriptotahlilchi
+====
+Shifrlovchi
+====
+Kriptograf
+====
+Deshifrlovchi
+++++
+Kriptografiya so‘ziga berilgan to‘g‘ri tavsifni toping?
+====
+#Maxfiy shifrlarni yaratish fani va sanati.
+====
+Maxfiy shifrlarni yaratish va buzish fani va sanati.
+====
+Maxfiy shifrlarni buzish fani va sanati.
+====
+Axborotni himoyalash fani va sanati.
+++++
+Kriptografiya tarixining 4 ta asosiy bosqichi?
+====
+#Dastlabki, formal, ilmiy, kompyuter
+====
+Dastlabki, informal, texnikaviy, lug’aviy
+====
+Formal, informal, ilmiy, texnikaviy
+====
+Dastlabki, ilmiy, kompyuter, lug’aviy
+++++
+Kriptologiya qanday yo‘nalishlarga bo‘linadi?
+====
+#kriptografiya va kriptotahlil
+====
+kriptografiya va kriptotizim
+====
+kripto va kriptotahlil
+====
+kriptoanaliz va kriptotizim
+++++
+Kriptologiya so‘ziga berilgan to‘g‘ri tavsifni toping?
+====
+#Maxfiy shifrlarni yaratish va buzish fani va sanati.
+====
+Maxfiy shifrlarni yaratish fani va sanati.
+====
+Maxfiy shifrlarni buzish fani va sanati.
+====
+Axborotni himoyalash fani va sanati.
+++++
+Kriptotahlil so‘ziga berilgan to‘g‘ri tavsifni toping?
+====
+#Maxfiy shifrlarni buzish fani va sanati.
+====
+Maxfiy shifrlarni yaratish fani va sanati.
+====
+Maxfiy shifrlarni yaratish va buzish fani va sanati.
+====
+Axborotni himoyalash fani va sanati.
+++++
+Kriptotizimlar kalitlar soni bo‘yicha qanday turga bo‘linadi?
+====
+#simmetrik va assimetrik turlarga
+====
+simmetrik va bir kalitli turlarga
+====
+3 kalitli turlarga
+====
+assimetrik va 2kalitli turlarga
+++++
+Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar ..... .deb ataladi
+====
+# drayverlar
+====
+xizmatchi dasturlar
+====
+plug and play texnоlоgiyasi
+====
+оperatsiоn tizim
+++++
+Legal qanday foydalanuvchi?
+====
+#Qonuniy 
+====
+Mantiqiy
+====
+Noqonuniy
+====
+Sertifikatli
+++++
+Lokal IP manzilini global IP manziliga almashtiruvchi texnologiya qaysi?
+====
+#NAT
+====
+OSI
+====
+protokol
+====
+hash
+++++
+Lokal kompyuter tarmog’i:
+====
+#LAN
+====
+MAN
+====
+WAN
+====
+PAN
+++++
+Lokal tarmoqdagi kompyuterlarni ulash uchun asosan qanday kabel ishlatiladi?
+====
+#O'ralgan juftlik (utp)
+====
+Koaksial kabel
+====
+Optik tola
+====
+Krossover kabel
+++++
+Lokal tarmoqlarda keng tarqalgan topologiya turi qaysi?
+====
+# Yulduz
+====
+Xalqa
+====
+Umumiy shina
+====
+To’liq bog’lanishli
+++++
+LTE va WiMAX texnologiyalari qaysi avlodga tegishli?
+====
+#4G
+====
+3G
+====
+5G
+====
+3,5G
+++++
+Ma’lumot shifrlansa, natijasi .... bo‘ladi.
+====
+#Shifrmatn
+====
+ochiq matn
+====
+nomalum
+====
+kod
+++++
+Ma’lumotlarni uzatish jarayonida ularni to’liq va to’g’ri uzatilishini nazorat qilish vazifalarini OSI modelining qaysi sathi bajaradi?
+====
+#Transport sathi
+====
+Fizik sath
+====
+Tarmoq sathi 
+====
+Kanal sathi
+++++
+Ma’lumotlarni uzatishning optimal marshrutlarini aniqlash vazifalarini OSI modelining qaysi sathi bajaradi?
+====
+#tarmoq sathi
+====
+Аmaliysathi
+====
+Seanslar sathi
+====
+Taqdimlashsathi
+++++
+Ma’lumotlarni zaxira nusxalash strategiyasi nimadan boshlanadi?
+====
+#Zarur axborotni tanlashdan.
+====
+Mos zaxira nusxalash vositasini tanlashdan.
+====
+Mos zaxira nusxalash usulini tanlashdan.
+====
+Mos RAID sathini tanlashdan.
+++++
+Ma’lumotlarniishonchli yetkazib berilishini ta’minlaydigan transport qatlami protokoli qaysi?
+====
+#TCP
+====
+UDP
+====
+FTP
+====
+TFTP
+++++
+Ma’lumotni mavjudligini yashirishda .....
+====
+#steganografik algoritmdan foydalaniladi.
+====
+kriptografik algoritmdan foydalaniladi.
+====
+kodlash algoritmidan foydalaniladi.
+====
+kriptotahlil algoritmidan foydalaniladi.
+++++
+Ma’lumotni shifrlash va deshifrlashda yagona kalitdan foydalanuvchi tizim bu -
+====
+#simmetrik kriptotizim.
+====
+ochiq kalitli kriptotizim.
+====
+asimetrik kriptotizim.
+====
+xesh funksiyalar.
+++++
+Ma’lumotni to‘liq qayta tiklash qachon samarali amalga oshiriladi?
+====
+#Saqlagichda ma’lumot qayta yozilmagan bo‘lsa.
+====
+Ma’lumotni o‘chirish Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.
+====
+Ma’lumotni o‘chirish Shifr+Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.
+====
+Formatlash asosida ma’lumot o‘chirilgan bo‘lsa.
+++++
+MAC manzil qaysi sanoq sistemasida ifodalanadi?
+====
+#16
+====
+8
+====
+10
+====
+12
+++++
+MAC manzilining uzunligi necha baytga teng?
+====
+#6
+====
+3
+====
+8
+====
+4
+++++
+MAC satxi qanday vazifani bajaradi?
+====
+#uzatish muhitiga murojaat qilishni boshqarish 
+====
+stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
+====
+bitlar sathida axborot uzatishni boshqarish 
+====
+bloklar sathida axborot uzatishni boshqarish
+++++
+Mahsulot ishlab chiqarish jadvalini o'g'rilash. Bu qanday tahdid turi?
+====
+#Shpionaj
+====
+Inson xatoliklari
+====
+Sabotaj
+====
+Tabiiy ofatlar
+++++
+Ma'lumotlarni eng kichik birligi nima?
+====
+#bit
+====
+bayt
+====
+megabayt
+====
+gigabayt
+++++
+Ma'lumotlarning xotirada joylashishi
+====
+# Segment
+====
+Yig'ma
+====
+Qatlam
+====
+Sahifa
+++++
+MAN tarmoqlari nima uchun mo’ljallangan?
+====
+#Yirik shaxar axolisiga xizmat ko’rsatish uchun
+====
+Internetga korxonalar tarmoqlarini ulash uchun
+====
+Faqat bir nechta lokal tarmoqlarni bog’lash uchun
+====
+Faqat korporativ tarmoqning filiallarini ulash uchun
+++++
+Manzillarni translatsiya qilish qaysi texnologiya asosida amalga oshiriladi?
+====
+#NAT
+====
+DHCP
+====
+DNS
+====
+ARP
+++++
+Markaziy xab yoki tugun orqali tarmoqni markazlashgan holda boshqarish qaysi tarmoq topologiyasida amalga oshiriladi?
+====
+#Yulduz
+====
+Shina
+====
+Xalqa
+====
+Mesh
+++++
+Marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzutib boruvchi zararli dastur turi bu?
+====
+#Adware.
+====
+Troyan otlari.
+====
+Spyware.
+====
+Backdoors.
+++++
+Marshrutlash protakollari nechta sinfga bo’linadi?
+====
+#2 ta
+====
+3 ta
+====
+4 ta
+====
+6 ta
+++++
+Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi 
+====
+# bir vazifali , ko'p vazifali
+====
+bir vazifali
+====
+ko'p vazifali
+====
+ko'p foydalanuvchi
+++++
+Matn muharriri Word bu
+====
+# amaliy dasturiy
+====
+asоs dasturiy
+====
+xizmatchi dasturiy
+====
+tizimli dasturiy
+++++
+Mijozlar dasturlari bilan o’zaro muloqot vazifalarini OSI modelining qaysi sathi bajaradi?
+====
+#Аmaliy sath
+====
+Seanslarsathi
+====
+Transportsathi
+====
+kanal sathi
+++++
+Mikroyadorli operatsion tizimlarida mikroyadro quyidagi funktsiyalarni o'z ichiga oladi:
+====
+# Minimal talab qilinadigan xususiyatlar
+====
+Operatsion tizimni yuklash funktsiyalari
+====
+Xotirani ajratish funktsiyalari
+====
+Kiritish-chiqarish funktsiyalari
+++++
+Mobil aloqa tarmoqlari tushunchasi nimani anglatadi?
+====
+#Ko'chib yurish ma'nosini
+====
+Simli aloqa ma'nosini
+====
+Simsiz aloqa ma'nosini
+====
+Aralash tarmoq ma'nosini
+++++
+Mobil terminallari qaysi qurilma bilan o'zaro bog'lanib tarmoqqa ulanishni amalga oshiradi?
+====
+#Baza stansiyasi
+====
+Sputnik
+====
+Controller baza stansiyasi
+====
+Switch
+++++
+Modem – bu:
+====
+#Internetga ulanish uchun texnik qurilma
+====
+Tarmoq protokoli
+====
+Pochta dasturi
+====
+Internet serveri
+++++
+Modem qanday asosiy vazifani bajaradi?
+====
+#signallarni modulyatsiyalash - demodulyatsiyalash
+====
+parallel kodni ketma-ket kodga o’zgartirish
+====
+skrembrlash va deskrembrlash  analog signallarni raqamli kodga o’zgartirish
+====
+analog signallarni raqamli kodga o’zgartirish
+++++
+Modulli printsip yordamida yaratilgan operatsion tizimlarda dastur quyidagilardan iborat:
+====
+# Mustaqil qismlardan (modullardan)
+====
+Bitta moduldan
+====
+O'zaro bog'liq bo'lgan bir nechta qismlar
+====
+Ko'p qavatli, o'zaro bog'liq tizim
+++++
+Monolit operatsion tizimlar bu 
+====
+#bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi.
+====
+Faqat sever bilan ishlovchi OT
+====
+Faqat yadro bilan ishlovchi OT
+====
+To'g'ri javob berilmagan
+++++
+Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar
+====
+#rivоjlanish 3-davriga yuzaga keldi
+====
+rivоjlanish 1-davriga yuzaga keldi
+====
+rivоjlanish 4-davriga yu-zaga keldi
+====
+rivоjlanish 2-davriga yu-zaga keldi
+++++
+Multipleksing bu 
+====
+# resurslar ishlashining ketma – ketligi va davomiyligi
+====
+Drayverlar jamlanmasi
+====
+amaliy dasturlar jamlanmasi
+====
+to'g'ri javob berilmagan
+++++
+Multipleksingning ikki xil ko'rinishi bor bular
+====
+# Vaqtinchalik, Ajratilgan xotira
+====
+Ajratilmagan xotira, Doimiy xotira
+====
+Qobiq, Drayverlar
+====
+Interfeyslar, amaliy dasturlar
+++++
+Multipleksorlash qanday ma'noni anglatadi.
+====
+#Zichlashtirish
+====
+Adreslash
+====
+Kuchaytirish
+====
+Ko'paytirish
+++++
+mv buyrug'ug'i qanday vazifani bajaradi?
+====
+# Faylni qayta nomlash, ko’chirib utkazish 
+====
+Faylni o'chirish 
+====
+Katalogni nusxalash
+====
+Katalog yaratish
+++++
+MАC sath osti satxi OSI modelining qaysi sathiga tegishli? 
+====
+#kanal sathiga
+====
+tarmoq sathiga
+====
+fizik sathiga
+====
+transport sathiga
+++++
+MАС- adres qanday uzunlikka ega?
+====
+#48 bit
+====
+32 bit
+====
+16 bit
+====
+64 bit
+++++
+Mоnоlit ОT larda tuzilishi
+====
+#2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
+====
+5 ta satxdan ibоrat
+====
+6 ta satxdan ibоrat (ko'p satxli dastur)
+====
+3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)
+++++
+Natijasi tashkilotning amallariga va funksional harakatlariga zarar keltiruvchi hodisalarning potensial paydo bo‘lishi bu?
+====
+#Tahdid.
+====
+Zaiflik.
+====
+Hujum.
+====
+Aktiv.
+++++
+Nima sababdan sensor qurilmalarida ma'lumot almashish tezligi past?
+====
+#O'kazuvchanlik qobiliyati cheklangan
+====
+Quvvat ta'minoti cheklangan
+====
+Markaziy boshqaruv orqali tezlik pasaytiriladi
+====
+Quvvat ta'minoti cheklanganligi uchun
+++++
+Nima sababdan sensor tarmoqlarining resurslari cheklangan bo'ladi?
+====
+#O'lchami, xotirasi, Quvvati sig'imi
+====
+Resurslari cheklanmagan
+====
+Tezligi pasligi
+====
+Tarmoq mavjud emasligi
+++++
+Nima uchun IoT texnologiyasi ishlab chiqildi?
+====
+#Barcha javob to'g'ri 
+====
+Turli narsa buyumlarni internetga ulab boshqarish
+====
+Turli narsa buyumlarni internetga ulab nazorat qilish 
+====
+Turli narsa buyumlarni internetga ulab monitoring qilish
+++++
+NTFS fayl tizimi
+====
+#Yangi texnologik fayl tizimi
+====
+Juda ishonchli
+====
+disk maydonidan samarali foydalanadi
+====
+To'g'ri javob yo'q
+++++
+NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?
+====
+#16 va 32 
+====
+8 va 16
+====
+32
+====
+16
+++++
+O‘zbekistonda kriptografiya sohasida faoliyat yurituvchi tashkilot nomini ko‘rsating?
+====
+#“UNICON.UZ” DUK
+====
+“O‘zstandart” agentligi
+====
+Davlat Soliq Qo‘mitasi
+====
+Kadastr agentligi
+++++
+O‘zini yaxshi va foydali dasturiy vosita sifatida ko‘rsatuvchi zararli dastur turi bu?
+====
+#Troyan otlari.
+====
+Adware.
+====
+Spyware.
+====
+Backdoors.
+++++
+O’ralma juftlik kabeli simlarini, uning konnektorlariga ulashning necha xil variantlari mavjud?
+====
+#2
+====
+3
+====
+4
+====
+1
+++++
+Ochiq manbali operatsion tizimlarda
+====
+# Tizim kodlari ochiq, istalgan foydalanuvchi uni o'zgartirishi mumkin
+====
+Dastur kodlari ochiq, ammo ularni o'zgartirish mumkin emas
+====
+Tizim kodlari faqat mualliflar uchun ochiq
+====
+Dastur kodlari yopish
+++++
+Ochiq matn qismlarini takroriy shifrlovchi algoritmlar bu -
+====
+#blokli shifrlar
+====
+oqimli shifrlash
+====
+ochiq kalitli shifrlar
+====
+asimmetrik shifrlar
+++++
+Operatsion tizim asoson ... 
+====
+# tizimli dasturlar jamlanmasi
+====
+amalaiy dasturlar jamlanmasi
+====
+multimediyali qurilmalar jamlanmasi
+====
+qobiqdan iborat
+++++
+Operatsion tizim interfeysi bu
+====
+#Foydalanuvchi aloqa o'rnatadigan qulay qobiq-
+====
+Drayverlar jamlanmasi
+====
+Fayl tizimi
+====
+To'g'ri javob berilmagan
+++++
+Operatsion tizim qobiqlari 
+====
+# Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini taminlab beruvchi dasturlar 
+====
+Xotirani boshqarish qurilasi
+====
+Tashqi qurilmani boshqarish qurilmasi
+====
+To'g'ri javob berilmagan
+++++
+Operatsion tizimda hisoblash tizimining tarkibi bu
+====
+#Konfiguratsiya
+====
+Drayverlar
+====
+Aparat vositalar
+====
+amaliy dasturlar
+++++
+Operatsion tizimga qo'yiladigan talablar bular
+====
+#Barcha javoblar to'g'ri
+====
+dasturlar va a'luotlarni himoyalash
+====
+Samaradorlik, Moslashuvchanlik, Yangilanish
+====
+Ishonchlilik, Qulaylilik, aniqlik
+++++
+Operatsion tizimlar tuzilishiga ko'ra sinflanishi 
+====
+# Monolit, ko'p sathli, Klient -Server, Mikro yadroli
+====
+Monolit, Ko'p sathli
+====
+Klient - server
+====
+Mikro yadroli
+++++
+Optik kabelda ma'lumot qanday ko'rinishda uzatiladi?
+====
+#Nur
+====
+Puls
+====
+Chastota
+====
+Harorat
+++++
+Optik tolali Ethernet tarmog’ining maksimal uzunligi qanday?
+====
+#2740m
+====
+500 m
+====
+5000 m
+====
+2500m
+++++
+OSI modeli nechta sathdan iborat?
+====
+#7
+====
+6
+====
+5
+====
+4
+++++
+OSI modelida 1-sathni ko’rsating?
+====
+#Fizik sath
+====
+Tarmoq sathi
+====
+Transport sathi
+====
+Taqdimot sathi
+++++
+OSI modelida 2-sathni ko’rsating?
+====
+#Kanal sathi
+====
+Tarmoq sathi
+====
+Transport sathi
+====
+Taqdimot sathi
+++++
+OSI modelida 3-sathni ko’rsating?
+====
+#Tarmoq sathi
+====
+Transport sathi
+====
+Taqdimot sathi
+====
+Ilova sathi
+++++
+OSI modelida 4-sathni ko’rsating?
+====
+#Transport sathi
+====
+Taqdimot sathi
+====
+Ilova sathi
+====
+Kanal sathi
+++++
+OSI modelida 5-sathni ko’rsating?
+====
+#Seans sathi
+====
+Taqdimot sathi
+====
+Ilova sathi
+====
+Kanal sathi
+++++
+OSI modelida 6-sathni ko’rsating?
+====
+#Taqdimot sathi
+====
+Ilova sathi
+====
+Seans sathi
+====
+Kanal sathi
+++++
+OSI modelida 7-sathni ko’rsating?
+====
+#Ilova sathi
+====
+Taqdimot sathi
+====
+Seans sathi
+====
+Kanal sathi
+++++
+OSI modelidagi qaysi sath IP manzillar bilan ishlaydi?
+====
+#3
+====
+2
+====
+1
+====
+5
+++++
+OSI modelidagi qaysi sath MAC manzillari bilan ishlaydi?
+====
+#1
+====
+2
+====
+3
+====
+4
+++++
+OSI modelining amaliy sathi qanday funktsiyalarni bajaradi?
+====
+#Klient dasturlari bilan o’zaro muloqotda bo’lish
+====
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
+====
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
+====
+Elektr signallarini uzatish va qabul qilish
+++++
+OSI modelining beshinchi satxi qanday nomlanadi?
+====
+#Seanslar sathi
+====
+Transport sathi
+====
+Fizik sath
+====
+Taqdimlashsathi
+++++
+OSI modelining birinchi satxi qanday nomlanadi?
+====
+#Fizik sath
+====
+Transport sathi
+====
+Seanslar sathi
+====
+Taqdimlashsathi
+++++
+OSI modelining fizik sathi qanday funktsiyalarni bajaradi?
+====
+#Elektr signallarini uzatish va qabul qilish
+====
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
+====
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
+====
+Klient dasturlari bilan o’zaro muloqotda bo’lish
+++++
+OSI modelining ikkinchi satxi qanday nomlanadi?
+====
+#kanal sathi
+====
+Аmaliysathi
+====
+Seanslar sathi
+====
+Taqdimlashsathi
+++++
+OSI modelining kanal sathi qaysi funktsiyalarni bajaradi?
+====
+#Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
+====
+Klient dasturlari bilan o’zaro muloqotda bo’lish
+====
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
+====
+Ma’lumotlarni kodlash va shifrlash
+++++
+OSI modelining kanal satxi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
+====
+#Kadr
+====
+Paket
+====
+Segment
+====
+Oqim
+++++
+OSI modelining oltinchi satxi qanday nomlanadi?
+====
+#Taqdimlashsathi
+====
+Аmaliysathi
+====
+Seanslar sathi
+====
+kanal sathi
+++++
+OSI modelining qaysi qatlamida ma'lumotlar freymlar sifatida ifodalanadi?
+====
+#Kanal
+====
+Transport
+====
+Tarmoq
+====
+Taqdimot
+++++
+OSI modelining qaysi sathlari tarmoqqa bog’liq satxlar hisoblanadi?
+====
+#fizik, kanal va tarmoq sathlari
+====
+seans va amaliy sathlar
+====
+amaliy va taqdimlash sathlari
+====
+transport va seans sathlari
+++++
+OSI modelining seanslar sathi qanday funktsiyalarni bajaradi
+====
+#Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
+====
+Klient dasturlari bilan o’zaro muloqotda bo’lish
+====
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishniboshqarish
+====
+Elektr signallarini uzatish va qabul qilish
+++++
+OSI modelining tarmoq sathi qanday funktsiyalarni bajaradi?
+====
+#Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
+====
+Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
+====
+Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
+====
+Elektr signallarini uzatish va qabul qilish
+++++
+OSI modelining tarmoq sathi vazifalari keltirilgan qurilmalarning qaysi birida bajariladi?
+====
+#Marshrutizator
+====
+Ko’prik
+====
+Tarmoq adapter
+====
+Kontsentrator
+++++
+OSI modelining tarmoq satxi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
+====
+#Paket
+====
+Kadr
+====
+Xabar
+====
+Oqim
+++++
+OSI modelining to’rtinchi satxi qanday nomlanadi?
+====
+#Transport sathi
+====
+Аmaliy sath
+====
+Seanslar sathi
+====
+Taqdimlashsathi
+++++
+OSI modelining transport sathi qanday funktsiyalarni bajaradi?
+====
+#Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish 
+====
+Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
+====
+Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
+====
+Klient dasturlari bilan o’zaro muloqotda bo’lish
+++++
+OSI modelining uchinchi satxi qanday nomlanadi?
+====
+#Tarmoq sathi
+====
+Аmaliysathi
+====
+Seanslar sathi
+====
+Taqdimlashsathi
+++++
+OSI modelining yettinchi satxi qanday nomlanadi?
+====
+#Аmaliy sath
+====
+Seanslarsathi
+====
+Transportsathi
+====
+kanal sathi
+++++
+OSI tarmoq modeli nechta sathdan iborat?
+====
+#7
+====
+4
+====
+6
+====
+5
+++++
+Oxirgi tizimlar o'rtasidagi fizik kanal orqali strukturalanmagan bitlar potokini uzatadi. Bu qaysi sathning vazifasi?
+====
+#Fizik sath
+====
+Tarmoq sathi
+====
+Kanal sathi
+====
+Seans sathi
+++++
+O'z resurslarini ommaviy ravishda taqdim etadigan tarmoq operatsion tizimining bir qismi;
+====
+#Server qismi
+====
+mijoz qismi
+====
+Aloqa qismi
+====
+Mahalliy qism
+++++
+O'zaro bog'lanish bo'yicha operatsion tizimlar sinflanishi 
+====
+#bir foydalanuvchi va ko'p foydalanuvchi
+====
+bir vazifali , ko'p vazifali
+====
+ko'p vazifali
+====
+ko'p foydalanuvchi
+++++
+Paket filteri turidagi tarmoqlararo ekran vositasi nima asosida tekshirishni amalga oshiradi?
+====
+#Tarmoq sathi parametrlari asosida.
+====
+Kanal sathi parametrlari asosida.
+====
+Ilova sathi parametrlari asosida.
+====
+Taqdimot sathi parametrlari asosida.
+++++
+Paket filterlari turidagi tarmoqlararo ekran vositasi OSI modelining qaysi sathida ishlaydi?
+====
+#Tarmoq sathida.
+====
+Transport sathida.
+====
+Ilova sathida.
+====
+Kanal sathida.
+++++
+Paketlarni snifferlash, portlarni skanerlash, ping buyrug’ini yuborish qanday hujum turiga misol bo’ladi?
+====
+#Razvedka hujumlari
+====
+Xizmatdan voz kechishga undash hujumlari
+====
+Zararli hujumlar
+====
+Kirish hujumlari
+++++
+Parolga asoslangan autentifikatsiya usulining asosiy kamchiligini ko‘rsating?
+====
+#Esda saqlash zaruriyati.
+====
+Birga olib yurish zaririyati.
+====
+Almashtirib bo‘lmaslik.
+====
+Qalbakilashtirish mumkinligi.
+++++
+PDH texnologiyasining kengaytirilgan ko'rinishini ko'rsating
+====
+#Plesiochronous digital hierarchy
+====
+Personal digital hierarchy
+====
+Plesiochronous hierarchy
+====
+Plesiochronous definition hierarchy
+++++
+Peer-to-Peer arxitekturasiga asoslangan saytini tanlang?
+====
+#Bit-torrent saytlari
+====
+Google
+====
+Yandex
+====
+Barcha qidiruv tizimlariga asoslangan saytlar
+++++
+PON so'zining ma'nosini toping.
+====
+#Passiv opkit tarmog'i
+====
+Shisha tolali optik tarmog'i
+====
+Abonent tarmog'i
+====
+Keng polosali tarmoq
+++++
+POP protokoli qaysi turdagi protokollarni o'z ichiga oladi?
+====
+#pochta protokollari
+====
+internet protokollari
+====
+marshrutlash protokollari
+====
+fayllarni uzatish protokollari
+++++
+POP3 va IMAP4 ma'lumotni ishonchli yetkazib berish uchun transport darajasida qaysi protokolidan foydalanadilar?
+====
+#TCP
+====
+IP
+====
+PPP
+====
+SMTP
+++++
+Port security qaysi tarmoq qurilmalarida sozlanadi?
+====
+#Komutator
+====
+Marshrutizator
+====
+Server
+====
+Hub
+++++
+Port securityni sozlashda qaysi parametrdan foydalaniladi?
+====
+#MAC-manzil
+====
+IP-manzil
+====
+Qurilma nomi
+====
+Keng polosali manzil
+++++
+Portlarni va operatsion tizimni skanerlash razvedka hujumlarining qaysi turida amalga oshiriladi?
+====
+#Aktiv
+====
+Passiv
+====
+DNS izi
+====
+Lug’atga asoslangan
+++++
+Protokol nima ?
+====
+#kompyuter tarmog'i orqali ma’lumotlarni uzatish standarti
+====
+lokal tarmoqda ishlaydigan qurilma
+====
+kompyuterning aloqa kanallari orqali fayllarni yuborish qobiliyati
+====
+elektron pochta orqali xabarlarni yuborish uchun standart
+++++
+Protsessor vaqti:
+====
+#cheklangan resurs
+====
+Cheksiz resurs
+====
+Doimiy manba
+====
+seriyali resurs
+++++
+Qalbakilashtirish hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.
+====
+#Biometrik autentifikatsiya.
+====
+Biror narsani bilishga asoslangan autentifikatsiya.
+====
+Biror narsaga egalik qilishga asoslangan autentifikatsiya.
+====
+Tokenga asoslangan autentifikatsiya
+++++
+Qanday muhitlarda axborot xavfsizligi dajarasi yuqoriroq?
+====
+# Simli va optik
+====
+Simsiz
+====
+Optik va simsiz
+====
+Simsiz va radio
+++++
+Qanday protakol yo’llari ko’rsatilgan ma’lumotlarni tashqi tarmoqqa uzatadi?
+====
+#BBP (bateway to bateway Protocol)
+====
+IBP (Interot bateway Protocol)
+====
+FTP (File Transfer Protocol)
+====
+TCP/IP Ptotocol
+++++
+Qanday qurilmalar orqali foydalanuvchilar tarmoq resurslaridan foydalanishi mumkin?
+====
+#Kompyuter, smartfon va raqamli qurilmalar
+====
+Faqat modem
+====
+Turli kompyuterlar modellari
+====
+Foydalanuvchilar tarmoq resurslaridan foydalana olmaydi
+++++
+Qanday tahdidlar passiv hisoblanadi?
+====
+#Amalga oshishida axborot strukturasi va mazmunida hech narsani o‘zgartirmaydigantahdidlar
+====
+Hech qachon amalga oshirilmaydigan tahdidlar
+====
+Axborot xavfsizligini buzmaydigan tahdidlar
+====
+Texnik vositalar bilan bog‘liq bo‘lgan tahdidlar
+++++
+Qanday tarmoqlar yirik lokal tarmoqlarni birlashtirish uchun foydalanilad? 
+====
+#Territorial magistral tarmoq 
+====
+Magistral tarmoq
+====
+Global tarmoq
+====
+Territorial tarmoq
+++++
+Qayd etish tizimda nima deyiladi?
+====
+#Ma’murlash
+====
+Tasdiqlash
+====
+Tekshirish 
+====
+Yuqotish
+++++
+Qaysi avlod tizimlaridan boshlab operatsion tizimlar o'rnatila boshlagan.
+====
+#2 - avlod
+====
+1 - avlod
+====
+3 - avlod
+====
+4 - avlod
+++++
+Qaysi biometrik parametr eng yuqori takrorlanmaslik xususiyatiga ega?
+====
+#Ko‘z qorachig‘i.
+====
+Yuz tasviri.
+====
+Barmoq izi.
+====
+Qo‘l shakli.
+++++
+Qaysi biometrik parametr eng yuqori universallik xususiyatiga ega?
+====
+#Yuz tasviri.
+====
+Ko‘z qorachig‘i.
+====
+Barmoq izi.
+====
+Qo‘l shakli.
+++++
+Qaysi dastur antivirus emas?
+====
+#Firewall
+====
+Norton Antivirus
+====
+Dr Web
+====
+Avast
+++++
+Qaysi ikkilik sanoq tizimidagi son o‘nlik 151 songa mos keladi?
+====
+#10010111
+====
+10100110
+====
+10101010
+====
+10011011
+++++
+Qaysi kabel odatdagi diametri 1 mm bo'lgan ikkita izolyatsiyalangan mis simlardan iborat?
+====
+#O'ralgan juftlik
+====
+Koaksial
+====
+Optik tolali
+====
+MAREA
+++++
+Qaysi nazorat usuli axborotni fizik himoyalashda inson faktorini mujassamlashtirgan?
+====
+#Ma’muriy nazoratlash.
+====
+Fizik nazoratlash.
+====
+Texnik nazoratlash.
+====
+Apparat nazoratlash.
+++++
+Qaysi ochiq kalitli algoritm katta sonni faktorlash muammosiga asoslanadi?
+====
+#RSA algoritmi.
+====
+El-Gamal algoritmi.
+====
+DES.
+====
+TEA.
+++++
+Qaysi qurilma tarmoqning mantiqiy strukturasini o’zgartirishi mumkin?
+====
+#ko’prik, marshrutizator,kommutator va shlyuz 
+====
+faqat kommutator
+====
+takrorlovchi
+====
+kontsentrator
+++++
+Qaysi sath ikkita o'zaro ishlovchi hostlar o'rtasida aloqani o'rnatish, boshqarish va yakunlash vazifasini bajaradi?
+====
+#Seans sathi
+====
+Kanal satni
+====
+Tarmoq sathi
+====
+Ilova sathi
+++++
+Qaysi tarmoq topologiyasi emas?
+====
+#Jurnal
+====
+Yulduz
+====
+Shina
+====
+Halqa
+++++
+Qaysi turdagi shifrlash vositasida barcha kriptografik parametrlar kompyuterning ishtirokisiz generatsiya qilinadi?
+====
+#Apparat.
+====
+Dasturiy.
+====
+Simmetrik.
+====
+Ochiq kalitli.
+++++
+Qaysi turdagi shifrlash vositasida shifrlash jarayonida boshqa dasturlar kabi kompyuter resursidan foydalanadi?
+====
+#Dasturiy.
+====
+Apparat.
+====
+Simmetrik.
+====
+Ochiq kalitli.
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin
+====
+# NTFS
+====
+JFS
+====
+BFS
+====
+FAT 
+++++
+Qaysi xavfsizlik xizmati xizmatni rad etish hujumlaridan himoyalanish uchun mo'ljallangan?
+====
+#Foydalanuvchanlik
+====
+Konfidensiallik
+====
+Identifikatsiya qilish
+====
+Butunlik
+++++
+Qaysi xususiyatlar RAID texnologiyasiga xos emas?
+====
+#Shaxsiy kompyuterda foydalanish mumkin.
+====
+Serverlarda foydalanish mumkin.
+====
+Xatoliklarni nazoratlash mumkin.
+====
+Disklarni “qaynoq almashtirish” mumkin.
+++++
+Qaysi zaxira nusxalash vositasi oddiy kompyuterlarda foydalanish uchun qo‘shimcha apparat va dasturiy vositani talab qiladi?
+====
+#Lentali disklar.
+====
+Ko‘chma qattiq disklar.
+====
+USB disklar.
+====
+CD/DVD disklar.
+++++
+Qurbon kompyuteridagi ma’lumotni shifrlab, uni deshifrlash uchun to‘lovni amalga oshirishni talab qiluvchi zararli dastur bu-?
+====
+#Ransomware.
+====
+Mantiqiy bombalar.
+====
+Rootkits.
+====
+Spyware.
+++++
+Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo’lgan?
+====
+#global kompyuter tarmoqlari
+====
+lokal kompyuter tarmoqlari
+====
+kampuslar tarmog’i
+====
+korporativ tarmoqlar
+++++
+Quyida keltirilgan qaysi domen nomlari to'g'ri ko'rsatilgan?
+====
+#Barcha domenlar to'g'ri ko'rsatilgan
+====
+tuit.uz, uztelecom.uz, csm.tuit.uz
+====
+facebook.com, ok.ru
+====
+Google.com, Yahoo.com, Bombay.vni.com
+++++
+Quyidagi atamalardan qaysi biri faqat simmetrik blokli shifrlarga xos?
+====
+#Blok uzunligi.
+====
+Kalit uzunligi.
+====
+Ochiq kalit.
+====
+Kodlash jadvali.
+++++
+Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi
+====
+# Paint, Adobe Photoshop 
+====
+Word
+====
+Excel
+====
+MS-DOS, MSX
+++++
+Quyidagi kompyuterlarni ulash sxemalaridan qaysi biri yopiq sxema hisoblanadi?
+====
+#Halqa
+====
+Shina
+====
+Yulduz
+====
+Daraxt
+++++
+Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir
+====
+#MS DOS
+====
+OS / 2
+====
+OS EC
+====
+UNIX
+++++
+Quyidagi qaysi hujum turi razvedka hujumlari turiga kirmaydi?
+====
+#Ddos
+====
+Paketlarni snifferlash
+====
+Portlarni skanerlash
+====
+Ping buyrug‘ini yuborish
+++++
+Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi 
+====
+#UNIX
+====
+MS-DOS, MSX
+====
+ОS YeS, OS/2
+====
+WINDOWS 95
+++++
+Quyidagilardan qaysi biri har ikkala tomonning haqiqiyligini tekshirish jarayonini ifodalaydi?
+====
+#Ikki tomonlama autentifikatsiya.
+====
+Ikki faktorli autentifikatsiya.
+====
+Ko‘p faktorli autentifikatsiya.
+====
+Biometrik autentifikatsiya.
+++++
+Quyidagilardan qaysi biri Linux serveri hisoblanadi
+====
+# Ubuntu, Debian, CentOS 
+====
+Ubuntu, IBMm Debian
+====
+Microsoft, Debian, 
+====
+IBM, Microsoft, Oracle
+++++
+Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi 
+====
+# linux 
+====
+To'g'ri javob berilmagan 
+====
+Windows 
+====
+Solaris
+++++
+Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi
+====
+#Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi
+====
+Amaliy dasturlar, Yadro, Fayl tizimi
+====
+Kamanda prosessori, konfiguratsiya
+====
+To'g'ri javob berilmagan
+++++
+Quyidagilardan qaysi biri rad etishdan himoyani ta’minlaydi.
+====
+#Elektron raqamli imzo tizimi.
+====
+MAC tizimlari.
+====
+Simmetrik shifrlash tizimlari.
+====
+Xesh funksiyalar.
+++++
+Quyidagilardan qaysi biri tabiy tahdidga misol bo‘ladi?
+====
+#Yong‘in, suv toshishi, harorat ortishi.
+====
+Yong‘in, o‘g‘irlik, qisqa tutashuvlar.
+====
+Suv toshishi, namlikni ortib ketishi, bosqinchilik.
+====
+Bosqinchilik, terrorizm, o‘g‘irlik.
+++++
+Quyidagilardan qaysi biri tarmoq xavfsizligi muammolariga sabab bo‘lmaydi?
+====
+#Routerlardan foydalanmaslik.
+====
+Qurilma yoki dasturiy vositani noto‘g‘ri sozlanish.
+====
+Tarmoqni xavfsiz bo‘lmagan tarzda va zaif loyihalash.
+====
+Tug‘ma texnologiya zaifligi.
+++++
+Quyidagilardan qaysi biri to‘liq kompyuter topologiyalarini ifodalamaydi.
+====
+#LAN, GAN, OSI.
+====
+Yulduz, WAN, TCP/IP.
+====
+Daraxt, IP, OSI.
+====
+Shina, UDP, FTP.
+++++
+Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi
+====
+#Solarius, Linux
+====
+Microsoft server 
+====
+PS/OS 
+====
+IBM
+++++
+Quyidagilardan qaysilari ananaviy tarmoq turi hisoblanadi?
+====
+#WAN, MAN, LAN
+====
+OSI, TCP/IP
+====
+UDP, TCP/IP, FTP
+====
+Halqa, yulduz, shina, daraxt
+++++
+Quyidagilardan qaysilari onlayn firibgarlik usuli emas?
+====
+#Texnik qo'llab-quvvatlash
+====
+Karding
+====
+Fishing xabarlari
+====
+Trojon
+++++
+Quyidagilardan qaysilari tarmoq topologiyalari hisoblanadi?
+====
+#Halqa, yulduz, shina, daraxt
+====
+UDP, TCP/IP, FTP
+====
+OSI, TCP/IP
+====
+SMTP, HTTP, UDP
+++++
+Quyidagilarnnig qaysi biri sun’iy tahdidlarga misol bo’la oladi?
+====
+#Bosqinchilik, terrorizm, o‘g‘irlik
+====
+Toshqinlar, zilzila, toshqinlar
+====
+O’g’irlik, toshqinlar, zilzila
+====
+Terorizim, toshqinlar, zilzila
+++++
+Quyidagilarnnig qaysi biri tabiiy tahdidlarga misol bo’la oladi?
+====
+#Toshqinlar, yong’in, zilzila
+====
+Bosqinchilik, terrorizm, o‘g‘irlik
+====
+O’g’irlik, toshqinlar, zilzila
+====
+Terorizim, toshqinlar, zilzila
+++++
+Rad etishdan himoyalashda ochiq kalitli kriptotizimlarning qaysi xususiyati muhim hisoblanadi.
+====
+#Ikkita kalitdan foydalanilgani.
+====
+Matematik muammoga asoslanilgani.
+====
+Ochiq kalitni saqlash zaruriyati mavjud emasligi.
+====
+Shaxsiy kalitni saqlash zarurligi.
+++++
+Raqamli abonent liniyasi tarmoqning qaysi qismiga to'g'ri keladi?
+====
+#Stansiyadan abonentning uyigacha bo'lgan qismi
+====
+Stansiyalararo
+====
+Korporativ
+====
+Abonentning uyi
+++++
+RAS server qaysi dasturiy apparat kompleksdan iborat?
+====
+#Mashrutizator, ko’prik, shlyar
+====
+Local, dasturiy vositalar
+====
+Territol, dasturiy vositalar
+====
+Magistral, dasturiy vositalar
+++++
+Razvedka hujumlari bu?
+====
+#Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
+====
+Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
+====
+Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
+====
+Tizimni fizik buzishni maqsad qiladi.
+++++
+Razvedka hujumlarining turlari?
+====
+#Aktiv va passiv
+====
+Tizimlashgan va tizimlashmagan
+====
+Ichki va tashqi
+====
+Tabiiy va sun’iy
+++++
+RBAC (Role-based access control) bu, 
+====
+#Atributlarga asoslangan foydalanishni boshqarish usuli
+====
+Diskresion foydalanishni boshqarish usuli
+====
+Rolga asoslangan foydalanishni boshqarish usuli
+====
+Mandatli foydalanishni boshqarish usuli
+++++
+RC4shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
+====
+#1
+====
+2
+====
+3
+====
+4
+++++
+Resurslarni samarali boshqarish uchun operatsion tizimlar:
+====
+# Resurslarni rejalashtirish va resurslar holatini kuzatish
+====
+Dasturlarni boshqarish
+====
+Resurslarni ajratish
+====
+Resurslarning holatini kuzatib boring
+++++
+RSA ochiq kalitli shifrlash algoritmi mualliflari ........... bo‘lgan uchta olim sharafiga qo‘yilgan.
+====
+#Ravir, Shamir, Adelman
+====
+Riavir, Shanel, Adleman
+====
+Rivest, Shamir, Adleman
+====
+Rivest, Shamer, Adelman
+++++
+Ruxsatsiz kirishni aniqlash tizimi qisqartirilgan nomini aniqlang ?
+====
+#IDS
+====
+IBD
+====
+ISD
+====
+IIS
+++++
+SCP (secure copy) protokolini vazifasi nima?
+====
+#Fayllarni xavfsiz nusxalash
+====
+Fayllarni o’chirish
+====
+Ma’lumotlarni o’zgartirish
+====
+Fayllarni zaxiralash
+++++
+SDH uzatish tizimlari tarmoqning qaysi qismida foydalaniladi?
+====
+#Shahar tarmoqlarida
+====
+Lokal tamroqlarida
+====
+Global tarmoqlarda
+====
+Istalgan qismida
+++++
+Sensor qurilmalarida qanday muammolar mavjud?
+====
+#Xotira va quvvat ta'minoti, Ish bajarish samaradorligi cheklangan, Xavfsizlik masalasi to'liq hal etilmagan
+====
+Xavfsizlig juda yuqorigi
+====
+Internet bilan ishlay olmasligi
+====
+Elekterni juda kup sarflashi
+++++
+Sensor qurilmalarini asosiy vazifasi nimadan iborat?
+====
+#Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmasiga o'zgarishlarni jo'natish
+====
+Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmaga o'zgarishlarni jo'natish va kerakli buyruqlarni qabul qilish
+====
+Kontroller qurilmasi bilan so'rov-javob shaklida ishlash
+====
+Kontroller qurilmasiga xizmat qiladi
+++++
+Sensor qurilmalarini taqdim etadigan afzalliklari nimadan iborat?
+====
+#Narxi arzon, Raqamli qurilmalar bilan moslashuvchan, Tashib yurish qulay
+====
+Cheksiz mudatda ishlay olish
+====
+Tarmoq bilan bo’g’lanmasli
+====
+Nurlardan foydalanmasligi
+++++
+Sensor qurilmalarni boshqaruvchi qurilma qanday nomlanadi?
+====
+#Kontroller
+====
+Protsessor
+====
+brouzer
+====
+chip
+++++
+Sensor tarmoqlari elementlariga misol keltiring.
+====
+#Aqlli soat, EKG elektrod, gaz sensori
+====
+Aqlli soat, EKG elektrod, web saytlar
+====
+EKG elektrod, gas sensori, simsim sichqoncha
+====
+Barchasi xato
+++++
+Sensor tarmoqlari uchun maxsus operatsion tizim talab etiladimi?
+====
+#Ha
+====
+Yoq
+====
+Ba'zan
+====
+O'zida mavjud bo'ladi
+++++
+Sensor tarmoqlarida axborot xavfsizligi darajasi qay darajada ta'minlangan?
+====
+#Talab darajasida emas
+====
+Yuqori darajada
+====
+Juda past darajada
+====
+Faqat ma'lumotlar shifrlangan
+++++
+Sensor tarmoqlarini qurishda qanday tarmoq topologiyalaridan foydalaniladi?
+====
+#Nuqta- nuqta, chiziqli, gibrid, yulduz, daraxt, mesh
+====
+Faqat Nuqta-nuqta
+====
+Faqat Chiziqli, gibrid
+====
+Hech qanday topologiya qulanilmaydi
+++++
+Shaxsiy simsiz tarmoqlar qo‘llanish sohasini belgilang
+====
+#Tashqi qurilmalar kabellarining o‘rnida
+====
+Binolar va korxonalar va internet orasida belgilangan simsiz bog‘lanish
+====
+Butun dunyo bo‘yicha internetdan foydalanishda
+====
+Simli tarmoqlarni mobil kengaytirish
+++++
+Shifrlash va deshifrlashda turli kalitlardan foydalanuvchi shifrlar bu - 
+====
+#ochiq kalitli shifrlar.
+====
+simmetrik shifrlar.
+====
+bir kalitli shifrlar
+====
+xesh funksiyalar.
+++++
+Signatura (antiviruslarga aloqador bo‘lgan)bu-?
+====
+#Fayldan topilgan bitlar qatori.
+====
+Fayldagi yoki katalogdagi o‘zgarish.
+====
+Normal holatdan tashqari holat.
+====
+Zararli dastur turi.
+++++
+Simmetrik kalitli kriptotizimlar bu?
+====
+#Bir kalitli kriptotizimlar
+====
+Ko‘p kalitli kriptotizimlar
+====
+Assimmetrik kriptotizimlar
+====
+Xesh funksiyalar
+++++
+Simmetrik kriptotizimlarda necha kalitdan foydalaniladi?
+====
+#1 ta
+====
+3 ta
+====
+4 ta
+====
+kalit ishlatilmaydi
+++++
+Simsiz MAN tarmog’lari qanday texnologiyalarda quriladi?
+====
+#WiMAX, LTE, sputnik
+====
+MAN, LAN
+====
+LTE, MAN, LAN, WiMAX
+====
+WiMax, MAN
+++++
+Simsiz sensor tarmoqlari deganda nimani tushunasiz?
+====
+#Atrof muhitdagi holatlarni monitoring qiluvchi va o'zgarishlarni qayt etuvchi qurilmalar
+====
+Atrof muhitdagi holatlarga munosabad bildiruvchi qurilmalar
+====
+Atrof muhitdagi holatlarni o'rganuvchi qurilmalar
+====
+Atrof muhitda ma'lumot etkazuvchi qurilmalar
+++++
+Simsiz tarmoqlar standartlari qaysi komitet tarkibida ishlab chiqilmoqda?
+====
+#802.11
+====
+802.7
+====
+802.6
+====
+802.12
+++++
+Smartfon qurilmalari bir vaqtda ham klient ham server bo'la oladimi?
+====
+#Ha, foydalanilayotgan protokol va ilovaga muvofiq
+====
+Yoq
+====
+Bunaqa bo'lishi mumkin emas
+====
+Hozirda buning imkoniyati mavjud emas
+++++
+SMTP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
+====
+#Simple Massage Transfer Protocol
+====
+Session Mail Transfer Protocol
+====
+Security Mail Transfer Protocol
+====
+Simple Mail Transfer Protocol
+++++
+SNMP nima?
+====
+#Tarmoqni boshqarish protokoli
+====
+Tarmoq xavfsizligini ta'minlovchi protokol
+====
+Amaliy pog'ona protokoli
+====
+Kanal pog'ona protokoli
+++++
+SNMP protokoli OSI modelining qaysi pog'onasida ishlatiladi?
+====
+#Amaliy pog'ona 
+====
+Tarmoq pog'ona 
+====
+Kanal pog'ona 
+====
+Fizik pog'ona
+++++
+SNMP uchun qaysi port belgilangan?
+====
+#UDP 161 va 162 port
+====
+TCP 161 port
+====
+Faqat UDP 161
+====
+Faqat TCP 162
+++++
+Sotsial injineriyaga asoslangan hujumlar qaysi turdagi autentifikatsiya usuliga qaratilgan. 
+====
+#Parolga asoslangan autentifikatsiya.
+====
+Tokenga asoslangan autentifikatsiya.
+====
+Biometrik autentifikatsiya.
+====
+Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+++++
+SSH protokolining vazifasini ko’rsating?
+====
+#Qurilmalarga masofadan bog’lanish
+====
+tashqi tahdidlardan saqlanish vazifasini bajaradi
+====
+ip address ga domen nom berish vazifasini bajaradi
+====
+dhcp vazifasini bajaradi
+++++
+Svоping bu?
+====
+# jarayonlarni asоsiy xоtiradan diskka va оrqaga to'liq o'tkazishdir
+====
+jarayonlarni fleshkaga o'tkazish
+====
+jarayonlarni оperativ xоtirada ushlab turish
+====
+jarayonlarni diskka o'tkazish
+++++
+Switch OSI modelining qaysi sathida ishlaydi?
+====
+#2
+====
+3
+====
+4
+====
+1
+++++
+Syslog-serverning asosiy vazifasi nima?
+====
+#barcha tarmoq qurilmalaridan loglarni markazlashkan yig'ish
+====
+kommutatorlardan va marshrutizatorlardan loglarni yig'ish
+====
+loglarni qurilmalarning bufer xotirasiga saqlash
+====
+loglarni terminalda real vaqtda akslantirish
+++++
+Tarmoq operatsion tizimining masofaviy manbalar va xizmatlarga kirishni ta'minlovchi qismi;
+====
+#Mijozlar qismi
+====
+Server qismi
+====
+Aloqa qismi
+====
+Mahalliy qism
+++++
+Tarmoq operatsion tizimlari ... .. qismlardan iborat
+====
+# To'rt
+====
+Ikki
+====
+Uch
+====
+Besh
+++++
+Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:
+====
+# Bir martalik tarmoq OS va maxsus serverlarga ega OS
+====
+korporativ va mahalliy tarmoq
+====
+LAN va WAN
+====
+Korxona va bo'limlar tarmog'i
+++++
+Tarmoq sath vazifasi:
+====
+#Nuqta-nuqta ulanish, ishonchlilik va oqimni nazoratlash
+====
+Qurilma, signal va binar o‘zgartirishlar
+====
+Yo‘lni aniqlash va mantiqiy manzillash
+====
+Fizik manzillash
+++++
+Tarmoq sathi protokollari qaysi qatorda keltirilgan?
+====
+#IP, ARP, IPSec, ICMP, OSPF
+====
+TCP, ARP, UDP, ICMP, OSPF
+====
+UDP, ARP, IPSec, SIP, FTP
+====
+IP, ARP, PPP, ICMP, TCP
+++++
+Tarmoq sathida xabarlar nima deb nomaladi?
+====
+#paket
+====
+trafik
+====
+protokol
+====
+stek
+++++
+Tarmoq xavfsizligi qanday vositalar orqali ta'minlanadi?
+====
+#Apparat va dasturiy ta'minot vositalari orqali
+====
+Faqat apparat ta'minoti vositalari orqali
+====
+Faqat dasturiy ta'minoti vositalari orqali
+====
+Tarmoq operatorlari orqali
+++++
+Tarmoq xavfsizligini buzulishi biznes faoliyatga qanday ta’sir qiladi?
+====
+#Biznes faoliyatning buzilishi, huquqiy javobgarlikka sababchi bo‘ladi.
+====
+Axborotni o‘g‘irlanishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+====
+Maxfiylikni yo‘qolishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+====
+Huquqiy javobgarlik, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+++++
+Tarmoqni fizik strukturalashda qaysi qurilma ishlatiladi?
+====
+#takrorlovchi (kontsentrator)
+====
+kommutator 
+====
+ko’prik
+====
+shlyuz
+++++
+Tarmoqning tarmoq ichida taqsimlanishi nima deb ataladi?
+====
+#Qism tarmoq(Subnet)
+====
+to'liq tarmoq (Fullnet)
+====
+resurslarni taqsimlash
+====
+yuklamaning taqsimlanishi
+++++
+Tarmoqqa qaratilgan tahdidlar odatda ikki turga ajratiladi:
+====
+#Tabiiy va sun’iy
+====
+Faol va nofaol
+====
+Ichki va tashqi
+====
+Tizimlashgan va tizimlashmagan
+++++
+Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi
+====
+#server qismi
+====
+kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
+====
+klient qismi
+====
+kоmmunikatsiоn vоsitalar
+++++
+Tashqi tahdidlar odatda ikki turga ajratiladi:
+====
+#Tabiiy va sun’iy
+====
+Ichki va tashqi
+====
+Faol va nofaol
+====
+Tizimlashgan va tizimlashmagan
+++++
+Tashqi tarmoqdagi foydalanuvchilardan ichki tarmoq resurslarini himoyalash qaysi himoya vositasining vazifasi hisoblanadi.
+====
+#Tarmoqlararo ekran.
+====
+Antivirus.
+====
+Virtual himoyalangan tarmoq.
+====
+Router.
+++++
+Tasodifiy tahdidlarni ko‘rsating?
+====
+#Texnik vositalarning buzilishi va ishlamasligi.
+====
+Axborotdan ruxsatsiz foydalanish.
+====
+Zararkunanda dasturlar.
+====
+An’anaviy josuslik va diversiya.
+++++
+TCP/IP steki nechta sathga ajratilgan?
+====
+#To’rtta sathga 
+====
+Beshta sathga 
+====
+Ikkta sathga 
+====
+Oltita sathga 
+++++
+TCP/IP tarmoq modeli nechta sathdan iborat?
+====
+#4
+====
+7
+====
+6
+====
+5
+++++
+Telnet qanday protokol?
+====
+#Terminalni emulasiya qilish protokoli
+====
+Fayllarni uzatish protokoli
+====
+Elektron pochtani uzatishning oddiy protokoli
+====
+Gipermatnni uzatish protokoli
+++++
+Tijorat saytlarida oylik zaiflik tekshiruvi qaysi sohalarda o'tkazilishi kerak?
+====
+#Tashkilotning ichki tarmog’ida
+====
+Xavfsizlik devori(firewall) bilan himoyalangan zona ichida
+====
+Mijoz tarmog’ida
+====
+Tashqi mijoz tarmog’ida
+++++
+Tinglash - bu:
+====
+#boshqa birovning suhbatidan ma'lumot olish
+====
+ma'lumotlarni topish uchun fayllarni ko'rib chiqish
+====
+uzatish jarayonida ma’lumotlarni olish
+====
+ma'lumotlarni topish uchun hujjatlarni ko'rish
+++++
+Tizim sozlanmalariga masofadn ulanish protokkollarini ko'rsating?
+====
+#SSH, Telnet
+====
+SSH, RTP
+====
+FTP, LDP
+====
+POP3, LDP
+++++
+Tizim tomonidan foydalanuvchilarga imtiyozlar berish jarayoni bu?
+====
+#Avtorizatsiya.
+====
+Autentifikatsiya.
+====
+Identifikatsiya.
+====
+Ro‘yxatga olish.
+++++
+Tizimli chaqiruv- 
+====
+#Operasion tizim va ishlayotgan dastur orasidagi interfeysni taminlab beradi
+====
+Xotiradan joy ajratib beradi
+====
+Xotirada saqlaydi 
+====
+elektr manbaini ta'inlab beradi
+++++
+Tizimli dasturiy taminоt nechtaga bo'linadi
+====
+# 3
+====
+5
+====
+2
+====
+4
+++++
+To’rtta bir-biri bilan bog’langan bog’lamlar strukturasi (kvadrat shaklida) qaysi topologiya turiga mansub?
+====
+#Xalqa
+====
+Yulduz
+====
+To’liq bog’lanishli
+====
+Yacheykali
+++++
+Tokenga asoslangan autentifikatsiya usulining asosiy kamchiligini ayting?
+====
+#Doimo xavfsiz saqlab olib yurish zaruriyati.
+====
+Doimo esada saqlash zaruriyati.
+====
+Qalbakilashtirish muammosi mavjudligi.
+====
+Almashtirib bo‘lmaslik.
+++++
+Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?
+====
+#Yulduz
+====
+Xalqa
+====
+Umumiy shina
+====
+To’liq bog’lanishli
+++++
+Trafik orqali axborotni to’plashga harakat qilish razvedka hujumlarining qaysi turida amalga oshiriladi?
+====
+#Passiv
+====
+DNS izi
+====
+Lug’atga asoslangan
+====
+Aktiv
+++++
+Transport tarmog'ida oxirgi yillarda eng ko'p foydalanilayotgan uzatish muhitini ko'rsating.
+====
+#Optik muhitlar
+====
+Simli muhitlar
+====
+Simsiz muhitlar
+====
+Temir muhitlar
+++++
+Transport tarmoqlari orqali uzatiladigan ma'lumot birligi nima?
+====
+#Oqimlar
+====
+Signallar
+====
+Ma'lumotlar
+====
+Paketlar
+++++
+Troubleshooting nima uchun ishlatiladi?
+====
+#Tarmoq xatoliklarini topish uchun
+====
+Tarmoqni sozlash uchun
+====
+Filtrlash uchun
+====
+Testlash uchun
+++++
+Troyan dasturlar odatda nima orqali tarqaladi.
+====
+#Internet 
+====
+Fleshka
+====
+Qattiq disk
+====
+Bootsector
+++++
+Tumanli va bulutli texnologiyalarning farqini tushuntirib bering.
+====
+#Tumanli kichik va bulutli katta hududdagi tarmoqlarni qamrab oladi
+====
+Mobillilik darajasi bulutlida cheklangan, tumanlida cheklanmagan
+====
+Bulutli markazlashgan va tumanli taqdimlangan
+====
+Barcha javob to'g'ri
+++++
+Turli tarmoqlar va ularning formatini moslashtirib beruvchi qurilmani ko'rsating
+====
+# Shlyuz
+====
+Kommutator
+====
+Softswitch
+====
+Modem
+++++
+Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan
+====
+# Canonical 
+====
+Microsoft
+====
+IBM 
+====
+Oracle
+++++
+Ulanish tarmoqlarini bog’lashni va yuqori tezlikdagi kanallar orqali trafik tranzitini ta’minlashni, qaysi tarmoq amalga oshiradi?
+====
+#Magistral tarmoq
+====
+Аloqa operatorlari tarmog’i
+====
+Korporativ tarmoq
+====
+Bino tarmog’i
+++++
+Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan
+====
+# AT&T'S Bell laboratories
+====
+IBM laboratories
+====
+PS/OS laboratories
+====
+Solaris laboratories
+++++
+UNIX operatsion tizimining osongina ko'chirilishi yoki ko'chirilish xususiyati sababi
+====
+#Operatsion tizim kodlari yuqori darajadagi tilda yozilgan (masalan, C)
+====
+kodlari assambleya tilida yozilgan
+====
+Ko'p foydalanuvchi tizimi
+====
+Ko'p dasturli tizim
+++++
+Ushbu maskani o‘lik sanoq tizimida ifodalang: 11111111.11111111.11111111.11100000 
+====
+#255.255.255.224
+====
+255.111.111.0
+====
+255.255.255.192
+====
+255.255.255.128
+++++
+Ushbu operatsion tizimlarning qaysi biri ochiq manba hisoblanadi
+====
+#Linux
+====
+MS DOS
+====
+UNIX
+====
+WinXP
+++++
+UTP kabeli deganda qaysi kabel tushuniladi?
+====
+#o’ralma juftlik kabeli
+====
+yo’g’on koaksial kabel
+====
+ingichka koaksial kabel
+====
+optik tolali kabel
+++++
+Vazifalari: uni ko'rish, qo'shish, o'qish, yozish va o'zgartirish (NTFS fayl tizimida) bu 
+====
+# standart qarorlari
+====
+Shaxsiy tasdiqlash
+====
+Maxsus tasdiqlashlar
+====
+Tashqi tasdiqlash
+++++
+Veb-sahifalar quyidagi formatga ega (kengaytma):
+====
+#.HTML
+====
+.DOC
+====
+.ЕХЕ
+====
+.ТХТ
+++++
+Virus, qurt yoki DOS hujumi dasturiy yoki apparat ta'minotni buzadi. Bu qanday tahdid turi?
+====
+#Dasturiy hujumlar
+====
+Sabotaj
+====
+Tabiiy ofatlar
+====
+Shpionaj
+++++
+WAN tarmog'ini yaratish uchun marshrutizatorlarning minimal soni qancha?
+====
+#2
+====
+4
+====
+5
+====
+3
+++++
+WAN, MAN, LAN larni o'sish tartibida joylashtiring?
+====
+#LAN<MAN<WAN
+====
+WAN<CAN<MAN
+====
+WAN <LAN< WAN
+====
+MAN<LAN<WAN
+++++
+WEB-sahifalarni ko'rish uchun nima mo'ljallangan?
+====
+#brauzerlar
+====
+Qidiruv serverlari
+====
+telekonfrensiya
+====
+provayderlar
+++++
+Wi-Fi standartini toping?
+====
+#802.11n
+====
+902.11
+====
+600.11
+====
+702.100
+++++
+Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat
+====
+#jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi
+====
+jarayonlar, virtual xоtira, оb`ektlar dispetcheri
+====
+jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
+====
+lоkal prоtseduralarni chaqirish vоsitalari
+++++
+Windows operatsion tizimida buyruqlar qatorini (cmd) qaysi klavishlar yordamida bosiladi
+====
+# Win + R
+====
+Win + F
+====
+Win + D 
+====
+Win + T
+++++
+Windows operatsion tizimining boshqa operatsion tizimlardan tubdan farqi nimada?
+====
+# GUI va bir nechta dasturlarni ishlatish qobiliyati
+====
+Hisoblashning ishonchliligi
+====
+Buyruq tili yo'qligi
+====
+Dialog operatsiyasi yo'qligi
+++++
+Windows server bu qaysi kompaniyaga tegishli
+====
+#Microsoft
+====
+IBM 
+====
+Unix
+====
+PS/OS
+++++
+Windows server tarmoq operatsion tizimi bo'la oladimi?
+====
+#Ha
+====
+Yoq
+====
+Moslashtirish kerak
+====
+Mumkin emas
+++++
+Windows serverni qaysi tashkilot ishlab chiqqan.
+====
+#Microsoft
+====
+Unix
+====
+Google
+====
+Android
+++++
+Windows ОT larining bоshqa ОТ lardan printsipial farqi
+====
+# grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash 
+====
+dialоgli ish rejimi 
+====
+hisоblashlar ishоnchliligi 
+====
+Kоmanda tili yo'qligi
+++++
+WWW xizmatlaridan foydalanishning asosiy protokoli:
+====
+#HTTP
+====
+TELNET
+====
+FTP
+====
+SMTP
+++++
+Xakerlar tomonidan skanerlashning bunday turini kompaniyalar tomonidan skanerlashdan ajratib bo'lmaydi. Bu:
+====
+#Zaifliklarni skanerlash
+====
+Fayllarni kuzatish
+====
+Troyan dasturlarini skanerlash
+====
+Yashirin skanerlash
+++++
+xDSL texnologiyasi asosida lokal kompyuter tarmoqlarini yuqori tezlikli Internetga ulash mumkinmi?
+====
+#Faqat past tezlikli internetga ulash mumkin
+====
+Yoq
+====
+xDSL internetga ulash texnologiyasi emas
+====
+Hozirda xDSLdan foydalanilmaydi
+++++
+Xesh funksiyalar - .... funksiya.
+====
+#kalitsiz kriptografik
+====
+bir kalitli kriptografik
+====
+ikki kalitli kriptografik
+====
+ko‘p kalitli kriptografik
+++++
+Xodim kompyuterining o'g'irlanishi. Bu qanday tahdid turi?
+====
+#O'g'rilik
+====
+Dasturning buzilishi yoki undagi xatoliklar
+====
+Tabiiy ofatlar
+====
+Shpionaj
+++++
+Xodim tashkilot noutebookini avtoturargohda to'satdan tushirib qo'yishi. Bu qanday tahdid turi?
+====
+#Inson xatoliklari
+====
+Sabotaj
+====
+Tabiiy ofatlar
+====
+Shpionaj
+++++
+Xodimlarga faqat ruxsat etilgan saytlardan foydalanishga imkon beruvchi himoya vositasi bu?
+====
+#Tarmoqlararo ekran.
+====
+VirtualPrivate Network.
+====
+Antivirus.
+====
+Router.
+++++
+Xodimlarga qanday xizmatlar ko'rsatilishiga ruxsat berish kerak?
+====
+#Pochta, shifrlangan pochta, internet
+====
+Telnet, ftp
+====
+NFS, NetBIOS
+====
+Istalgan xizmatlar
+++++
+Xostlar orasida ICMP boshqaruv xabarlari qanday shakllarda almashadi?
+====
+#So'rov- javob shaklida
+====
+Faqat so'rov shaklida
+====
+Faqat javob shaklida
+====
+Xabar almashmaydi
+++++
+Xostlar o'rtasida fayl va ma'lumotlarni almashish uchun qanday protokol ishlatiladi?
+====
+#FTP
+====
+IP
+====
+HTTP
+====
+IPX
+++++
+Xotirani sobit bo'limlarga ajratishda
+====
+# Xotira oldindan aniq o'lchamdagi aniq bo'limlarga bo'linadi
+====
+Ma'lumotlar qismli fayllarga bo'linadi
+====
+Axborot hajmi bo'yicha joylashtirilgan
+====
+Memory sahifalarga bo'lingan
+++++
+Xozirgi paytda ko’p ishlatiladigan, 802.11 standartiga tegishli spetsifikatsiyani ko’rsating
+====
+# a, b, g
+====
+a, b, d
+====
+a, b, c
+====
+a, b, e
+++++
+Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira 
+====
+#prоtsessоr registrlari
+====
+tashqi xоtira 
+====
+elektrоn disklar
+====
+asоsiy xоtira
+++++
+Xоtiraning ma`lumоtlar jоylashadigan bo'limi?
+====
+# segment deyiladi
+====
+stek deyiladi
+====
+sahifa deyiladi
+====
+оverley deyiladi
+++++
+Yaratishda biror matematik muammoga asoslanuvchi shifrlash algoritmini ko‘rsating?
+====
+#Ochiq kalitli shifrlar.
+====
+Simmetrik shifrlar.
+====
+Bloklishifrlar.
+====
+Oqimli shifrlar.
+++++
+Yaxlitlikni ta’minlash bu - ?
+====
+#ruxsatsiz yozishdan himoyalash.
+====
+ruxsatsiz o‘qishdan himoyalash.
+====
+ruxsatsiz bajarishdan himoyalash.
+====
+ruxsat etilgan amallarni bajarish.
+++++
+Yo‘qolgan holatda almashtirish qaysi turdagi autentifikatsiya usuli uchun eng arzon.
+====
+#Parolga asoslangan autentifikatsiya.
+====
+Tokenga asoslangan autentifikatsiya.
+====
+Biometrik autentifikatsiya.
+====
+Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+++++
+Yo’q qilish usullari orasidan ekologik jihatdan ma’qullanmaydigan va maxsus joy talab qiladigan usul qaysi?
+====
+#Yoqish
+====
+Maydalash
+====
+Ko’mish
+====
+Kimyoviy ishlov berish
+++++
+Yong'in, toshqin yoki zilzila ma'lumotlarni yo'q qilishiga sabab bo'ladi. Bu qanday tahdid turi?
+====
+#Tabiiy ofatlar
+====
+Shpionaj
+====
+Inson xatoliklari
+====
+Sabotaj
+++++
+Zaifliklar uchun kriptografik algoritmlarni tahlil qilish san'ati:
+====
+#Kriptotahlil
+====
+Kriptografiya
+====
+Deshifrlash
+====
+Shifrlash
+++++
+Zamonaviy fayllarni boshqarish tizimlari
+====
+# NTFS
+====
+FAT
+====
+Super FAT
+====
+HPFS
+++++
+Zamonaviy operatsion tizimlarda xotira:
+====
+#Har bir segment uchun sahifalar bo'limlari
+====
+O'zgaruvchan bo'limlarda
+====
+segmentlari
+====
+Ruxsat etilgan bo'limlar
+++++
+Zamоnaviy ОT larda xоtira:
+====
+#segment sahifali bo'linadi
+====
+o'zgaruvchan bo'limlarga bo'linadi
+====
+qat`iy bo'limlarga bo'linadi 
+====
+segmentlarga bo'linadi
+++++
+Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?
+====
+#Antivirus
+====
+VPN
+====
+Tarmoqlararo ekran
+====
+Brandmauer
+++++
+Аloqa kanaliga va uzatish muhitiga ulanishni boshqarish vazifalarini OSI modelining qaysi sathi bajaradi?
+====
+#Kanal sathi 
+====
+Fizik sath 
+====
+Tarmoq sathi 
+====
+Transport sathi
+++++
+Еlektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi?
+====
+#Fizik sath
+====
+Seanslarsathi
+====
+Transportsathi
+====
+kanal sathi
+++++
+ЅMTR (Simple Mail Transfer Protocol) qanday protokol?
+====
+#Elektron pochtani uzatishning oddiy protokoli
+====
+Fayllarni uzatish protokoli
+====
+Terminalni emulasiya qilish protokoli
+====
+Gipermatnni uzatish protokoli
+++++
+"O'rtada turgan odam hujumi" qaysi javobda keltirilgan?
+====
+#MiTM
+====
+DoS
+====
+DHCP poisoning
+====
+Resource Attack
+++++
+"Xizmat ko'rsatishdan voz kechish" hujumini toping?
+====
+#DoS
+====
+DHCP poisoning
+====
+Resource Attack
+====
+MiTM
+++++
+... jismoniy topologiya doirasida signallarning harakatini aks ettiradi. Bu qaysi topologiya?
+====
+#Mantiqiy
+====
+Axborotli
+====
+Jismoniy
+====
+Ruxsatli
+++++
+...- qoidalar axborotni faqat qonuniy foydalanuvchilar tomonidan “oʼqilishini” taʼminlaydi.
+====
+#Konfidensiallik
+====
+Yaxlitlik
+====
+Butunlik
+====
+Foydalanuvchanlik
+++++
+...- tugunlar kommunikatsiyaning OSI modelidagi 2 qatlamda ishlovchi tarmoq qurilmalaridir.«aqlli xab» deb ham yuritiladi.
+====
+#Switch
+====
+Hub
+====
+Router
+====
+Repiter
+++++
+.... kriptotizimni shifrlash va deshifrlash uchun sozlashda foydalaniladi.
+====
+#Kriptografik kalit
+====
+Ochiq matn
+====
+Alifbo
+====
+Algoritm
+++++
+.... tarmoq bo'ylab uzatilayotgan axborot oqimini aks ettiradi. Bu qaysi topologiya?
+====
+#Axborotli
+====
+Jismoniy
+====
+Ruxsatli
+====
+Mantiqiy
+++++
+..... axborotni ifodalash uchun foydalaniladigan chekli sondagi belgilar to‘plami.
+====
+#Alifbo
+====
+Ochiq matn
+====
+Shifrmatn
+====
+Kodlash
+++++
+...... shifrlar blokli va oqimli turlarga ajratiladi
+====
+#simmetrik
+====
+ochiq kalitli
+====
+assimetrik
+====
+klassik
+++++
+........... оdatda ikkinchi faktor sifatida foydalaniladi.
+====
+#Smart karta
+====
+One time password (OTP)
+====
+Token
+====
+Kalit
+++++
+............. kriptotizimlarda ma’lumotni shifrlashda va deshifrlashda yagona kalitdan foydalaniladi.
+====
+#Simmetrik
+====
+Assimmetrik
+====
+Affin
+====
+Xesh funksiya
+++++
+............................ - bu maxfiy xabarni soxta xabar ichiga berkitish orqali aloqani yashirish hisoblanadi.
+====
+#Kriptografiya
+====
+Kriptoanaliz
+====
+Stenanografiya
+====
+Xesh funksiya
+++++
+...-ruxsat etilmagan “bajarish” dan himoyalaydi.
+====
+#Butunlik
+====
+Konfidensiallik
+====
+Ochiqlilik
+====
+Foydalanuvchanlik
+++++
+.… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi. 
+====
+#Tarmoqlararo ekran
+====
+Virtual himoyalangan tarmoq
+====
+Global tarmoq
+====
+Korxona tarmog‘i
+++++
+“Yelka orqali qarash” hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.
+====
+#Parolga asoslangan autentifikatsiya.
+====
+Tokenga asoslangan autentifikatsiya.
+====
+Biometrik autentifikatsiya.
+====
+Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+++++
+… - bir ofis, bino ichidagi aloqa tarmogʼi.
+====
+#LAN
+====
+PAN
+====
+GAN
+====
+CAN
+++++
+… - bu da'vo qilingan foydalanuvchi, jarayon yoki qurilmaning haqiqiyligini tekshirish tartibi.
+====
+#autentifikatsiya
+====
+identifikatsiya
+====
+avtorizatsiya
+====
+ma'murlash
+++++
+… tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanadi.
+====
+#ruxsatsiz kirishni aniqlash tizimi yordamida
+====
+tarmoq skanerlari yordamida
+====
+tarmoqlararo ekranlar yordamida
+====
+antivirus yordamida
+++++
+… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi. 
+====
+#Tarmoqlararo ekran
+====
+Virtual himoyalangan tarmoq
+====
+Global tarmoq
+====
+Korxona tarmog‘i
+++++
+1 Gbit/s nimaga teng ?
+====
+#1024 Mbit/s
+====
+1024Mbayt/s
+====
+1024 Kbit/s
+====
+1024 bayt/s
+++++
+1000Base-SX spetsifikatsiya qaysi texnologiyaga tegishli?
+====
+#Gigabit Ethernet
+====
+Ethernet
+====
+Fast Ethernet
+====
+10G Ethernet
+++++
+100Base-SX spetsifikatsiya qaysi texnologiyaga tegishli?
+====
+#Fast Ethernet
+====
+Ethernet
+====
+Gigabit Ethernet
+====
+10G Ethernet
+++++
+100Base-TX spetsifikatsiyasi qaysi texnologiyaga tegishli?
+====
+#Fast Ethernet
+====
+Ethernet
+====
+Gigabit Ethernet
+====
+FDDI
+++++
+10Base 2 segmentining uzunligi ko’pi bilan qancha bo’lishi mumkin?
+====
+#185 metr
+====
+100 metr
+====
+200 metr 
+====
+500 metr
+++++
+12 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?
+====
+#11, 13
+====
+14, 26
+====
+144, 4
+====
+12 dan tashqari barcha sonlar
+++++
+192.190.21.254 adresi IP- adreslarningqaysi sinfiga tegishli?
+====
+#C
+====
+V
+====
+A
+====
+D
+++++
+2 Gbit/s nimaga teng?
+====
+#2048 Mbit/s
+====
+2048Mbayt/s
+====
+2048 Kbit/s
+====
+2048 bayt/s
+++++
+255.0.0.0tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
+====
+#A
+====
+B
+====
+C
+====
+D
+++++
+255.255.0.0tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
+====
+#B
+====
+C
+====
+D
+====
+A
+++++
+255.255.255.0tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
+====
+#C
+====
+A
+====
+B
+====
+D
+++++
+2G va 3G mobil tarmoqlarining farqi nimada?
+====
+#Chastota diapozoni, taqdim etadigan xizmatlari, mobil terminallari, tarmoq elementlari
+====
+foydalanuvchilar soni va taqdim etadigan xizmat turlari bilan farqlanadi
+====
+Farqi yoq, ular bir xil xizmatlarni taqdim etadi.
+====
+To'g'ri javob keltirilmagan.
+++++
+3G texnologiyasi asosida keng polosali abonent tarmog'ini qurish mumkinmi?
+====
+#Ha
+====
+Yoq
+====
+Tajribada qurilmagan
+====
+Kelajakda qurilishi mumkin
+++++
+4 - avlod kampyuterlariga qanday kompyuterlar kiradi
+====
+#Personal va super kompyuterlar
+====
+Lampali 
+====
+Integral sxemali kompyuterlar
+====
+hali yaratilmagan
+++++
+5G tarmoqlarining ma'lumot uzatish tezligi qancha?
+====
+#1 Gbit/s dan katta
+====
+100 Mbit/s dan kichik
+====
+Yuqori tezlikda, aniq tezlik belgilanmagan
+====
+5G tarmog'i hali mavjud emas
+++++
+802.11 spetsifikatsiyasisimsiz lokal tarmog’i diametrining chegaralari qanday?
+====
+#100 -300 m
+====
+50 -100 m
+====
+300 - 400 m
+====
+100 - 200 m
+++++
+9 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?
+====
+#10, 8
+====
+6, 10
+====
+18, 6
+====
+9 dan tashqari barcha sonlar
+++++
+A5/1 oqimli shifrlash algoritmida maxfiy kalit necha registrga bo’linadi?
+====
+#3
+====
+4
+====
+5
+====
+6
+++++
+A5/1 shifri bu - 
+====
+#oqimli shifr.
+====
+blokli shifr.
+====
+ochiq kalitli shifr.
+====
+asimmetrik shifr
+++++
+A5/1shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
+====
+#1
+====
+2
+====
+3
+====
+4
+++++
+AAA serveri qaysi vazifalarni bajaradi?
+====
+#Authentication, Authorization, Accounting
+====
+Authentication, Authorization, Identification
+====
+Authentication, Identification, Accounting
+====
+Identification, Authorization, Accounting
+++++
+ACL da "permit" komandasi nimani bildiradi?
+====
+#ruhsat berish
+====
+rad etish
+====
+kirish ro‘yxati bo‘yicha sharx
+====
+hech nimani anglatmaydi
+++++
+ACL qanday maqsadlarda ishlatiladi?
+====
+#Trafiklarni filtrlaydi
+====
+Trafikni marshrutlaydi
+====
+Kanallarni bog’laydi
+====
+Oqimlarni birlashtiradi
+++++
+ACL ro`yxati tarmoqning qaysi mezonlari bo`yicha trafiklarni filtrlaydi?
+====
+#barcha javoblar to`g`ri
+====
+manba manzili bo`yicha
+====
+port raqami bo`yicha
+====
+qabul qiluvchi manzili bo`yicha
+++++
+AESshifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
+====
+#1
+====
+2
+====
+3
+====
+4
+++++
+Amaliy dasturiy ta`minоt
+====
+# ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur
+====
+hisоblash tizimini nazоrat qiluvchi 
+====
+stastikani оlib beradi 
+====
+qurilmalarni ishlatuvchi
+++++
+Amaliy dasturiy ta`minоt – dasturlari
+====
+# aniq sоxa masalalarini yechishni ta`minlоvchi dastur-lardir
+====
+tizimga xizmat qilu-vchi dasturlar 
+====
+interfeysni ta`minlоvchi dasturlar
+====
+tizimni sоzlоvchi dasturlar
+++++
+Assimetrik kriptotizimlarda necha kalitdan foydalaniladi?
+====
+#2 ta
+====
+3 ta
+====
+4 ta
+====
+kalit ishlatilmaydi
+
